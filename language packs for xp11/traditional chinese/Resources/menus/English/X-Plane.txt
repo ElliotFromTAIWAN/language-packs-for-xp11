@@ -2,102 +2,102 @@ A
 1 file version, leave this alone
 
 0 About
-0   About X-Plane
-1   Instructions
+0   關於 X-Plane
+1   操作說明
 -
 0 File
-300   QuickFlight Setup
+300   快速開始飛行
 301   -
-302   Save Situation
-303   Load Situation
+302   保存情景
+303   加載情景
 304   -
-305   Save Replay
-306   Load Replay
+305   保存回放
+306   加載回放
 307   -
-308   Load Xavion Flight
-309   Load Flight Data Recorder File
+308   加載Xavion飛行
+309   加載飛行數據
 310   -
-311   Take Screenshot
+311   截圖
 312   Toggle AVI Movie
 313   AVI Movie Specs
 314   -
-315   Logbook
+315   日誌
 316   -
-317   Quit
+317   退出
 -
 0 Aircraft
-600   Open Aircraft
+600   開啟飛行器
 601   -
-602   Weight and Fuel
-603   Equipment Failures 
+602   重量以及油量
+603   故障 
 604   Aircraft & Situations 
 605   - 
-606   A.I. Flies Your Aircraft 
-607   A.I. Controls Your Views 
+606   A.I.操控飛機 
+607   A.I.改變視角 
 608   - 
 609   Toggle Puff Smoke 
-610   Cycle 3-D Flight-Path 
-611   Reset 3-D Flight-Path 
+610   Cycle 3-D 飛行路徑 
+611   重置 3-D 飛行路徑 
 612   - 
-613   Toggle Replay Mode 
+613   Toggle 回放模式 
 -
 0 Location
-900   Select Global Airport
-901   Local Map
-902   Planet Map
+900   選擇全球機場
+901   本地地圖
+902   星球地圖
 903   -
-904   Get Me Lost
+904   讓我偏航
 -
 0 Environment
-1200   Weather
-1201   Date & Time
+1200   天氣
+1201   時間
 -
 0 Settings
-1500   Data Input & Output
-1501   Net Connections
+1500   資料匯入或匯出
+1501   鏈接網路
 1502   -
-1503   Joystick & Equipment
-1504   Rendering Options
-1505   Sound
+1503   搖桿以及設備
+1504   渲染選項
+1505   聲音
 1506   -
-1507   Operations & Warnings
+1507   操作和警報
 -
 0 View
-1800   Forwards with Panel
-1801   Forwards with HUD
-1802   Forwards with Nothing
+1800   前進並帶有面板
+1801   前進並帶有抬頭顯示儀
+1802   前進
 1803   -
-1804   3-D Cockpit Command-Look
+1804   3-D駕駛艙命令
 1805   -
 1806   View is Ridealong
-1807   View is Chase
-1808   View is Circle
+1807   追逐視角
+1808   環繞視角
 1809   View is Still Spot
 1810   View is Linear Spot
 1811   -
-1812   View is Beacon Tower
-1813   View is on Runway
-1814   View is on Weapon
-1815   View is Free-Camera
+1812   塔台視角
+1813   跑道視角
+1814   武器視角
+1815   自由視角
 1816   -
-1817   Translate Left
-1818   Translate Right
-1819   Translate Up
-1820   Translate Down
-1821   Translate Fore
-1822   Translate Aft
+1817   往左
+1818   往右
+1819   往上
+1820   往下
+1821   前進
+1822   後退
 1823   -
-1824   Rotate Left
-1825   Rotate Right
-1826   Rotate Up
-1827   Rotate Down
-1828   Zoom In
-1829   Zoom Out
+1824   向左旋轉
+1825   向右旋轉
+1826   向上轉
+1827   向下轉
+1828   放大
+1829   縮小
 1830   -
 1831   Toggle Cinema Verite
-1832   Toggle Sunglasses
+1832   墨鏡
 1833   Toggle Night Vision Goggles
-1834   Toggle Aviation Flashlight
+1834   航空手電筒
 -
 0 Special
 2100   Find Pitch Stability Derivative
