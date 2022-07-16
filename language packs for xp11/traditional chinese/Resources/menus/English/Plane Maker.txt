@@ -2,88 +2,88 @@ A
 1 file version, leave this alone
 
 0 About
-0   About
+0   關於
 -
 0 File
-300   New
-301   Open
+300   新建
+301   開啟
 302   -
-303   Save
-304   Save As
+303   保存
+304   轉存為
 305   -
-306   Quit
+306   退出
 -
 0 Standard
-600   Author
-601   Viewpoint
-602   Limits
-603   Panel: 2-D
-604   Panel: 3-D
+600   作者
+601   觀點
+602   限制
+603   2-D面板
+604   3-D面板
 605   -
-606   Engine Specs
-607   Systems
+606   引擎規格
+607   系統
 608   -
-609   Wings
-610   Misc Wings
-611   Engine Pylons
+609   機翼
+610   輔助機翼
+611   引擎吊架
 612   -
-613   Fuselage
-614   Misc Bodies
-615   Misc Objects
-616   Engine Nacelles
-617   Wheel Fairings/Skids
+613   機身
+614   機體雜項
+615   物體雜項
+616   引擎吊艙
+617   輪罩/剎車
 618   -
-619   Control Geometry
+619   控制幾何
 620   -
-621   Landing Gear
+621   起落架
 622   -
-623   Weight & Balance
+623   重量和平衡
 -
 0 Expert
-900   Airfoils
+900   機翼
 901   -
-902   VTOL or Helo Controls
-903   Special Controls
-904   Special Equipment
+902   VTOL或Helo操控
+903   特殊操控
+904   特殊設備
 905   -
-906   Artificial Stability
+906   人工穩定性
 907   -
-908   Default Weapons
-909   Build Weapons
+908   默認武器
+909   新建武器
 910   -
-911   Visual Texture Regions
-912   Invisible Parts
+911   視覺紋理區域
+912   隱藏的部分
 -
 0 Background
-1200   Top
-1201   Bottom
-1202   Side
-1203   Front
-1204   Back
+1200   頂部
+1201   底部
+1202   側邊
+1203   前方
+1204   後方
 1205   -
-1206   Adjust Heading
-1207   Adjust Heading
-1208   Adjust Roll
-1209   Adjust Roll
+1206   向右轉
+1207   向左轉
+1208   逆時針旋轉
+1209   順時針旋轉
 1210   -
-1211   Move Left
-1212   Move Right
-1213   Move Up
-1214   Move Down
+1211   左移
+1212   右移
+1213   上移
+1214   下移
 1215   -
-1216   Move Left More
-1217   Move Right More
-1218   Move Up More
-1219   Move Down More
+1216   大幅度左移
+1217   大幅度右移
+1218   大幅度上移
+1219   大幅度下移
 1220   -
-1221   Zoom in
-1222   Zoom out
+1221   放大
+1222   縮小
 1223   -
-1224   Zoom in More
-1225   Zoom out More
+1224   大幅度放大
+1225   大幅度縮小
 1226   -
-1227   3-D Quick
-1228   3-D Long
+1227   3-D快速預覽
+1228   3-D預覽
 -
 0 Special
 1500   Ellipse-Smooth Fuselage
@@ -98,20 +98,20 @@ A
 1509   Total-Smooth Wheel Fairings
 1510   Total-Smooth Weapons
 1511   -
-1512   Show With Still / Moving Controls
+1512   顯示所有的運動和控制
 1513   Show With Wireframe / Textures
-1514   Show With Day / Night Textures
+1514   顯示白天或晚上的紋理
 1515   -
-1516   Reload Textures
-1517   Reload Cockpit Object
+1516   重新加載塗裝
+1517   重新加載駕駛艙物件
 1518   Output Texture-Map Starting Points
 1519   Touch-Up Aircraft Textures
 1520   -
-1521   Convert All Aircraft to Latest Format
+1521   將整個飛行器轉換為最新格式
 1522   -
-1523   Generate OBJ from Aircraft
-1524   Generate STL from Aircraft
-1525   Undo
-1526   Redo
-1527   Customize Keys
+1523   從當前飛行器創建OBJ
+1524   從當前飛行器創建STL
+1525   撤銷
+1526   重做
+1527   自定義快捷鍵
 -
