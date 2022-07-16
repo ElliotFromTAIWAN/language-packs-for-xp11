@@ -4,29 +4,29 @@ TRANSLATION
 
 STRING AOA-20====迎角-20
 STRING AOA-180====迎角-180
-STRING Wing L/D====机翼 升阻比
+STRING Wing L/D====機翼 升阻比
 STRING Section====部分
-STRING Do nothing.====什么都不做。
+STRING Do nothing.====什麼都不做。
 STRING Quit X-Plane.====退出 X-PLANE。
 STRING Regenerate weather.====重新生成天气。
-STRING Print longitudinal stability derivative.====显示纵向稳定度导数。
-STRING Print lateral stability derivative.====显示横向稳定度导数。
-STRING Drop a snapshot marker for replay mode.====为回放模式放置快照标记。
-STRING Toggle dev console.====开关开发控制台。
-STRING Toggle full-screen mode.====开关全屏模式。
-STRING Scan real weather files.====扫描真实天气文件。
-STRING Toggle TrackIR control.====开关TrackIR控制。
-STRING Toggle the instructor operator station (IOS) window.====开关教员控制站（IOS）窗口。
-STRING Toggle the low enroute map.====开关低空航路图。
-STRING Toggle the high enroute map.====开关高空航路图。
+STRING Print longitudinal stability derivative.====顯示縱向穩定度導數。
+STRING Print lateral stability derivative.====顯示橫向穩定度導數。
+STRING Drop a snapshot marker for replay mode.====為回放模式放置快照標記。
+STRING Toggle dev console.====開關開發控制台。
+STRING Toggle full-screen mode.====開關全屏模式。
+STRING Scan real weather files.====掃描真實天氣文件。
+STRING Toggle TrackIR control.====開關TrackIR控制。
+STRING Toggle the instructor operator station (IOS) window.====開關教員控制台（IOS）窗口。
+STRING Toggle the low enroute map.====開關低空航路圖。
+STRING Toggle the high enroute map.====開關高空航路圖。
 STRING Toggle the sectional map.====开关区域地图。
-STRING Toggle the Flight Configuration window.====开关飞行配置窗口。
-STRING Toggle the Main Menu screen.====开关主菜单页面。
-STRING Toggle the Settings window.====开关设置窗口。
-STRING Toggle the Keyboard Shortcuts window.====开关键盘快捷键窗口。
-STRING Toggle display of the data output graph.====开关数据输出图表显示。
-STRING Slider #%1:index% On/Off control.====滑块 #%1:index% 开/关控制。
-STRING Fix all failed systems.====修复所有失效系统。
+STRING Toggle the Flight Configuration window.====開關飛行配置窗口。
+STRING Toggle the Main Menu screen.====開關主菜單。
+STRING Toggle the Settings window.====開關設置窗口。
+STRING Toggle the Keyboard Shortcuts window.====開關鍵盤快捷鍵窗口。
+STRING Toggle display of the data output graph.====開關數據輸出圖表顯示。
+STRING Slider #%1:index% On/Off control.====滑塊 #%1:index% 開/關控制。
+STRING Fix all failed systems.====修復所有失效系統。
 STRING Auto-set electrical system for boarding.====自动设定电力系统至登机时状态。
 STRING Auto-start engines to running, real-time.====自动启动引擎至运行，消耗真实时间。
 STRING Engage starters.====接通启动器。
