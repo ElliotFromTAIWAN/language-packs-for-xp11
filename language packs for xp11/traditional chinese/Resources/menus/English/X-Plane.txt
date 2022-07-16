@@ -1,0 +1,126 @@
+A
+1 file version, leave this alone
+
+0 About
+0   About X-Plane
+1   Instructions
+-
+0 File
+300   QuickFlight Setup
+301   -
+302   Save Situation
+303   Load Situation
+304   -
+305   Save Replay
+306   Load Replay
+307   -
+308   Load Xavion Flight
+309   Load Flight Data Recorder File
+310   -
+311   Take Screenshot
+312   Toggle AVI Movie
+313   AVI Movie Specs
+314   -
+315   Logbook
+316   -
+317   Quit
+-
+0 Aircraft
+600   Open Aircraft
+601   -
+602   Weight and Fuel
+603   Equipment Failures 
+604   Aircraft & Situations 
+605   - 
+606   A.I. Flies Your Aircraft 
+607   A.I. Controls Your Views 
+608   - 
+609   Toggle Puff Smoke 
+610   Cycle 3-D Flight-Path 
+611   Reset 3-D Flight-Path 
+612   - 
+613   Toggle Replay Mode 
+-
+0 Location
+900   Select Global Airport
+901   Local Map
+902   Planet Map
+903   -
+904   Get Me Lost
+-
+0 Environment
+1200   Weather
+1201   Date & Time
+-
+0 Settings
+1500   Data Input & Output
+1501   Net Connections
+1502   -
+1503   Joystick & Equipment
+1504   Rendering Options
+1505   Sound
+1506   -
+1507   Operations & Warnings
+-
+0 View
+1800   Forwards with Panel
+1801   Forwards with HUD
+1802   Forwards with Nothing
+1803   -
+1804   3-D Cockpit Command-Look
+1805   -
+1806   View is Ridealong
+1807   View is Chase
+1808   View is Circle
+1809   View is Still Spot
+1810   View is Linear Spot
+1811   -
+1812   View is Beacon Tower
+1813   View is on Runway
+1814   View is on Weapon
+1815   View is Free-Camera
+1816   -
+1817   Translate Left
+1818   Translate Right
+1819   Translate Up
+1820   Translate Down
+1821   Translate Fore
+1822   Translate Aft
+1823   -
+1824   Rotate Left
+1825   Rotate Right
+1826   Rotate Up
+1827   Rotate Down
+1828   Zoom In
+1829   Zoom Out
+1830   -
+1831   Toggle Cinema Verite
+1832   Toggle Sunglasses
+1833   Toggle Night Vision Goggles
+1834   Toggle Aviation Flashlight
+-
+0 Special
+2100   Find Pitch Stability Derivative
+2101   Find Yaw Stability Derivative
+2102   -
+2103   Show   Flight Model
+2104   Output Flight Model
+2105   -
+2106   Open   Text File for Viewing
+2107   Toggle Text File for Viewing
+2108   -
+2109   Open   Checklist for Use
+2110   Toggle Checklist for Use
+2111   -
+2112   Toggle Nearby Air Traffic Controllers Window
+2113   -
+2114   Set Artificial Stab Constants
+2115   Set Autopilot Constants
+2116   Set FADEC Constants
+2117   Show Control Deflections
+2118   Show Bouncers
+2119   Show Weapon Guidance
+2120   Show Projector Setup
+2121   Show Sky Colors
+2122   Show Dev Console
+-

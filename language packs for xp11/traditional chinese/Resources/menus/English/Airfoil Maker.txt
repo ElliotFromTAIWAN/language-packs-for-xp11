@@ -1,0 +1,16 @@
+A
+1 file version, leave this alone
+
+0 About
+0   Version
+-
+0 File
+300   New
+301   Open
+302   Save
+303   Save As
+304   -
+305   Convert All Airfoils to Latest Format
+306   -
+307   Quit
+-

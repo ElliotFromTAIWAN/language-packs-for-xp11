@@ -1,0 +1,117 @@
+A
+1 file version, leave this alone
+
+0 About
+0   About
+-
+0 File
+300   New
+301   Open
+302   -
+303   Save
+304   Save As
+305   -
+306   Quit
+-
+0 Standard
+600   Author
+601   Viewpoint
+602   Limits
+603   Panel: 2-D
+604   Panel: 3-D
+605   -
+606   Engine Specs
+607   Systems
+608   -
+609   Wings
+610   Misc Wings
+611   Engine Pylons
+612   -
+613   Fuselage
+614   Misc Bodies
+615   Misc Objects
+616   Engine Nacelles
+617   Wheel Fairings/Skids
+618   -
+619   Control Geometry
+620   -
+621   Landing Gear
+622   -
+623   Weight & Balance
+-
+0 Expert
+900   Airfoils
+901   -
+902   VTOL or Helo Controls
+903   Special Controls
+904   Special Equipment
+905   -
+906   Artificial Stability
+907   -
+908   Default Weapons
+909   Build Weapons
+910   -
+911   Visual Texture Regions
+912   Invisible Parts
+-
+0 Background
+1200   Top
+1201   Bottom
+1202   Side
+1203   Front
+1204   Back
+1205   -
+1206   Adjust Heading
+1207   Adjust Heading
+1208   Adjust Roll
+1209   Adjust Roll
+1210   -
+1211   Move Left
+1212   Move Right
+1213   Move Up
+1214   Move Down
+1215   -
+1216   Move Left More
+1217   Move Right More
+1218   Move Up More
+1219   Move Down More
+1220   -
+1221   Zoom in
+1222   Zoom out
+1223   -
+1224   Zoom in More
+1225   Zoom out More
+1226   -
+1227   3-D Quick
+1228   3-D Long
+-
+0 Special
+1500   Ellipse-Smooth Fuselage
+1501   Ellipse-Smooth Nacelles
+1502   Ellipse-Smooth Misc Bodies
+1503   Ellipse-Smooth Wheel Fairings
+1504   Ellipse-Smooth Weapons
+1505   -
+1506   Total-Smooth Fuselage
+1507   Total-Smooth Nacelles
+1508   Total-Smooth Misc Bodies
+1509   Total-Smooth Wheel Fairings
+1510   Total-Smooth Weapons
+1511   -
+1512   Show With Still / Moving Controls
+1513   Show With Wireframe / Textures
+1514   Show With Day / Night Textures
+1515   -
+1516   Reload Textures
+1517   Reload Cockpit Object
+1518   Output Texture-Map Starting Points
+1519   Touch-Up Aircraft Textures
+1520   -
+1521   Convert All Aircraft to Latest Format
+1522   -
+1523   Generate OBJ from Aircraft
+1524   Generate STL from Aircraft
+1525   Undo
+1526   Redo
+1527   Customize Keys
+-
