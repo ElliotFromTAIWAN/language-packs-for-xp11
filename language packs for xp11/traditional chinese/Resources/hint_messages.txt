@@ -2,9 +2,9 @@
 
 1. 您可以在免費的 iOS 應用 Xavion 上記錄真實飛機上的飛行，並在 X-Plane 11 中回放。
 
-1. 轉到設置 > 圖形並減少渲染選項設置以提高低配機器的性能。將鼠標懸停在每個滑塊上以查看它們是否會影響 CPU 或 GPU。
+1. 繁體中文由@Elliot CHEN提供，韓語由@Pilot LISA提供。
 
-1. X-Plane 使用稱為“葉片元素理論”的空氣動力學模型。 X-Plane 實際上模擬了模擬飛機機翼表面上的虛擬氣流。
+1. 向在這裡看到你的名字？那就加入我們吧！https://github.com/ElliotFromTAIWAN/language-packs-for-xp11
 
 1. 有數千種免費的第 3 方飛機、風景和其他 X-Plane 增強功能。只需在線搜索“X-Plane 免費飛機”或“X-Plane 免費地景”或“X-Plane 免費插件”。
 
@@ -106,11 +106,11 @@
  
 1. 想嘗試極限挑戰嗎？嘗試著陸航天飛機。前往航班配置 > 位置 > 自定義。單擊特殊開始按鈕並選擇 4 個穿梭入口點之一。您可以從太空完全重新進入，一直到最後進近開始飛行。
 
-1. 將自己綁在 X-Plane 直升機上並降落在浮動石油平台上。前往航班配置 > 位置 > 自定義。單擊“特殊啟動”按鈕並選擇小型或大型石油鑽機方法。
-
 1. 自動終端信息服務（ATIS）連續廣播機場信息。在受控機場聯繫空中交通管制之前，請務必收聽 ATIS 傳輸。塔式機場的 ATIS 頻率可以在航空地圖和機場文件中找到。類似的信息從自動氣象站在一些非塔式機場廣播，稱為 AWOS。
 
 1. 您可以建立自己的 3-D 機場並將其提交以包含在 X-Plane 11 的未來更新中。訪問 X-Plane 風景網關 (gateway.x-plane.com) 了解更多信息。
 
 1. 有興趣讓 X-Plane ATC 發音更好嗎？訪問 x-plane.com/improve-atc/ 獲取說明。
+
+1. 歡迎加入我們的團隊 網址：https://github.com/ElliotFromTAIWAN/language-packs-for-xp11 開發者主頁：https://forums.x-plane.org/index.php?/profile/1156039-elliot-chen/ 感謝@Pilot LISA為這個團隊的付出 @Pilot LISA的主頁：https://forums.x-plane.org/index.php?/profile/1124501-pilot-lisa/
 
