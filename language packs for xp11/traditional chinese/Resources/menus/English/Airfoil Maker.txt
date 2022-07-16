@@ -1,16 +1,16 @@
 A
 1 file version, leave this alone
 
-0 About
-0   Version
+0 關於
+0   版本
 -
-0 File
-300   New
-301   Open
-302   Save
-303   Save As
+0 文件
+300   新建
+301   開啟
+302   保存
+303   轉存為
 304   -
-305   Convert All Airfoils to Latest Format
+305   將所有機翼轉換為最新的格式
 306   -
-307   Quit
+307   退出
 -
