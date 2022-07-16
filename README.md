@@ -13,3 +13,5 @@ X-Plane.txt ------------------------------------ unfinished
 Chinese.txt ------------------------------------ unfinished
 
 hint_messages.txt -------------------------------- finished
+
+korean ------------------------------- by @Pilot LISA (N/A)
