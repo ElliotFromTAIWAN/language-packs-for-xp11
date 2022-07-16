@@ -1,10 +1,10 @@
 A
 1 file version, leave this alone
 
-0 關於
+0 About
 0   版本
 -
-0 文件
+0 File
 300   新建
 301   開啟
 302   保存
