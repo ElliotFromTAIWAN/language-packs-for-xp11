@@ -103,8 +103,8 @@ A
 2100   Find Pitch Stability Derivative
 2101   Find Yaw Stability Derivative
 2102   -
-2103   Show   Flight Model
-2104   Output Flight Model
+2103   顯示飛行模型
+2104   匯出飛行模型
 2105   -
 2106   Open   Text File for Viewing
 2107   Toggle Text File for Viewing
@@ -112,15 +112,15 @@ A
 2109   Open   Checklist for Use
 2110   Toggle Checklist for Use
 2111   -
-2112   Toggle Nearby Air Traffic Controllers Window
+2112   Toggle 附近空管的窗口
 2113   -
 2114   Set Artificial Stab Constants
 2115   Set Autopilot Constants
 2116   Set FADEC Constants
 2117   Show Control Deflections
 2118   Show Bouncers
-2119   Show Weapon Guidance
-2120   Show Projector Setup
-2121   Show Sky Colors
-2122   Show Dev Console
+2119   顯示武器指導
+2120   顯示投影儀設置
+2121   顯示天空顏色
+2122   顯示開發控制台
 -
