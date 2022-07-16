@@ -1,22 +1,22 @@
-1. 使用 X-Plane 的 Control Pad 動態控制天氣、製造飛機故障等。它是來自 Apple App Store 的免費應用程序，可讓您在不暫停模擬的情況下控制 X-Plane。
+1. 使用X-Plane的Control Pad控制天氣、製造飛機故障等。它是Apple App Store的免費應用程序，可讓您在不暫停模擬的情況下控制X-Plane。
 
 1. 您可以在免費的 iOS 應用 Xavion 上記錄真實飛機上的飛行，並在 X-Plane 11 中回放。
 
-1. 轉到設置 > 圖形並減少渲染選項設置以提高慢速機器的性能。將鼠標懸停在每個滑塊上以查看它們是否會影響 CPU 或 GPU。
+1. 轉到設置 > 圖形並減少渲染選項設置以提高低配機器的性能。將鼠標懸停在每個滑塊上以查看它們是否會影響 CPU 或 GPU。
 
-1. X-Plane 使用稱為“葉片元素理論”的空氣動力學模型。 X-Plane 實際上模擬了模擬飛機機翼表面上的虛擬氣流。大多數模擬器使用只能近似正確飛行模型的查表方案。
+1. X-Plane 使用稱為“葉片元素理論”的空氣動力學模型。 X-Plane 實際上模擬了模擬飛機機翼表面上的虛擬氣流。
 
-1. 有數千種免費的第 3 方飛機、風景和其他 X-Plane 增強功能。只需在線搜索“X-Plane 免費軟件”。
+1. 有數千種免費的第 3 方飛機、風景和其他 X-Plane 增強功能。只需在線搜索“X-Plane 免費飛機”或“X-Plane 免費地景”或“X-Plane 免費插件”。
 
 1. 您可以通過選中設置下的數據輸入和輸出屏幕中的第一個框來顯示幀速率。這使您可以微調模擬器的性能。
 
-1. 使用 Plane Maker 打造您自己的定制飛機！它免費提供 X-Plane，位於您的 X-Plane 主文件夾中。
+1. 使用 Plane Maker 打造您自己的飛機！它免費提供，位於您的 X-Plane 主文件夾中。
 
 1. 世界各地的飛行員使用拼音字母：ALPHA BRAVO CHARLIE DELTA ECHO FOXTROT GOLF HOTEL INDIA JULIET KILO LIMA MIKE NOVEMBER OSCAR PAPA QUEBEC ROMEO SIERRA TANGO UNIFORM VICTOR WHISKEY X-RAY YANKEE ZULU
 
 1.對於新的挑戰，嘗試編隊飛行情況。前往 Flight Configuration > Location > Customize > Special Starts 並選擇 Formation Flying。您將獲得一架適合您飛機速度的人工智能飛機。
 
-1、X-Plane有專業版。飛行學校在飛行員培訓中使用它。許多商業駕駛艙模擬器也使用 X-Plane 來驅動他們的儀器和視覺效果。
+1、X-Plane有專業版。飛行學校在飛行員培訓中使用它。許多商業駕駛艙模擬器也使用 X-Plane。
 
 1. 用X-Plane隨時更換你安裝的風景很容易。運行安裝程序並選擇“添加/刪除風景”選項。
 
