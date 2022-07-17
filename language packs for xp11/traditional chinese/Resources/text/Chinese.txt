@@ -97,370 +97,370 @@ STRING Canopy toggle.====開關座艙罩。
 STRING Toggle rotor brake.====開關旋翼制動器。
 STRING Toggle artificial stability power.====開關人工穩定系統。
 STRING Toggle puffers.====開關鉸鏈車。
-STRING Orbital maneuver rockets left.====轨道机动火箭向左。
-STRING Orbital maneuver rockets right.====轨道机动火箭向右。
-STRING Orbital maneuver rockets fore.====轨道机动火箭向前。
-STRING Orbital maneuver rockets aft.====轨道机动火箭向后。
-STRING Select fuel tank left one.====选择左侧一个油箱。
-STRING Select fuel tank right one.====选择右侧一个油箱。
-STRING Fuel pump for tank #%1:index% on.====打开油箱 #%1:index% 油泵。
-STRING Fuel pump for tank #%1:index% off.====关闭油箱 #%1:index% 油泵。
-STRING Set fuel selector to none (shut off).====设定燃油选择器至无（切断）。
-STRING Set fuel selector to left tanks.====设定燃油选择器至左侧油箱。
-STRING Set fuel selector to center tanks.====设定燃油选择器至中央油箱。
-STRING Set fuel selector to right tanks.====设定燃油选择器至右侧油箱。
-STRING Set fuel selector to all tanks.====设定燃油选择器至所有油箱。
-STRING Transfer fuel to left.====向左侧传输燃油。
-STRING Transfer fuel to center.====向中央传输燃油。
-STRING Transfer fuel to right.====向右侧传输燃油。
-STRING Transfer fuel to none.====不传输燃油。
-STRING Transfer fuel from left.====从左侧传输燃油。
-STRING Transfer fuel from center.====从中央传输燃油。
-STRING Transfer fuel from right.====从右侧传输燃油
-STRING Transfer fuel from none.====不传输燃油。
-STRING Cross-feed fuel from left tank.====从左油箱交叉输油。
-STRING Cross-feed fuel off.====关闭燃油交输。
-STRING Cross-feed fuel from right tank.====从右油箱交叉输油。
-STRING Firewall fuel valve left open.====打开左侧防火燃油阀。
-STRING Firewall fuel valve left closed.====关闭左侧防火燃油阀。
-STRING Firewall fuel valve right open.====打开右侧防火燃油阀。
-STRING Firewall fuel valve right closed.====关闭右侧防火燃油阀。
-STRING Fuel pumps on.====打开油泵。
-STRING Fuel pumps off.====关闭油泵。
-STRING Fuel pumps toggle.====开关油泵。
-STRING Fuel pump for engine #%1:index% on.====引擎 #%1:index% 油泵打开。
-STRING Fuel pump for engine #%1:index% off.====引擎 #%1:index% 油泵关闭。
-STRING Fuel pump for engine #%1:index% toggle.====开关引擎 #%1:index% 油泵
-STRING Fuel pump prime for engine #%1:index% on.====优先开启引擎 #%1:index% 油泵。
-STRING Cross-tie on.====开启交叉连接。
-STRING Cross-tie off.====关闭交叉连接。
-STRING Cross-tie toggle.====开关交叉连接。
-STRING Inverters on.====开启变流机。
-STRING Inverters off.====关闭变流机。
-STRING Inverters toggle.====开关变流机。
-STRING Inverter 1 on.====打开1号变流机。
-STRING Inverter 1 off.====关闭1号变流机。
-STRING Inverter 1 toggle.====开关1号变流机。
-STRING Inverter 2 on.====打开2号变流机。
-STRING Inverter 2 off.====关闭2号变流机。
-STRING Inverter 2 toggle.====开关2号变流机。
-STRING Batteries all toggle.====开关所有电池。
-STRING Battery 1 on.====打开1号电池。
-STRING Battery 2 on.====打开2号电池。
-STRING Battery 1 off.====关闭1号电池。
-STRING Battery 2 off.====关闭2号电池。
-STRING Battery 1 toggle.====开关1号电池。
-STRING Battery 2 toggle.====开关2号电池。
-STRING Generators all toggle.====开关所有发电机。
-STRING Generator #%1:index% off.====关闭 #%1:index% 号发电机。
-STRING Generator #%1:index% on.====打开 #%1:index% 号发电机。
-STRING Generator #%1:index% toggle.====开关 #%1:index% 号发电机。
-STRING Generator #%1:index% reset.====重置 #%1:index% 号发电机。
-STRING APU start.====启动APU。
-STRING APU on.====打开APU。
-STRING APU off.====关闭APU。
-STRING APU generator on.====打开APU发电机。
-STRING APU generator off.====关闭APU发电机。
-STRING GPU on.====打开GPU。
-STRING GPU off.====关闭GPU。
-STRING GPU toggle.====开关GPU。
-STRING Nav lights on.====打开导航灯。
-STRING Nav lights off.====关闭导航灯。
-STRING Nav lights toggle.====开关导航灯。
-STRING Beacon lights on.====打开信标灯。
-STRING Beacon lights off.====关闭信标灯。
-STRING Beacon lights toggle.====开关信标灯。
-STRING Strobe lights on.====打开频闪灯。
-STRING Strobe lights off.====关闭频闪灯。
-STRING Strobe lights toggle.====开关频闪灯。
-STRING Taxi lights on.====打开滑行灯。
-STRING Taxi lights off.====关闭滑行灯。
-STRING Taxi lights toggle.====开关滑行灯。
-STRING Landing lights on.====打开着陆灯。
-STRING Landing lights off.====关闭着陆灯。
-STRING Landing lights toggle.====开关着陆灯。
-STRING Landing light 01 on.====着陆灯01开启
-STRING Landing light 02 on.====着陆灯02开启
-STRING Landing light 03 on.====着陆灯03开启
-STRING Landing light 04 on.====着陆灯04开启
-STRING Landing light 05 on.====着陆灯05开启
-STRING Landing light 06 on.====着陆灯06开启
-STRING Landing light 07 on.====着陆灯07开启
-STRING Landing light 08 on.====着陆灯08开启
-STRING Landing light 09 on.====着陆灯09开启。
-STRING Landing light 10 on.====着陆灯10开启。
-STRING Landing light 11 on.====着陆灯11开启。
-STRING Landing light 12 on.====着陆灯12开启。
-STRING Landing light 13 on.====着陆灯13开启。
-STRING Landing light 14 on.====着陆灯14开启。
-STRING Landing light 15 on.====着陆灯15开启。
-STRING Landing light 16 on.====着陆灯16开启。
-STRING Landing light 01 off.====着陆灯01关闭。
-STRING Landing light 02 off.====着陆灯02关闭。
-STRING Landing light 03 off.====着陆灯03关闭。
-STRING Landing light 04 off.====着陆灯04关闭。
-STRING Landing light 05 off.====着陆灯05关闭。
-STRING Landing light 06 off.====着陆灯06关闭。
-STRING Landing light 07 off.====着陆灯07关闭。
-STRING Landing light 08 off.====着陆灯08关闭。
-STRING Landing light 09 off.====着陆灯09关闭。
-STRING Landing light 10 off.====着陆灯10关闭。
-STRING Landing light 11 off.====着陆灯11关闭。
-STRING Landing light 12 off.====着陆灯12关闭。
-STRING Landing light 13 off.====着陆灯13关闭。
-STRING Landing light 14 off.====着陆灯14关闭。
-STRING Landing light 15 off.====着陆灯15关闭。
-STRING Landing light 16 off.====着陆灯16关闭。
-STRING Landing light 01 toggle.====着陆灯01开关
-STRING Landing light 02 toggle.====着陆灯02开关
-STRING Landing light 03 toggle.====着陆灯03开关
-STRING Landing light 04 toggle.====着陆灯04开关
-STRING Landing light 05 toggle.====着陆灯05开关
-STRING Landing light 06 toggle.====着陆灯06开关
-STRING Landing light 07 toggle.====着陆灯07开关
-STRING Landing light 08 toggle.====着陆灯08开关
-STRING Landing light 09 toggle.====着陆灯09开关
-STRING Landing light 10 toggle.====着陆灯10开关
-STRING Landing light 11 toggle.====着陆灯11开关
-STRING Landing light 12 toggle.====着陆灯12开关
-STRING Landing light 13 toggle.====着陆灯13开关
-STRING Landing light 14 toggle.====着陆灯14开关
-STRING Landing light 15 toggle.====着陆灯15开关
-STRING Landing light 16 toggle.====着陆灯16开关
-STRING Generic light 01 toggle.====通用灯01开关
-STRING Generic light 02 toggle.====通用灯02开关
-STRING Generic light 03 toggle.====通用灯03开关
-STRING Generic light 04 toggle.====通用灯04开关
-STRING Generic light 05 toggle.====通用灯05开关
-STRING Generic light 06 toggle.====通用灯06开关
-STRING Generic light 07 toggle.====通用灯07开关
-STRING Generic light 08 toggle.====通用灯08开关
-STRING Generic light 09 toggle.====通用灯09开关
-STRING Generic light 10 toggle.====通用灯10开关
-STRING Generic light 11 toggle.====通用灯11开关
-STRING Generic light 12 toggle.====通用灯12开关
-STRING Generic light 13 toggle.====通用灯13开关
-STRING Generic light 14 toggle.====通用灯14开关
-STRING Generic light 15 toggle.====通用灯15开关
-STRING Generic light 16 toggle.====通用灯16开关
-STRING Generic light 17 toggle.====通用灯17开关
-STRING Generic light 18 toggle.====通用灯18开关
-STRING Generic light 19 toggle.====通用灯19开关
-STRING Generic light 20 toggle.====通用灯20开关
-STRING Generic light 21 toggle.====通用灯21开关
-STRING Generic light 22 toggle.====通用灯22开关
-STRING Generic light 23 toggle.====通用灯23开关
-STRING Generic light 24 toggle.====通用灯24开关
-STRING Generic light 25 toggle.====通用灯25开关
-STRING Generic light 26 toggle.====通用灯26开关
-STRING Generic light 27 toggle.====通用灯27开关
-STRING Generic light 28 toggle.====通用灯28开关
-STRING Generic light 29 toggle.====通用灯29开关
-STRING Generic light 30 toggle.====通用灯30开关
-STRING Generic light 31 toggle.====通用灯31开关
-STRING Generic light 32 toggle.====通用灯32开关
-STRING Generic light 33 toggle.====通用灯33开关
-STRING Generic light 34 toggle.====通用灯34开关
-STRING Generic light 35 toggle.====通用灯35开关
-STRING Generic light 36 toggle.====通用灯36开关
-STRING Generic light 37 toggle.====通用灯37开关
-STRING Generic light 38 toggle.====通用灯38开关
-STRING Generic light 39 toggle.====通用灯39开关
-STRING Generic light 40 toggle.====通用灯40开关
-STRING Generic light 41 toggle.====通用灯41开关
-STRING Generic light 42 toggle.====通用灯42开关
-STRING Generic light 43 toggle.====通用灯43开关
-STRING Generic light 44 toggle.====通用灯44开关
-STRING Generic light 45 toggle.====通用灯45开关
-STRING Generic light 46 toggle.====通用灯46开关
-STRING Generic light 47 toggle.====通用灯47开关
-STRING Generic light 48 toggle.====通用灯48开关
-STRING Generic light 49 toggle.====通用灯49开关
-STRING Generic light 50 toggle.====通用灯50开关
-STRING Generic light 51 toggle.====通用灯51开关
-STRING Generic light 52 toggle.====通用灯52开关
-STRING Generic light 53 toggle.====通用灯53开关
-STRING Generic light 54 toggle.====通用灯54开关
-STRING Generic light 55 toggle.====通用灯55开关
-STRING Generic light 56 toggle.====通用灯56开关
-STRING Generic light 57 toggle.====通用灯57开关
-STRING Generic light 58 toggle.====通用灯58开关
-STRING Generic light 59 toggle.====通用灯59开关
-STRING Generic light 60 toggle.====通用灯60开关
-STRING Generic light 61 toggle.====通用灯61开关
-STRING Generic light 62 toggle.====通用灯62开关
-STRING Generic light 63 toggle.====通用灯63开关
-STRING Generic light 64 toggle.====通用灯64开关
-STRING Spot lights off.====聚光灯光关闭。
-STRING Spot lights toggle.====聚光灯开关
-STRING Bleed air off.====关闭引气。
-STRING Bleed air from left engine.====从左引擎引气
-STRING Bleed air from right engine.====从右引擎引气
-STRING Bleed air left engine instruments only.====左引擎引气专用仪表
-STRING Bleed air right engine instruments only.====右引擎引气专用仪表
-STRING Pressurization test.====加压测试
-STRING Dump pressurization on.====开启加压释放。
-STRING Dump pressurization off.====关闭加压释放。
-STRING Cabin vertical speed down.====客舱垂直升降速度减小
-STRING Cabin vertical speed up.====客舱垂直升降速度增加
-STRING Cabin altitude down.====客舱高度降低
-STRING Cabin altitude up.====客舱高度升高
-STRING Toggle alternate static port.====备用静压口开关
-STRING Anti-ice: left pitot heat on.====防冰：左皮托管加热开启。
-STRING Anti-ice: right pitot heat on.====防冰：右皮托管加热开启。
-STRING Anti-ice: left pitot heat off.====防冰：左皮托管加热关闭。
-STRING Anti-ice: right pitot heat off.====防冰：右皮托管加热关闭。
-STRING Anti-ice: left pitot heat toggle.====防冰：右皮托管加热开关
-STRING Anti-ice: right pitot heat toggle.====防冰：右皮托管加热开关
-STRING Anti-ice: left static heat on.====防冰：左静压管加热开启。
-STRING Anti-ice: right static heat on.====防冰：右静压管加热开启。
-STRING Anti-ice: left static heat off.====防冰：左静压管加热关闭。
-STRING Anti-ice: right static heat off.====防冰：右静压管加热关闭。
-STRING Anti-ice: AOA on.====防冰：迎角传感器开启。
-STRING Anti-ice: AOA off.====防冰：迎角传感器关闭。
-STRING Anti-ice: AOA toggle.====防冰：迎角传感器开关
-STRING Anti-ice: engine #%1:index% inlet heat on.====防冰：引擎#%1:index%进气道加热开启。
-STRING Anti-ice: engine #%1:index% inlet heat off.====防冰：引擎#%1:index%进气道加热关闭。
-STRING Anti-ice: engine #%1:index% inlet heat toggle.====防冰：引擎#%1:index%进气道加热开关
-STRING Anti-ice: engine #%1:index% prop heat on.====防冰：引擎#%1:index%桨叶加热开启。
-STRING Water or Nitrous engine BOOST.====水或氮为引擎增压。
-STRING Ignite JATO.====起飞助推器点火。
-STRING Deploy/jettison chute.====放出/投下 降落伞
-STRING Re-arm aircraft to default specs.====补充飞机装备到默认规格
-STRING Weapon single/pair/ripple/salvo down.====武器向下 单个/两个/连射/齐射。
-STRING Fire selected weapon.====发射所选的武器。
-STRING Target camera pointer in GPS.====目标相机GPS指示
-STRING Deploy chaff.====放出干扰弹
-STRING Deploy flares.====放出照明弹
-STRING Load previous livery.====加载前一个涂装
-STRING Load next livery.====加载下一个涂装
-STRING Toggle seatbelt sign.====安全带指示灯开关
-STRING Toggle smoking sign.====禁止吸烟指示灯开关
-STRING Aim spotlight left.====瞄准聚光灯向左
-STRING Aim spotlight right.====瞄准聚光灯向右
-STRING Aim spotlight up.====瞄准聚光灯向上
-STRING Aim spotlight down.====瞄准聚光灯向下
-STRING Aim spotlight to center.====瞄准聚光灯回中
-STRING Door #%1:index% open.====#%1:index%号门开启
-STRING Door #%1:index% close.====#%1:index%号门关闭
+STRING Orbital maneuver rockets left.====軌道機動火箭向左。
+STRING Orbital maneuver rockets right.====軌道機動火箭向右。
+STRING Orbital maneuver rockets fore.====軌道機動火箭向前。
+STRING Orbital maneuver rockets aft.====軌道機動火箭向後。
+STRING Select fuel tank left one.====選擇左側一個油箱。
+STRING Select fuel tank right one.====選擇右側一個油箱。
+STRING Fuel pump for tank #%1:index% on.====打開油箱 #%1:index% 油泵。
+STRING Fuel pump for tank #%1:index% off.====關閉油箱 #%1:index% 油泵。
+STRING Set fuel selector to none (shut off).====設定燃油選擇器至無（切斷）。
+STRING Set fuel selector to left tanks.====設定燃油選擇器至左側油箱。
+STRING Set fuel selector to center tanks.====設定燃油選擇器至中央油箱。
+STRING Set fuel selector to right tanks.====設定燃油選擇器至右側油箱。
+STRING Set fuel selector to all tanks.====設定燃油選擇器至所有油箱。
+STRING Transfer fuel to left.====向左側傳輸燃油。
+STRING Transfer fuel to center.====向中央傳輸燃油。
+STRING Transfer fuel to right.====向右側傳輸燃油。
+STRING Transfer fuel to none.====不傳輸燃油。
+STRING Transfer fuel from left.====从左側傳輸燃油。
+STRING Transfer fuel from center.====从中央傳輸燃油。
+STRING Transfer fuel from right.====从右側傳輸燃油
+STRING Transfer fuel from none.====不傳輸燃油。
+STRING Cross-feed fuel from left tank.====从左油箱交叉輸油。
+STRING Cross-feed fuel off.====關閉燃油交輸。
+STRING Cross-feed fuel from right tank.====从右油箱交叉輸油。
+STRING Firewall fuel valve left open.====打開左側防火燃油閥。
+STRING Firewall fuel valve left closed.====關閉左側防火燃油閥。
+STRING Firewall fuel valve right open.====打開右側防火燃油閥。
+STRING Firewall fuel valve right closed.====關閉右側防火燃油閥。
+STRING Fuel pumps on.====打開油泵。
+STRING Fuel pumps off.====關閉油泵。
+STRING Fuel pumps toggle.====開關油泵。
+STRING Fuel pump for engine #%1:index% on.====引擎 #%1:index% 油泵打開。
+STRING Fuel pump for engine #%1:index% off.====引擎 #%1:index% 油泵關閉。
+STRING Fuel pump for engine #%1:index% toggle.====開關引擎 #%1:index% 油泵
+STRING Fuel pump prime for engine #%1:index% on.====優先開啟引擎 #%1:index% 油泵。
+STRING Cross-tie on.====開啟交叉連接。
+STRING Cross-tie off.====關閉交叉連接。
+STRING Cross-tie toggle.====開關交叉連接。
+STRING Inverters on.====開啟變流機。
+STRING Inverters off.====關閉變流機。
+STRING Inverters toggle.====開關變流機。
+STRING Inverter 1 on.====打開1號變流機。
+STRING Inverter 1 off.====關閉1號變流機。
+STRING Inverter 1 toggle.====開關1號變流機。
+STRING Inverter 2 on.====打開2號變流機。
+STRING Inverter 2 off.====關閉2號變流機。
+STRING Inverter 2 toggle.====開關2號變流機。
+STRING Batteries all toggle.====開關所有電池。
+STRING Battery 1 on.====打開1號電池。
+STRING Battery 2 on.====打開2號電池。
+STRING Battery 1 off.====關閉1號電池。
+STRING Battery 2 off.====關閉2號電池。
+STRING Battery 1 toggle.====開關1號電池。
+STRING Battery 2 toggle.====開關2號電池。
+STRING Generators all toggle.====開關所有發電機。
+STRING Generator #%1:index% off.====關閉 #%1:index% 號發電機。
+STRING Generator #%1:index% on.====打開 #%1:index% 號發電機。
+STRING Generator #%1:index% toggle.====開關 #%1:index% 號發電機。
+STRING Generator #%1:index% reset.====重製 #%1:index% 號發電機。
+STRING APU start.====啟動APU。
+STRING APU on.====打開APU。
+STRING APU off.====關閉APU。
+STRING APU generator on.====打開APU發電機。
+STRING APU generator off.====關閉APU發電機。
+STRING GPU on.====打開GPU。
+STRING GPU off.====關閉GPU。
+STRING GPU toggle.====開關GPU。
+STRING Nav lights on.====打開導航燈。
+STRING Nav lights off.====關閉導航等。
+STRING Nav lights toggle.====開關導航燈。
+STRING Beacon lights on.====打開信標燈。
+STRING Beacon lights off.====關閉信標燈。
+STRING Beacon lights toggle.====開關信標燈。
+STRING Strobe lights on.====開關頻閃燈。
+STRING Strobe lights off.====關閉頻閃燈。
+STRING Strobe lights toggle.====開關頻閃燈。
+STRING Taxi lights on.====打開滑行燈。
+STRING Taxi lights off.====關閉滑行燈。
+STRING Taxi lights toggle.====開關滑行燈。
+STRING Landing lights on.====打開著陸燈。
+STRING Landing lights off.====關閉著路燈。
+STRING Landing lights toggle.====開關著陸燈。
+STRING Landing light 01 on.====著陸燈01開啟
+STRING Landing light 02 on.====著陸燈02開啟
+STRING Landing light 03 on.====著陸燈03開啟
+STRING Landing light 04 on.====著陸燈04開啟
+STRING Landing light 05 on.====著陸燈05開啟
+STRING Landing light 06 on.====著陸燈06開啟
+STRING Landing light 07 on.====著陸燈07開啟
+STRING Landing light 08 on.====著陸燈08開啟
+STRING Landing light 09 on.====著陸燈09開啟。
+STRING Landing light 10 on.====著陸燈10開啟。
+STRING Landing light 11 on.====著陸燈11開啟。
+STRING Landing light 12 on.====著陸燈12開啟。
+STRING Landing light 13 on.====著陸燈13開啟。
+STRING Landing light 14 on.====著陸燈14開啟。
+STRING Landing light 15 on.====著陸燈15開啟。
+STRING Landing light 16 on.====著陸燈16開啟。
+STRING Landing light 01 off.====著陸燈01關閉。
+STRING Landing light 02 off.====著陸燈02關閉。
+STRING Landing light 03 off.====著陸燈03關閉。
+STRING Landing light 04 off.====著陸燈04關閉。
+STRING Landing light 05 off.====著陸燈05關閉。
+STRING Landing light 06 off.====著陸燈06關閉。
+STRING Landing light 07 off.====著陸燈07關閉。
+STRING Landing light 08 off.====著陸燈08關閉。
+STRING Landing light 09 off.====著陸燈09關閉。
+STRING Landing light 10 off.====著陸燈10關閉。
+STRING Landing light 11 off.====著陸燈11關閉。
+STRING Landing light 12 off.====著陸燈12關閉。
+STRING Landing light 13 off.====著陸燈13關閉。
+STRING Landing light 14 off.====著陸燈14關閉。
+STRING Landing light 15 off.====著陸燈15關閉。
+STRING Landing light 16 off.====著陸燈16關閉。
+STRING Landing light 01 toggle.====著陸燈01開關
+STRING Landing light 02 toggle.====著陸燈02開關
+STRING Landing light 03 toggle.====著陸燈03開關
+STRING Landing light 04 toggle.====著陸燈04開關
+STRING Landing light 05 toggle.====著陸燈05開關
+STRING Landing light 06 toggle.====著陸燈06開關
+STRING Landing light 07 toggle.====著陸燈07開關
+STRING Landing light 08 toggle.====著陸燈08開關
+STRING Landing light 09 toggle.====著陸燈09開關
+STRING Landing light 10 toggle.====著陸燈10開關
+STRING Landing light 11 toggle.====著陸燈11開關
+STRING Landing light 12 toggle.====著陸燈12開關
+STRING Landing light 13 toggle.====著陸燈13開關
+STRING Landing light 14 toggle.====著陸燈14開關
+STRING Landing light 15 toggle.====著陸燈15開關
+STRING Landing light 16 toggle.====著陸燈16開關
+STRING Generic light 01 toggle.====通用燈01開關
+STRING Generic light 02 toggle.====通用燈02開關
+STRING Generic light 03 toggle.====通用燈03開關
+STRING Generic light 04 toggle.====通用燈04開關
+STRING Generic light 05 toggle.====通用燈05開關
+STRING Generic light 06 toggle.====通用燈06開關
+STRING Generic light 07 toggle.====通用燈07開關
+STRING Generic light 08 toggle.====通用燈08開關
+STRING Generic light 09 toggle.====通用燈09開關
+STRING Generic light 10 toggle.====通用燈10開關
+STRING Generic light 11 toggle.====通用燈11開關
+STRING Generic light 12 toggle.====通用燈12開關
+STRING Generic light 13 toggle.====通用燈13開關
+STRING Generic light 14 toggle.====通用燈14開關
+STRING Generic light 15 toggle.====通用燈15開關
+STRING Generic light 16 toggle.====通用燈16開關
+STRING Generic light 17 toggle.====通用燈17開關
+STRING Generic light 18 toggle.====通用燈18開關
+STRING Generic light 19 toggle.====通用燈19開關
+STRING Generic light 20 toggle.====通用燈20開關
+STRING Generic light 21 toggle.====通用燈21開關
+STRING Generic light 22 toggle.====通用燈22開關
+STRING Generic light 23 toggle.====通用燈23開關
+STRING Generic light 24 toggle.====通用燈24開關
+STRING Generic light 25 toggle.====通用燈25開關
+STRING Generic light 26 toggle.====通用燈26開關
+STRING Generic light 27 toggle.====通用燈27開關
+STRING Generic light 28 toggle.====通用燈28開關
+STRING Generic light 29 toggle.====通用燈29開關
+STRING Generic light 30 toggle.====通用燈30開關
+STRING Generic light 31 toggle.====通用燈31開關
+STRING Generic light 32 toggle.====通用燈32開關
+STRING Generic light 33 toggle.====通用燈33開關
+STRING Generic light 34 toggle.====通用燈34開關
+STRING Generic light 35 toggle.====通用燈35開關
+STRING Generic light 36 toggle.====通用燈36開關
+STRING Generic light 37 toggle.====通用燈37開關
+STRING Generic light 38 toggle.====通用燈38開關
+STRING Generic light 39 toggle.====通用燈39開關
+STRING Generic light 40 toggle.====通用燈40開關
+STRING Generic light 41 toggle.====通用燈41開關
+STRING Generic light 42 toggle.====通用燈42開關
+STRING Generic light 43 toggle.====通用燈43開關
+STRING Generic light 44 toggle.====通用燈44開關
+STRING Generic light 45 toggle.====通用燈45開關
+STRING Generic light 46 toggle.====通用燈46開關
+STRING Generic light 47 toggle.====通用燈47開關
+STRING Generic light 48 toggle.====通用燈48開關
+STRING Generic light 49 toggle.====通用燈49開關
+STRING Generic light 50 toggle.====通用燈50開關
+STRING Generic light 51 toggle.====通用燈51開關
+STRING Generic light 52 toggle.====通用燈52開關
+STRING Generic light 53 toggle.====通用燈53開關
+STRING Generic light 54 toggle.====通用燈54開關
+STRING Generic light 55 toggle.====通用燈55開關
+STRING Generic light 56 toggle.====通用燈56開關
+STRING Generic light 57 toggle.====通用燈57開關
+STRING Generic light 58 toggle.====通用燈58開關
+STRING Generic light 59 toggle.====通用燈59開關
+STRING Generic light 60 toggle.====通用燈60開關
+STRING Generic light 61 toggle.====通用燈61開關
+STRING Generic light 62 toggle.====通用燈62開關
+STRING Generic light 63 toggle.====通用燈63開關
+STRING Generic light 64 toggle.====通用燈64開關
+STRING Spot lights off.====聚光燈關閉。
+STRING Spot lights toggle.====聚光燈開關
+STRING Bleed air off.====關閉引起。
+STRING Bleed air from left engine.====從左引擎引氣
+STRING Bleed air from right engine.====從右引擎引氣
+STRING Bleed air left engine instruments only.====左引擎引氣專用儀表
+STRING Bleed air right engine instruments only.====右引擎引氣專用儀表
+STRING Pressurization test.====加壓測試
+STRING Dump pressurization on.====開啟加壓釋放。
+STRING Dump pressurization off.====關閉加壓釋放。
+STRING Cabin vertical speed down.====客艙垂直升降速度減小
+STRING Cabin vertical speed up.====客艙垂直升降速度增加
+STRING Cabin altitude down.====客艙高度降低
+STRING Cabin altitude up.====客艙高度升高
+STRING Toggle alternate static port.====備用靜壓口開關
+STRING Anti-ice: left pitot heat on.====防冰：左皮托管加熱開啟。
+STRING Anti-ice: right pitot heat on.====防冰：右皮托管加熱開啟。
+STRING Anti-ice: left pitot heat off.====防冰：左皮托管加熱關閉。
+STRING Anti-ice: right pitot heat off.====防冰：右皮托管加熱關閉。
+STRING Anti-ice: left pitot heat toggle.====防冰：右皮托管加熱開關
+STRING Anti-ice: right pitot heat toggle.====防冰：右皮托管加熱開關
+STRING Anti-ice: left static heat on.====防冰：左静壓管加熱開啟。
+STRING Anti-ice: right static heat on.====防冰：右静壓管加熱開啟。
+STRING Anti-ice: left static heat off.====防冰：左静壓管加熱關閉。
+STRING Anti-ice: right static heat off.====防冰：右静壓管加熱關閉。
+STRING Anti-ice: AOA on.====防冰：迎角傳感器開啟。
+STRING Anti-ice: AOA off.====防冰：迎角傳感器關閉。
+STRING Anti-ice: AOA toggle.====防冰：迎角傳感器開關
+STRING Anti-ice: engine #%1:index% inlet heat on.====防冰：引擎#%1:index%進氣道加熱開啟。
+STRING Anti-ice: engine #%1:index% inlet heat off.====防冰：引擎#%1:index%進氣道加熱關閉。
+STRING Anti-ice: engine #%1:index% inlet heat toggle.====防冰：引擎#%1:index%進氣道加熱開關
+STRING Anti-ice: engine #%1:index% prop heat on.====防冰：引擎#%1:index%槳葉加熱開啟。
+STRING Water or Nitrous engine BOOST.====水或氮為引擎增壓。
+STRING Ignite JATO.====起飛助推器點火。
+STRING Deploy/jettison chute.====放出/投下 降落傘
+STRING Re-arm aircraft to default specs.====補充飛機裝備到默認規格
+STRING Weapon single/pair/ripple/salvo down.====武器向下 單個/两個/連射/齊射。
+STRING Fire selected weapon.====發射選中武器。
+STRING Target camera pointer in GPS.====目標相機GPS指示
+STRING Deploy chaff.====放出干擾彈
+STRING Deploy flares.====放出照明彈
+STRING Load previous livery.====加載前一個塗裝
+STRING Load next livery.====加載下一個塗裝
+STRING Toggle seatbelt sign.====安全帶指示燈開關
+STRING Toggle smoking sign.====禁止抽煙指示燈開關
+STRING Aim spotlight left.====瞄準聚光燈向左
+STRING Aim spotlight right.====瞄準聚光燈向右
+STRING Aim spotlight up.====瞄準聚光燈向上
+STRING Aim spotlight down.====瞄準聚光燈向下
+STRING Aim spotlight to center.====瞄准聚光燈回中
+STRING Door #%1:index% open.====#%1:index%號門開啟
+STRING Door #%1:index% close.====#%1:index%號門關閉
 STRING General action command.====通用操作指令
-STRING Release tow-plane cable for gliders.====为滑翔机释放牵引飞机绳
-STRING Release winch (for gliders).====释放绞盘（滑翔机用）
-STRING Release tow-plane and winch for gliders.====为滑翔机释放牵引机和绞盘
-STRING Engage catapault.====接通弹射器
-STRING Tow-plane for gliders: Take me left.====滑翔机牵引飞机：带我向左
-STRING Tow-plane for gliders: Take me straight.====滑翔机牵引飞机：带我直走
-STRING Tow-plane for gliders: Take me right.====滑翔机牵引飞机：带我向右
-STRING Push-back for airliners: Nose 90 left.====飞机后推：机头向左90度
-STRING Push-back for airliners: Straight back.====飞机后推：机头向后直推
-STRING Push-back for airliners: Nose 90 right.====飞机后推：机头向右90度
-STRING Power NAV1 off.====NAV1电源关闭
-STRING Power NAV1 on.====NAV1电源开启
-STRING Power NAV2 off.====NAV2电源关闭
-STRING Power NAV2 on.====NAV2电源开启
-STRING Power COM1 off.====COM1电源关闭
-STRING Power COM1 on.====COM1电源开启
-STRING Power COM2 off.====COM2电源关闭
-STRING Power COM2 on.====COM2电源关闭
-STRING Power ADF1 dn.====ADF1电源关闭
-STRING Power ADF1 up.====ADF1电源关闭
-STRING Power ADF2 dn.====ADF2电源关闭
-STRING Power ADF2 up.====ADF2电源关闭
-STRING ADF 2 test.====测试自动定向仪2
-STRING COM 1 coarse down (8.33 kHz).====COM1频率粗调上（8.33kHz)
-STRING COM 1 coarse up (8.33 kHz).====COM1频率粗调下 (8.33kHz)
-STRING COM 1 fine down (25kHz).====COM1频率微调上（25kHz）
-STRING COM 1 fine up (25kHz).====COM1频率微调下（25kHz）
-STRING COM 1 fine down (8.33 kHz).====COM1频率精调低（8.33kHZ）
-STRING COM 1 fine up (8.33 kHz).====COM1频率精调高（8.33kHZ）
-STRING COM 1 standby coarse down.====COM1备用频率粗调低
-STRING COM 1 standby coarse up.====COM1备用频率粗调高
-STRING COM 1 standby coarse down (8.33kHz).====COM1备用频率粗调低(8.33kHz)
-STRING COM 1 standby coarse up (8.33kHz).====COM1备用频率粗调高(8.33kHz)
-STRING COM 1 standby fine down (25kHz).====COM1备用频率精调低（25kHz）
-STRING COM 1 standby fine up (25kHz).====COM1备用频率精调高（25kHz）
-STRING COM 1 standby fine down (8.33kHz).====COM1备用频率精调低（8.33kHz）
-STRING COM 1 standby fine up (8.33kHz).====COM1备用频率精调高（8.33kHz）
-STRING COM 2 coarse down.====COM2频率粗调低
-STRING COM 2 coarse up.====COM2频率粗调高
-STRING COM 2 coarse down (8.33kHz).====COM2频率粗调低(8.33kHz)
-STRING COM 2 coarse up (8.33kHz).====COM2频率粗调高(8.33kHz)
-STRING COM 2 fine down (25kHz).====COM2频率精调低（25kHz）
-STRING COM 2 fine up (25kHz).====COM2频率精调高（25kHz）
-STRING COM 2 fine down (8.33kHz).====COM2频率精调低（8.33kHz）
-STRING COM 2 fine up (8.33kHz).====COM2频率精调高（8.33kHz）
-STRING COM 2 standby coarse down.====COM2备用频率粗调低
-STRING COM 2 standby coarse up.====COM2备用频率粗调高
-STRING COM 2 standby coarse down (8.33kHz).====COM2备用频率粗调低(8.33kHz)
-STRING COM 2 standby coarse up (8.33kHz).====COM2备用频率粗调高(8.33kHz)
-STRING COM 2 standby fine down (25kHz).====COM2备用频率精调低（25kHz）
-STRING COM 2 standby fine up (25kHz).====COM2备用频率精调高（25kHz）
-STRING COM 2 standby fine down (8.33kHz).====COM2备用频率精调低（8.33kHz）
-STRING COM 2 standby fine up (8.33kHz).====COM2备用频率精调高（8.33kHz）
-STRING NAV 1 coarse down.====NAV1频率粗调低
-STRING NAV 1 coarse up.====NAV1频率粗调高
-STRING NAV 1 fine down.====NAV1频率精调低
-STRING NAV 1 fine up.====NAV1频率精调高
-STRING NAV 1 standby coarse down.====NAV1备用频率粗调低
-STRING NAV 1 standby coarse up.====NAV1备用频率粗调高
-STRING NAV 1 standby fine down.====NAV1备用频率精调低
-STRING NAV 1 standby fine up.====NAV1备用频率精调高
-STRING NAV 2 coarse down.====NAV2频率粗调低
-STRING NAV 2 coarse up.====NAV2频率粗调高
-STRING NAV 2 fine down.====NAV2频率精调低
-STRING NAV 2 fine up.====NAV2频率精调高
-STRING NAV 2 standby coarse down.====NAV2备用频率粗调低
-STRING NAV 2 standby coarse up.====NAV2备用频率粗调高
-STRING NAV 2 standby fine down.====NAV2备用频率精调低
-STRING NAV 2 standby fine up.====NAV2备用频率精调高
-STRING DME coarse down.====DME频率粗调低
-STRING DME coarse up.====DME频率粗调高
-STRING DME fine down.====DME频率精调低
-STRING DME fine up.====DME频率精调高
-STRING DME standby coarse down.====DME备用频率粗调低
-STRING DME standby coarse up.====DME备用频率粗调高
-STRING DME standby fine down.====DME备用频率精调低
-STRING DME standby fine up.====DME备用频率精调高
-STRING ADF active 1 hundreds down.====ADF1活动频率降低100
-STRING ADF active 1 hundreds up.====ADF1活动频率提高100
-STRING ADF active 1 tens down.====ADF1活动频率降低10
-STRING ADF active 1 tens up.====ADF1活动频率提高10
-STRING ADF active 1 ones down.====ADF1活动频率降低1
-STRING ADF active 1 ones up.====ADF1活动频率提高1
-STRING ADF active 1 ones and tens down.====ADF1活动频率降低1和10
-STRING ADF active 1 ones and tens up.====ADF1活动频率提高1和10
-STRING ADF active 1 hundreds and thousands down.====ADF1备用频率降低100和1000
-STRING ADF active 1 hundreds and thousands up.====ADF1备用频率提高100和1000
-STRING ADF standby 1 hundreds down.====ADF1备用频率降低100
-STRING ADF standby 1 hundreds up.====ADF1备用频率提高100
-STRING ADF standby 1 tens down.====ADF1备用频率降低10
-STRING ADF standby 1 tens up.====ADF1备用频率提高10
-STRING ADF standby 1 ones down.====ADF1备用频率降低1
-STRING ADF standby 1 ones up.====ADF1备用频率提高1
-STRING ADF standby 1 ones and tens down.====ADF1备用频率降低1和10
-STRING ADF standby 1 ones and tens up.====ADF1备用频率提高1和10
-STRING ADF standby 1 hundreds and thousands down.====ADF1备用频率降低100和1000
-STRING ADF standby 1 hundreds and thousands up.====ADF1备用频率提高100和1000
-STRING ADF active 2 hundreds down.====ADF2活动频率降低100
-STRING ADF active 2 hundreds up.====ADF2活动频率提高100
-STRING ADF active 2 tens down.====ADF2活动频率降低10
-STRING ADF active 2 tens up.====ADF2活动频率提高10
-STRING ADF active 2 ones down.====ADF2活动频率降低1
-STRING ADF active 2 ones up.====ADF2活动频率提高1
-STRING ADF active 2 ones and tens down.====ADF2活动频率降低1和10
-STRING ADF active 2 ones and tens up.====ADF2活动频率提高1和10
-STRING ADF active 2 hundreds and thousands down.====ADF2活动频率降低100和1000
-STRING ADF active 2 hundreds and thousands up.====ADF2活动频率提高100和1000
-STRING ADF standby 2 hundreds down.====ADF2备用频率降低100
-STRING ADF standby 2 hundreds up.====ADF2备用频率提高100
-STRING ADF standby 2 tens down.====ADF2备用频率降低10
-STRING ADF standby 2 tens up.====ADF2备用频率提高10
-STRING ADF standby 2 ones down.====ADF2备用频率降低1
-STRING ADF standby 2 ones up.====ADF2备用频率提高1
-STRING ADF standby 2 ones and tens down.====ADF2备用频率降低1和10
-STRING ADF standby 2 ones and tens up.====ADF2备用频率提高1和10
-STRING ADF standby 2 hundreds and thousands down.====ADF2备用频率降低100和1000
-STRING ADF standby 2 hundreds and thousands up.====ADF2备用频率提高100和1000
+STRING Release tow-plane cable for gliders.====為滑翔機釋放牽引飛機繩
+STRING Release winch (for gliders).====釋放絞盤（滑翔機用）
+STRING Release tow-plane and winch for gliders.====為滑翔機釋放牽引機和絞盤
+STRING Engage catapault.====接通彈射器
+STRING Tow-plane for gliders: Take me left.====滑翔機牽引機：帶我向左
+STRING Tow-plane for gliders: Take me straight.====滑翔機牽引機：带我直走
+STRING Tow-plane for gliders: Take me right.====滑翔機牽引機：带我向右
+STRING Push-back for airliners: Nose 90 left.====飛機後推：機頭向左90度
+STRING Push-back for airliners: Straight back.====飛機後推：機頭向后直推
+STRING Push-back for airliners: Nose 90 right.====飛機後推：機頭向右90度
+STRING Power NAV1 off.====NAV1電源關閉
+STRING Power NAV1 on.====NAV1電源開啟
+STRING Power NAV2 off.====NAV2電源關閉
+STRING Power NAV2 on.====NAV2電源開啟
+STRING Power COM1 off.====COM1電源關閉
+STRING Power COM1 on.====COM1電源開啟
+STRING Power COM2 off.====COM2電源關閉
+STRING Power COM2 on.====COM2電源關閉
+STRING Power ADF1 dn.====ADF1電源關閉
+STRING Power ADF1 up.====ADF1電源關閉
+STRING Power ADF2 dn.====ADF2電源關閉
+STRING Power ADF2 up.====ADF2電源關閉
+STRING ADF 2 test.====測試自動定向儀2
+STRING COM 1 coarse down (8.33 kHz).====COM1頻率粗調上（8.33kHz)
+STRING COM 1 coarse up (8.33 kHz).====COM1頻率粗調下 (8.33kHz)
+STRING COM 1 fine down (25kHz).====COM1頻率微調上（25kHz）
+STRING COM 1 fine up (25kHz).====COM1頻率微調下（25kHz）
+STRING COM 1 fine down (8.33 kHz).====COM1頻率精調低（8.33kHZ）
+STRING COM 1 fine up (8.33 kHz).====COM1頻率精調高（8.33kHZ）
+STRING COM 1 standby coarse down.====COM1備用頻率粗調低
+STRING COM 1 standby coarse up.====COM1備用頻率粗調高
+STRING COM 1 standby coarse down (8.33kHz).====COM1備用頻率粗調低(8.33kHz)
+STRING COM 1 standby coarse up (8.33kHz).====COM1備用頻率粗調高(8.33kHz)
+STRING COM 1 standby fine down (25kHz).====COM1備用頻率精調低（25kHz）
+STRING COM 1 standby fine up (25kHz).====COM1備用頻率精調高（25kHz）
+STRING COM 1 standby fine down (8.33kHz).====COM1備用頻率精調低（8.33kHz）
+STRING COM 1 standby fine up (8.33kHz).====COM1備用頻率精調高（8.33kHz）
+STRING COM 2 coarse down.====COM2頻率粗調低
+STRING COM 2 coarse up.====COM2頻率粗調高
+STRING COM 2 coarse down (8.33kHz).====COM2頻率粗調低(8.33kHz)
+STRING COM 2 coarse up (8.33kHz).====COM2頻率粗調高(8.33kHz)
+STRING COM 2 fine down (25kHz).====COM2頻率精調低（25kHz）
+STRING COM 2 fine up (25kHz).====COM2頻率精調高（25kHz）
+STRING COM 2 fine down (8.33kHz).====COM2頻率精調低（8.33kHz）
+STRING COM 2 fine up (8.33kHz).====COM2頻率精調高（8.33kHz）
+STRING COM 2 standby coarse down.====COM2備用頻率粗調低
+STRING COM 2 standby coarse up.====COM2備用頻率粗調高
+STRING COM 2 standby coarse down (8.33kHz).====COM2備用頻率粗調低(8.33kHz)
+STRING COM 2 standby coarse up (8.33kHz).====COM2備用頻率粗調高(8.33kHz)
+STRING COM 2 standby fine down (25kHz).====COM2備用頻率精調低（25kHz）
+STRING COM 2 standby fine up (25kHz).====COM2備用頻率精調高（25kHz）
+STRING COM 2 standby fine down (8.33kHz).====COM2備用頻率精調低（8.33kHz）
+STRING COM 2 standby fine up (8.33kHz).====COM2備用頻率精調高（8.33kHz）
+STRING NAV 1 coarse down.====NAV1頻率粗調低
+STRING NAV 1 coarse up.====NAV1頻率粗調高
+STRING NAV 1 fine down.====NAV1頻率精調低
+STRING NAV 1 fine up.====NAV1頻率精調高
+STRING NAV 1 standby coarse down.====NAV1備用頻率粗調低
+STRING NAV 1 standby coarse up.====NAV1備用頻率粗調高
+STRING NAV 1 standby fine down.====NAV1備用頻率精調低
+STRING NAV 1 standby fine up.====NAV1備用頻率精調高
+STRING NAV 2 coarse down.====NAV2頻率粗調低
+STRING NAV 2 coarse up.====NAV2頻率粗調高
+STRING NAV 2 fine down.====NAV2頻率精調低
+STRING NAV 2 fine up.====NAV2頻率精調高
+STRING NAV 2 standby coarse down.====NAV2備用頻率粗調低
+STRING NAV 2 standby coarse up.====NAV2備用頻率粗調高
+STRING NAV 2 standby fine down.====NAV2備用頻率精調低
+STRING NAV 2 standby fine up.====NAV2備用頻率精調高
+STRING DME coarse down.====DME頻率粗調低
+STRING DME coarse up.====DME頻率粗調高
+STRING DME fine down.====DME頻率精調低
+STRING DME fine up.====DME頻率精調高
+STRING DME standby coarse down.====DME備用頻率粗調低
+STRING DME standby coarse up.====DME備用頻率粗調高
+STRING DME standby fine down.====DME備用頻率精調低
+STRING DME standby fine up.====DME備用頻率精調高
+STRING ADF active 1 hundreds down.====ADF1活動頻率降低100
+STRING ADF active 1 hundreds up.====ADF1活動頻率提高100
+STRING ADF active 1 tens down.====ADF1活動頻率降低10
+STRING ADF active 1 tens up.====ADF1活動頻率提高10
+STRING ADF active 1 ones down.====ADF1活動頻频率降低1
+STRING ADF active 1 ones up.====ADF1活動頻率提高1
+STRING ADF active 1 ones and tens down.====ADF1活動頻率降低1和10
+STRING ADF active 1 ones and tens up.====ADF1活動頻率提高1和10
+STRING ADF active 1 hundreds and thousands down.====ADF1備用頻率降低100和1000
+STRING ADF active 1 hundreds and thousands up.====ADF1備用頻率提高100和1000
+STRING ADF standby 1 hundreds down.====ADF1備用頻率降低100
+STRING ADF standby 1 hundreds up.====ADF1備用頻率提高100
+STRING ADF standby 1 tens down.====ADF1備用頻率降低10
+STRING ADF standby 1 tens up.====ADF1備用頻率提高10
+STRING ADF standby 1 ones down.====ADF1備用頻率降低1
+STRING ADF standby 1 ones up.====ADF1備用頻率提高1
+STRING ADF standby 1 ones and tens down.====ADF1備用頻率降低1和10
+STRING ADF standby 1 ones and tens up.====ADF1備用頻率提高1和10
+STRING ADF standby 1 hundreds and thousands down.====ADF1備用頻率降低100和1000
+STRING ADF standby 1 hundreds and thousands up.====ADF1備用頻率提高100和1000
+STRING ADF active 2 hundreds down.====ADF2活動頻率降低100
+STRING ADF active 2 hundreds up.====ADF2活動頻率提高100
+STRING ADF active 2 tens down.====ADF2活動頻率降低10
+STRING ADF active 2 tens up.====ADF2活動頻率提高10
+STRING ADF active 2 ones down.====ADF2活動頻率降低1
+STRING ADF active 2 ones up.====ADF2活動頻率提高1
+STRING ADF active 2 ones and tens down.====ADF2活動頻率降低1和10
+STRING ADF active 2 ones and tens up.====ADF2活動頻率提高1和10
+STRING ADF active 2 hundreds and thousands down.====ADF2活動頻率降低100和1000
+STRING ADF active 2 hundreds and thousands up.====ADF2活動頻率提高100和1000
+STRING ADF standby 2 hundreds down.====ADF2備用頻率降低100
+STRING ADF standby 2 hundreds up.====ADF2備用頻率提高100
+STRING ADF standby 2 tens down.====ADF2備用頻率降低10
+STRING ADF standby 2 tens up.====ADF2備用頻率提高10
+STRING ADF standby 2 ones down.====ADF2備用頻率降低1
+STRING ADF standby 2 ones up.====ADF2備用頻率提高1
+STRING ADF standby 2 ones and tens down.====ADF2備用頻率降低1和10
+STRING ADF standby 2 ones and tens up.====ADF2備用頻率提高1和10
+STRING ADF standby 2 hundreds and thousands down.====ADF2備用頻率降低100和1000
+STRING ADF standby 2 hundreds and thousands up.====ADF2備用頻率提高100和1000
 STRING Transponder reset to first digit.====应答机重置为首位数字
 STRING Transponder thousands down.====应答机调低1000
 STRING Transponder thousands up.====应答机调高1000
