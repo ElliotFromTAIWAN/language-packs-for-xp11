@@ -2,17 +2,7 @@
 
 this is a project for creating new language packs for x-plane 11
 
-traditional chinese ---- by @ElliotFromTAIWAN (unfinishied)
-
-Airfoil Maker.txt -------------------------------- finished
-
-Plane Maker.txt ---------------------------------- finished
-
-X-Plane.txt -------------------------------------- finished
-
-Chinese.txt ------------------------------------ unfinished
-
-hint_messages.txt -------------------------------- finished
+traditional chinese ---- by @ElliotFromTAIWAN (finishied)
 
 korean ------------------------------- by @Pilot LISA (N/A)
 
