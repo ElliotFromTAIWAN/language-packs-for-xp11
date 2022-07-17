@@ -69,34 +69,34 @@ STRING Landing gear emergency override off.====起落架緊急超控關閉。
 STRING Nosewheel steer toggle.====開關鼻輪手舵
 STRING Toggle tailwheel lock.====開關尾輪鎖。
 STRING Engage tailwheel lock.====啟用尾輪鎖。
-STRING Hold brakes regular.====保持刹车常规制动力。
-STRING Hold brakes maximum.====保持刹车最大制动力。
-STRING Toggle auto-brakes.====开关自动刹车。
-STRING Auto-brakes down.====放下自动刹车。
-STRING Auto-brakes up.====收起自动刹车。
-STRING Yaw damper on.====打开偏航阻尼器。
-STRING Yaw damper off.====关闭偏航阻尼器。
-STRING Toggle yaw damper.====开关偏航阻尼器。
-STRING Prop sync on.====螺旋桨同步器打开。
-STRING Prop sync off.====螺旋桨同步器关闭。
-STRING Prop sync toggle.====开关螺旋桨协调器。
-STRING Auto-feather mode down.====放下自动顺桨模式。
-STRING Auto-feather mode up.====收起自动顺桨模式。
-STRING Auto-feather off.====关闭自动顺桨。
-STRING Auto-feather on.====开启自动顺桨
-STRING Auto-feather test.====测试自动顺桨。
-STRING Engine-driven hydraulic pumps on====开启引擎驱动液压泵。
-STRING Engine-driven hydraulic pumps off====关闭引擎驱动液压泵。
-STRING Engine-driven hydraulic pumps tog====开关引擎驱动液压泵。
-STRING Tailhook down.====放下尾勾。
-STRING Tailhook up.====收起尾勾。
-STRING Toggle the tailhook.====开关尾勾。
-STRING Canopy open.====打开座舱罩。
-STRING Canopy close.====关闭座舱罩。
-STRING Canopy toggle.====开关座舱罩。
-STRING Toggle rotor brake.====开关旋翼制动器。
-STRING Toggle artificial stability power.====开关人工稳定系统。
-STRING Toggle puffers.====开关铰链车。
+STRING Hold brakes regular.====保持剎車常規制動力。
+STRING Hold brakes maximum.====保持剎車最大制動力。
+STRING Toggle auto-brakes.====開關自動剎車。
+STRING Auto-brakes down.====放下自動剎車。
+STRING Auto-brakes up.====收起自動剎車。
+STRING Yaw damper on.====打開偏航阻尼器。
+STRING Yaw damper off.====關閉偏航阻尼器。
+STRING Toggle yaw damper.====開關偏航阻尼器。
+STRING Prop sync on.====螺旋槳同步器開啟。
+STRING Prop sync off.====螺旋槳同步器關閉。
+STRING Prop sync toggle.====開關螺旋槳協調器。
+STRING Auto-feather mode down.====放下自動順槳模式。
+STRING Auto-feather mode up.====收起自動順槳模式。
+STRING Auto-feather off.====關閉自動順槳。
+STRING Auto-feather on.====開啟自動順槳
+STRING Auto-feather test.====測試自動順槳。
+STRING Engine-driven hydraulic pumps on====開啟引擎驅動液壓泵。
+STRING Engine-driven hydraulic pumps off====關閉引擎驅動液壓泵。
+STRING Engine-driven hydraulic pumps tog====開關引擎驅動液壓泵。
+STRING Tailhook down.====放下尾鉤。
+STRING Tailhook up.====收起尾鉤。
+STRING Toggle the tailhook.====開關尾鉤。
+STRING Canopy open.====打開座艙罩。
+STRING Canopy close.====關閉座艙罩。
+STRING Canopy toggle.====開關座艙罩。
+STRING Toggle rotor brake.====開關旋翼制動器。
+STRING Toggle artificial stability power.====開關人工穩定系統。
+STRING Toggle puffers.====開關鉸鏈車。
 STRING Orbital maneuver rockets left.====轨道机动火箭向左。
 STRING Orbital maneuver rockets right.====轨道机动火箭向右。
 STRING Orbital maneuver rockets fore.====轨道机动火箭向前。
