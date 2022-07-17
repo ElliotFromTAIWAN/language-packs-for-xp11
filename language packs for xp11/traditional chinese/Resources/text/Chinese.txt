@@ -27,48 +27,48 @@ STRING Toggle the Keyboard Shortcuts window.====開關鍵盤快捷鍵窗口。
 STRING Toggle display of the data output graph.====開關數據輸出圖表顯示。
 STRING Slider #%1:index% On/Off control.====滑塊 #%1:index% 開/關控制。
 STRING Fix all failed systems.====修復所有失效系統。
-STRING Auto-set electrical system for boarding.====自动设定电力系统至登机时状态。
-STRING Auto-start engines to running, real-time.====自动启动引擎至运行，消耗真实时间。
-STRING Engage starters.====接通启动器。
-STRING Prop coarse a bit.====桨距调大一些。
-STRING Prop fine a bit.====桨距调小一些。
-STRING Mixture to cut off.====切断混合。
+STRING Auto-set electrical system for boarding.====自動設定電力系統至登機時狀態。
+STRING Auto-start engines to running, real-time.====自動啟動引擎至運行，消耗真實時間。
+STRING Engage starters.====接通啟動器。
+STRING Prop coarse a bit.====槳距調大一些。
+STRING Prop fine a bit.====槳距調小一些。
+STRING Mixture to cut off.====切斷混合。
 STRING Mixture to full rich.====混合比富油。
-STRING Idle high/low toggle.====切换高/低慢车。
-STRING FADEC toggle.====开关FADEC。
-STRING Throttle governor toggle.====节流调节器开关。
-STRING Clutch toggle.====离合器开关。
-STRING Toggle thrust reversers.====开关反推。
+STRING Idle high/low toggle.====切換高/低慢車。
+STRING FADEC toggle.====開關FADEC。
+STRING Throttle governor toggle.====節流調節器開關。
+STRING Clutch toggle.====離合器開關。
+STRING Toggle thrust reversers.====開關反推。
 STRING Hold thrust reverse at max.====保持最大反推力。
-STRING Pull fuel and mags for shutdown.====拉手柄以切断供油与磁电机。
-STRING Magnetos down one notch for engine #%1:index%.====引擎#%1:index%磁电机下调一级。
-STRING Magnetos up one notch for engine #%1:index%.====引擎#%1:index%磁电机上调一级。
-STRING Magnetos off for engine #%1:index%.====关闭#%1:index%引擎磁电机。
-STRING Magnetos left for engine #%1:index%.====引擎#%1:index%左磁电机。
-STRING Magnetos right for engine #%1:index%.====引擎#%1:index%右磁电机。
-STRING Igniter #%1:index% arm off.====点火器 #%1:index%预位关。
-STRING Igniter #%1:index% arm on.====点火器 #%1:index%预位开。
-STRING Igniter #%1:index% contin-ignition off.====关闭点火器 #%1:index% 连续点火。
-STRING Igniter #%1:index% contin-ignition on.====开启点火器 #%1:index% 连续点火。
-STRING Engage starter #%1:index%.====接通启动器 #%1:index%。
-STRING Toggle beta prop #%1:index%.====螺旋桨 #%1:index% 桨叶低距范围。
-STRING Toggle thrust reversers #%1:index%.====开关反推力 #%1:index% 。
+STRING Pull fuel and mags for shutdown.====拉手柄以切斷供油與磁電機。
+STRING Magnetos down one notch for engine #%1:index%.====引擎#%1:index%磁電機下調一級。
+STRING Magnetos up one notch for engine #%1:index%.====引擎#%1:index%磁電機上調一級。
+STRING Magnetos off for engine #%1:index%.====關閉#%1:index%引擎磁電機。
+STRING Magnetos left for engine #%1:index%.====引擎#%1:index%左磁電機。
+STRING Magnetos right for engine #%1:index%.====引擎#%1:index%右磁電機。
+STRING Igniter #%1:index% arm off.====點火器 #%1:index%預位關。
+STRING Igniter #%1:index% arm on.====點火器 #%1:index%預位開。
+STRING Igniter #%1:index% contin-ignition off.====關閉點火器 #%1:index% 連續點火。
+STRING Igniter #%1:index% contin-ignition on.====開啟點火器 #%1:index% 連續點火。
+STRING Engage starter #%1:index%.====接通啟動器 #%1:index%。
+STRING Toggle beta prop #%1:index%.====螺旋槳 #%1:index% 槳葉低距範圍。
+STRING Toggle thrust reversers #%1:index%.====開關反推力 #%1:index% 。
 STRING Hold thrust reverse at max #%1:index%.====保持最大反推力 #%1:index% 。
-STRING Pull fuel and mags for shut-down #%1:index%.====拉手柄以切断供油与磁电机 #%1:index% 。
-STRING Fire extinguisher #%1:index% off.====灭火器 #%1:index% 关闭。
-STRING Fire extinguisher #%1:index% on.====灭火器 #%1:index% 打开。
-STRING Speedbrakes extend one.====减速板展开一级。
-STRING Speedbrakes retract one.====减速板收回一级。
-STRING Speedbrakes extend full.====减速板全部展开。
-STRING Speedbrakes retract full.====减速板全部收回。
-STRING Speedbrakes toggle.====减速板开关。
+STRING Pull fuel and mags for shut-down #%1:index%.====拉手柄以切斷供油與磁電機 #%1:index% 。
+STRING Fire extinguisher #%1:index% off.====滅火器 #%1:index% 關閉。
+STRING Fire extinguisher #%1:index% on.====滅火器 #%1:index% 打開。
+STRING Speedbrakes extend one.====減速板展開一級。
+STRING Speedbrakes retract one.====減速板收回一級。
+STRING Speedbrakes extend full.====減速板全部展開。
+STRING Speedbrakes retract full.====減速板全部收回。
+STRING Speedbrakes toggle.====減速板開關。
 STRING Landing gear down.====放下起落架。
 STRING Landing gear up.====收起起落架。
-STRING Landing gear emergency override down.====起落架紧急超控放下。
-STRING Landing gear emergency override off.====起落架紧急超控关闭。
-STRING Nosewheel steer toggle.====开关鼻轮手舵
-STRING Toggle tailwheel lock.====开关尾轮锁。
-STRING Engage tailwheel lock.====启用尾轮锁。
+STRING Landing gear emergency override down.====起落架緊急超控放下。
+STRING Landing gear emergency override off.====起落架緊急超控關閉。
+STRING Nosewheel steer toggle.====開關鼻輪手舵
+STRING Toggle tailwheel lock.====開關尾輪鎖。
+STRING Engage tailwheel lock.====啟用尾輪鎖。
 STRING Hold brakes regular.====保持刹车常规制动力。
 STRING Hold brakes maximum.====保持刹车最大制动力。
 STRING Toggle auto-brakes.====开关自动刹车。
