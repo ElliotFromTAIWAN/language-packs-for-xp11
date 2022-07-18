@@ -3404,6 +3404,1090 @@ STRING Rotors flight model (detailed, in-cockpit only)====旋翼飛行模型（�
 STRING Propellers flight model (detailed, in-cockpit only)====螺旋槳飛行模型（精細的，僅在座艙內）
 STRING Wings flight model (detailed, in-cockpit only)====固定翼飛行模型（精細的，僅在座艙內）
 STRING Stabilizers & other control surfaces flight model (detailed, in-cockpit only)====安定面和其他操縱面飛行模型（精細的，僅在座艙內）
+STRING Control Surfaces====操縱面
+STRING Multi Rotors====多轉子
+STRING Lock at Current====鎖定在當前狀態下
+STRING Hard-Over====Hard-Over
+STRING Oxygen Mask====氧氣面罩
+STRING Reload the Current Aircraft and Art====重載當前飛行器及藝術
+STRING Reload the Current Aircraft (Skip Art Reload)====重載當前飛行器 (Skip Art Reload)
+STRING Toggle Cockpit Data Output====駕駛艙資料匯出開關
+STRING Show Particle System Browser====顯示粒子系統瀏覽器
+STRING Show Microprofiler====顯示 Microprofiler
+STRING Show VRAM profiler====顯示 VRAM profiler
+STRING Show Plugin Admin====顯示 Plugin Admin
+STRING HP Reverb G2 Left====左邊HP Reverb G2
+STRING HP Reverb G2 Right====右邊HP Reverb G2
+STRING Index Pimax Controller====Index Pimax Controller
+STRING Ravcore Javelin====Ravcore Javelin
+STRING HOTAS Cougar Joystick====HOTAS Cougar Joystick
+STRING Oculus Quest Controller====Oculus Quest Controller
+STRING Sim Your Plane (Bluetooth)====Sim Your Plane (Bluetooth)
+STRING Sim Your Plane (Wired)====Sim Your Plane (Wired)
+STRING SpaceNavigator====SpaceNavigator
+STRING Thrustmaster A320 Sidestick====Thrustmaster A320 Sidestick
+STRING Thrustmaster A320 Throttle 3 & 4====Thrustmaster A320 Throttle 3 & 4
+STRING Thrustmaster A320 Throttle 1 & 2====Thrustmaster A320 Throttle 1 & 2
+STRING Valve Index Controller====Valve Index Controller
+STRING Virtual Fly - G1000 Audio Panel====Virtual Fly - G1000 Audio Panel
+STRING Virtual Fly - G1000 MFD====Virtual Fly - G1000 MFD
+STRING Virtual Fly - G1000 PFD====Virtual Fly - G1000 PFD
+STRING VirtualFly - RUDDO====VirtualFly - RUDDO
+STRING VirtualFly - RUDDO+====VirtualFly - RUDDO+
+STRING VirtualFly - TQ3====VirtualFly - TQ3
+STRING VirtualFly - TQ3+====VirtualFly - TQ3+
+STRING VirtualFly - TQ6====VirtualFly - TQ6
+STRING VirtualFly - TQ6+====VirtualFly - TQ6+
+STRING VirtualFly - V3RNIO====VirtualFly - V3RNIO
+STRING VirtualFly - YOKO====VirtualFly - YOKO
+STRING VirtualFly - YOKO+====VirtualFly - YOKO+
+STRING Vive Cosmos Controller====Vive Cosmos Controller
+STRING Vive Pimax Controller====Vive Pimax Controller
+STRING VKB Gladiator MKII====VKB Gladiator MKII
+STRING Xbox Elite Wireless Controller Series 2====Xbox Elite Wireless Controller Series 2
+STRING An airport’s Instrument Landing System is designed to provide guidance for both your course and descent during a landing. If you want to fly a landing the way real-world pilots do, this is it.====機場的儀表著陸系統旨在為您在著陸期間的航向和下降提供指導。 如果您想像現實世界的飛行員那樣進行著陸，就是這樣。
+STRING Welcome to X-Plane. Here, you’ll learn the basics of flying in X-Plane: controlling the plane, changing the view, & more.====歡迎來到 X-Plane。 在這裡，您將學習在 X-Plane 中飛行的基礎知識：控制飛機、改變視野等。
+STRING Forget everything you know about flying... this is a whole new world. In this tutorial, you’ll learn the fundamentals of taking off and controlling a helicopter.====忘掉你所知道的關於飛行的一切……這是一個全新的世界。 在本教程中，您將學習起飛和控制直升機的基礎知識。
+STRING Real pilots fly in a very specific way during takeoff & landing. In this tutorial, you’ll learn to take off, fly a rectangular circuit, and land back on the runway just like you would in the real world.====真正的飛行員在起飛和著陸期間以非常特定的方式飛行。 在本教程中，您將像在現實世界中一樣學習起飛、飛行矩形電路並重新降落在跑道上。
+STRING Flying a taildragger requires a very different technique than a “tricycle”-gear plane like the Cessna 172. The most popular taildraggers are used for landing on rugged or unpaved runways, or even in fields.====駕駛尾翼飛機需要一種與賽斯納 172 等“三輪車”齒輪飛機截然不同的技術。最流行的尾翼飛機用於在崎嶇或未鋪砌的跑道上著陸，甚至在田野中著陸。
+STRING Seaplane Start====水上飛機
+STRING Helipad Start====直升機
+STRING Carrier Cat Shot====航空母艦彈射
+STRING Carrier Approach====航空母艦降落
+STRING Frigate Approach====護衛艦降落
+STRING Small Oil Rig Approach====小型石油鑽井台降落
+STRING Large Oil Platform Approach====大型石油鑽井台降落
+STRING Shuttle Landing (Full Re-Entry)====太空梭進近 (完整降落)
+STRING Shuttle Landing (Final Re-Entry)====太空梭進近 (僅降落)
+STRING Shuttle Landing (Full Approach)====太空梭降落 (完整)
+STRING Shuttle Landing (Final Approach)====太空梭降落 (僅降落)
+STRING Formation Flying====編隊飛行
+STRING Refuel - Boom====空中加油 - Boom
+STRING Refuel - Basket====空中加油 - Basket
+STRING Vulkan driver====使用Vulkan進行渲染
+STRING (IPv4)====(IPv4)
+STRING Start at %1:runway%, ====在 %1:runway%, 
+STRING on runway====在跑到
+STRING Custom Scenery====自定義地景
+STRING Notification Settings====通知設定
+STRING You may need to run the flight model more times per frame if your frame rate is very low, or you’re flying extremely small, fast, or light aircraft.====如果您的幀速率非常低，或者您正在飛行極小、快速或輕型的飛機，您可能需要在每幀運行更多次飛行模型。
+STRING With this checked, X-Plane will use the latest version of the flight model in the simulation, rather than the most recent stable release.====選中此項後，X-Plane 將在模擬中使用最新版本的飛行模型，而不是最新的穩定版本。
+STRING (requires aircraft reload)====(需要重載飛行器)
+STRING Use experimental flight model====使用實驗飛行模型
+STRING Output untranslated strings to “Untranslated Strings.txt”====將未翻譯的字符串輸出到“Untranslated Strings.txt”
+STRING Make sure you save this password in a safe place, because you’ll need it to disable kiosk mode in the future.====確保將此密碼保存在安全的地方，因為您將來需要它來禁用展示模式。
+STRING Adapter Unique ID doesn't match OpenGL bridge device====適配器 ID 與 OpenGL 橋接設備不匹配
+STRING Increasing this slider will increase the texture quality of the cockpit & other objects in the world. If your graphics card has a lot of VRAM, you can increase this without impacting your frame rate (and if you see a sharp dropoff in frame rate, you know you’ve gone too far).====增加此滑塊將提高駕駛艙和世界上其他物體的紋理質量。 如果你的顯卡有很多 VRAM，你可以在不影響幀速率的情況下增加它（如果你看到幀速率急劇下降，你就知道你調太多了）。
+STRING Anisotropic Filtering====各向異性過濾
+STRING Increasing this slider makes runways and flat surfaces sharper from low angles. This impacts your graphics card, so if you have a very powerful graphics card, you can set this up to 8x or higher.====增加此滑塊可使跑道和平面從低角度變得更清晰。 這會影響您的顯卡，因此如果您有一個非常強大的顯卡，您可以將其設置為 8 倍或更高。
+STRING Use %1:driver name% for faster rendering====使用 %1:driver name% 更快的渲染
+STRING The %1:driver name% is faster than the default OpenGL driver and may improve your framerate. Not all third party plugins are compatible with the %2:driver name%; if your installed third party add-ons do not render correctly, disable this option and restart X-Plane.==== %1:driver name% 比默認的 OpenGL 驅動程序更快，並且可能會提高您的幀速率。 並非所有第三方插件都與 %2:driver name%; 兼容。 如果您安裝的第三方插件無法正確渲染，請禁用此選項並重新啟動 X-Plane。
+STRING ACCESSIBILITY====無障礙
+STRING Base Font Size====基礎文字大小
+STRING Increasing this slider will increase the size of text independent of the rest of the user interface size.====增加此滑塊將增加文本的大小，而與用戶界面的其餘部分無關。
+STRING This increases the overall size of all user interface elements. It is most commonly used with high-DPI displays; a 4K display with a 200% user interface size will have its user interface sized like a 1080p display.====這增加了所有用戶界面元素的整體大小。 它最常用於高 DPI 顯示器； 具有 200% 用戶界面尺寸的 4K 顯示器的用戶界面尺寸將類似於 1080p 顯示器。
+STRING X-Plane cannot increase the user interface size at this screen size.====X-Plane 無法在此屏幕尺寸下增加用戶界面尺寸。
+STRING Check this box to use offsets designed for a flat “wall” of monitors.====選中此框以使用為顯示器的平坦“牆面”設計的偏移量。
+STRING Use fractional offsets for a flat “wall” of monitors.====對顯示器的平坦“牆面”使用分數偏移。
+STRING The networking system is configured to send data output, but no data was sent. (Perhaps you haven’t selected any items to send over the network in the Data Output tab?)====網絡系統配置為發送數據輸出，但未發送數據。 （也許您還沒有在“數據輸出”選項卡中選擇任何要通過網絡發送的項目？）
+STRING Inbound network traffic disabled.====入站網絡流量已禁用。
+STRING THIS MACHINE’S IP ADDRESSES====這台機器的IP地址
+STRING This machine’s role====這台機器的作用
+STRING Use this section to set other simulators on your local network to act as this machine’s external visuals. Those other computers will then act as extensions of this machine’s displays.====使用此部分將本地網絡上的其他模擬器設置為這台機器的外部視覺效果。 然後，這些其他計算機將充當這台機器顯示器的擴展。
+STRING Each external visual can either have its view locked to this machine’s (useful for linking together many computers to show the scenery), or its view can be independent of this machine (useful if you want to have one machine always display your instrument panel, for instance, even when your master machine is in an external view).====每個外部視覺都可以將其視圖鎖定到這台機器的視圖（用於將多台計算機連接在一起以顯示風景），或者它的視圖可以獨立於這台機器（如果您想讓一台機器始終顯示您的儀表板，這很有用，例如 例如，即使您的主機在外部視圖中）。
+STRING Use this section to set another simulator on your local network to act as this machine’s master simulator, so that this machine will act as an extension of the master simulator’s displays.====使用此部分設置本地網絡上的另一個模擬器作為這台機器的主模擬器，這樣這台機器將作為主模擬器顯示器的擴展。
+STRING You can configure this machine’s view relative to the master using the Graphics tab above.====您可以使用上面的圖形選項卡配置此機器相對於主機的視圖。
+STRING If you want a suffix to always be added to the end of the aircraft folders we open on this computer, check this box and enter the suffix below. This is useful if you have two aircraft models, one with the pilot-side cockpit and the other with the copilot-side cockpit, with “Aircraft Folder\My Aircraft.acf” on the master computer, and “Aircraft Folder-copilot\My Aircraft.acf” on an external cockpit, for example. In that case, you would enter “-copilot” as the suffix (on the external cockpit computer only).====如果您希望始終將後綴添加到我們在這台計算機上打開的飛機文件夾的末尾，請選中此框並輸入下面的後綴。 如果您有兩個飛機模型，一個帶有飛行員側駕駛艙，另一個帶有副駕駛側駕駛艙，這很有用，主計算機上有“Aircraft Folder\My Aircraft.acf”，“Aircraft Folder-copilot\My 例如，外部駕駛艙上的 Aircraft.acf”。 在這種情況下，您將輸入“-copilot”作為後綴（僅在外部駕駛艙計算機上）。
+STRING Xavion and FlyQ can receive AHRS, GPS, and ADS-B data from X-Plane, allowing you to use those apps with your simulator as though you were sitting in a real cockpit.====Xavion 和 FlyQ 可以從 X-Plane 接收 AHRS、GPS 和 ADS-B 數據，讓您可以在模擬器上使用這些應用程序，就像坐在真實的駕駛艙中一樣。
+STRING OTHER MAPPING APPS====其他地圖軟件
+STRING A variety of other mapping apps can receive AHRS data from X-Plane, allowing you to use them with your simulator as though you were sitting in a real cockpit.====許多其他地圖應用程序可以從 X-Plane 接收 AHRS 數據，讓您可以將它們與您的模擬器一起使用，就像您坐在真正的駕駛艙中一樣。
+STRING See an up-to-date list online====在線查看最新列表
+STRING Supported apps include ForeFlight, Garmin Pilot, FltPlan Go, & many more.====支持的應用程序包括 ForeFlight、Garmin Pilot、FltPlan Go 等。
+STRING Broadcast to all mapping apps on the network====廣播到網絡上的所有地圖應用程序
+STRING Transmit to a single mapping app====傳輸到單個地圖應用程序
+STRING You must restart X-Plane for any changes to take effect!====您必須重新啟動 X-Plane 才能使更改生效！
+STRING Use UPnP for IPv4 port forwarding====使用 UPnP 進行 IPv4 端口轉發
+STRING Port we receive on (legacy)====我們收到的端口（舊版）
+STRING Port we send from (legacy)====我們發送的端口（舊版）
+STRING See the file “Exchanging Data with X-Plane.rtfd” in your X-Plane directory’s Instructions folder for more information.====有關詳細信息，請參閱 X-Plane 目錄的 Instructions 文件夾中的文件“Exchanging Data with X-Plane.rtfd”。
+STRING Reset flight to next runway on current airport====將航班重置到當前機場的下一條跑道
+STRING Slider #1 On/Off control.====Slider #1 On/Off control.
+STRING Slider #2 On/Off control.====Slider #2 On/Off control.
+STRING Slider #3 On/Off control.====Slider #3 On/Off control.
+STRING Slider #4 On/Off control.====Slider #4 On/Off control.
+STRING Slider #5 On/Off control.====Slider #5 On/Off control.
+STRING Slider #6 On/Off control.====Slider #6 On/Off control.
+STRING Slider #7 On/Off control.====Slider #7 On/Off control.
+STRING Slider #8 On/Off control.====Slider #8 On/Off control.
+STRING Slider #9 On/Off control.====Slider #9 On/Off control.
+STRING Slider #10 On/Off control.====Slider #10 On/Off control.
+STRING Slider #11 On/Off control.====Slider #11 On/Off control.
+STRING Slider #12 On/Off control.====Slider #12 On/Off control.
+STRING Slider #13 On/Off control.====Slider #13 On/Off control.
+STRING Slider #14 On/Off control.====Slider #14 On/Off control.
+STRING Slider #15 On/Off control.====Slider #15 On/Off control.
+STRING Slider #16 On/Off control.====Slider #16 On/Off control.
+STRING Slider #17 On/Off control.====Slider #17 On/Off control.
+STRING Slider #18 On/Off control.====Slider #18 On/Off control.
+STRING Slider #19 On/Off control.====Slider #19 On/Off control.
+STRING Slider #20 On/Off control.====Slider #20 On/Off control.
+STRING Slider #21 On/Off control.====Slider #21 On/Off control.
+STRING Slider #22 On/Off control.====Slider #22 On/Off control.
+STRING Slider #23 On/Off control.====Slider #23 On/Off control.
+STRING Slider #24 On/Off control.====Slider #24 On/Off control.
+STRING Toggle the particle system browser window.====開關粒子系統瀏覽器窗口
+STRING Toggle the frame timing profiler window.====開關frame timing profiler窗口.
+STRING Toggle the VRAM profiler window.====開關VRAM profiler窗口.
+STRING Toggle the Plugin Admin window.====開關Plugin Admin窗口.
+STRING Toggle on-screen frame-rate display.====開關屏幕幀率顯示.
+STRING Force reloading the current aircraft (including art).====強制重新載入當前飛行器 (包括藝術).
+STRING Force reloading the current aircraft (skip art reload).====強制重新加載當前飛行器.
+STRING Toggle display of the cockpit data output.====顯示或關閉駕駛艙日誌匯出.
+STRING Toggle the Location details window.====開關詳細位置窗口.
+STRING Toggle enabling of VR hardware.====開關有效的VR設備.
+STRING Idle high/low toggle Engine 1.====Idle high/low toggle Engine 1.
+STRING Idle high/low toggle Engine 2.====Idle high/low toggle Engine 2.
+STRING Idle high/low toggle Engine 3.====Idle high/low toggle Engine 3.
+STRING Idle high/low toggle Engine 4.====Idle high/low toggle Engine 4.
+STRING Idle high/low toggle Engine 5.====Idle high/low toggle Engine 5.
+STRING Idle high/low toggle Engine 6.====Idle high/low toggle Engine 6.
+STRING Idle high/low toggle Engine 7.====Idle high/low toggle Engine 7.
+STRING Idle high/low toggle Engine 8.====Idle high/low toggle Engine 8.
+STRING Engage starter #1.====Engage starter #1.
+STRING Engage starter #2.====Engage starter #2.
+STRING Engage starter #3.====Engage starter #3.
+STRING Engage starter #4.====Engage starter #4.
+STRING Engage starter #5.====Engage starter #5.
+STRING Engage starter #6.====Engage starter #6.
+STRING Engage starter #7.====Engage starter #7.
+STRING Engage starter #8.====Engage starter #8.
+STRING Throttle down a bit for engine #1.====為 #1號引起稍微減速.
+STRING Throttle down a bit for engine #2.====為 #2號引起稍微減速.
+STRING Throttle down a bit for engine #3.====為 #3號引起稍微減速.
+STRING Throttle down a bit for engine #4.====為 #4號引起稍微減速.
+STRING Throttle down a bit for engine #5.====為 #5號引起稍微減速.
+STRING Throttle down a bit for engine #6.====為 #6號引起稍微減速.
+STRING Throttle down a bit for engine #7.====為 #7號引起稍微減速.
+STRING Throttle down a bit for engine #8.====為 #8號引起稍微減速.
+STRING Throttle up a bit for engine #1.====為 #1號引擎稍微加速.
+STRING Throttle up a bit for engine #2.====為 #2號引擎稍微加速.
+STRING Throttle up a bit for engine #3.====為 #3號引擎稍微加速.
+STRING Throttle up a bit for engine #4.====為 #4號引擎稍微加速.
+STRING Throttle up a bit for engine #5.====為 #5號引擎稍微加速.
+STRING Throttle up a bit for engine #6.====為 #6號引擎稍微加速.
+STRING Throttle up a bit for engine #7.====為 #7號引擎稍微加速.
+STRING Throttle up a bit for engine #8.====為 #8號引擎稍微加速.
+STRING Toggle beta prop #1.====Toggle beta prop #1.
+STRING Toggle beta prop #2.====Toggle beta prop #2.
+STRING Toggle beta prop #3.====Toggle beta prop #3.
+STRING Toggle beta prop #4.====Toggle beta prop #4.
+STRING Toggle beta prop #5.====Toggle beta prop #5.
+STRING Toggle beta prop #6.====Toggle beta prop #6.
+STRING Toggle beta prop #7.====Toggle beta prop #7.
+STRING Toggle beta prop #8.====Toggle beta prop #8.
+STRING Toggle thrust reversers #1.====開關 #1號反推.
+STRING Toggle thrust reversers #2.====開關 #2號反推.
+STRING Toggle thrust reversers #3.====開關 #3號反推.
+STRING Toggle thrust reversers #4.====開關 #4號反推.
+STRING Toggle thrust reversers #5.====開關 #5號反推.
+STRING Toggle thrust reversers #6.====開關 #6號反推.
+STRING Toggle thrust reversers #7.====開關 #7號反推.
+STRING Toggle thrust reversers #8.====開關 #8號反推.
+STRING Hold thrust reverse at max #1.====反推最大 #1.
+STRING Hold thrust reverse at max #2.====反推最大 #2.
+STRING Hold thrust reverse at max #3.====反推最大 #3.
+STRING Hold thrust reverse at max #4.====反推最大 #4.
+STRING Hold thrust reverse at max #5.====反推最大 #5.
+STRING Hold thrust reverse at max #6.====反推最大 #6.
+STRING Hold thrust reverse at max #7.====反推最大 #7.
+STRING Hold thrust reverse at max #8.====反推最大 #8.
+STRING Prop down a bit for engine #1.====Prop down a bit for engine #1.
+STRING Prop down a bit for engine #2.====Prop down a bit for engine #2.
+STRING Prop down a bit for engine #3.====Prop down a bit for engine #3.
+STRING Prop down a bit for engine #4.====Prop down a bit for engine #4.
+STRING Prop down a bit for engine #5.====Prop down a bit for engine #5.
+STRING Prop down a bit for engine #6.====Prop down a bit for engine #6.
+STRING Prop down a bit for engine #7.====Prop down a bit for engine #7.
+STRING Prop down a bit for engine #8.====Prop down a bit for engine #8.
+STRING Prop up a bit for engine #1.====Prop up a bit for engine #1.
+STRING Prop up a bit for engine #2.====Prop up a bit for engine #2.
+STRING Prop up a bit for engine #3.====Prop up a bit for engine #3.
+STRING Prop up a bit for engine #4.====Prop up a bit for engine #4.
+STRING Prop up a bit for engine #5.====Prop up a bit for engine #5.
+STRING Prop up a bit for engine #6.====Prop up a bit for engine #6.
+STRING Prop up a bit for engine #7.====Prop up a bit for engine #7.
+STRING Prop up a bit for engine #8.====Prop up a bit for engine #8.
+STRING Mixture down a bit for engine #1.====Mixture down a bit for engine #1.
+STRING Mixture down a bit for engine #2.====Mixture down a bit for engine #2.
+STRING Mixture down a bit for engine #3.====Mixture down a bit for engine #3.
+STRING Mixture down a bit for engine #4.====Mixture down a bit for engine #4.
+STRING Mixture down a bit for engine #5.====Mixture down a bit for engine #5.
+STRING Mixture down a bit for engine #6.====Mixture down a bit for engine #6.
+STRING Mixture down a bit for engine #7.====Mixture down a bit for engine #7.
+STRING Mixture down a bit for engine #8.====Mixture down a bit for engine #8.
+STRING Mixture up a bit for engine #1.====Mixture up a bit for engine #1.
+STRING Mixture up a bit for engine #2.====Mixture up a bit for engine #2.
+STRING Mixture up a bit for engine #3.====Mixture up a bit for engine #3.
+STRING Mixture up a bit for engine #4.====Mixture up a bit for engine #4.
+STRING Mixture up a bit for engine #5.====Mixture up a bit for engine #5.
+STRING Mixture up a bit for engine #6.====Mixture up a bit for engine #6.
+STRING Mixture up a bit for engine #7.====Mixture up a bit for engine #7.
+STRING Mixture up a bit for engine #8.====Mixture up a bit for engine #8.
+STRING Magnetos down one notch for engine #1.====Magnetos down one notch for engine #1.
+STRING Magnetos down one notch for engine #2.====Magnetos down one notch for engine #2.
+STRING Magnetos down one notch for engine #3.====Magnetos down one notch for engine #3.
+STRING Magnetos down one notch for engine #4.====Magnetos down one notch for engine #4.
+STRING Magnetos down one notch for engine #5.====Magnetos down one notch for engine #5.
+STRING Magnetos down one notch for engine #6.====Magnetos down one notch for engine #6.
+STRING Magnetos down one notch for engine #7.====Magnetos down one notch for engine #7.
+STRING Magnetos down one notch for engine #8.====Magnetos down one notch for engine #8.
+STRING Magnetos up one notch for engine #1.====Magnetos up one notch for engine #1.
+STRING Magnetos up one notch for engine #2.====Magnetos up one notch for engine #2.
+STRING Magnetos up one notch for engine #3.====Magnetos up one notch for engine #3.
+STRING Magnetos up one notch for engine #4.====Magnetos up one notch for engine #4.
+STRING Magnetos up one notch for engine #5.====Magnetos up one notch for engine #5.
+STRING Magnetos up one notch for engine #6.====Magnetos up one notch for engine #6.
+STRING Magnetos up one notch for engine #7.====Magnetos up one notch for engine #7.
+STRING Magnetos up one notch for engine #8.====Magnetos up one notch for engine #8.
+STRING Magnetos off for engine #1.====Magnetos off for engine #1.
+STRING Magnetos off for engine #2.====Magnetos off for engine #2.
+STRING Magnetos off for engine #3.====Magnetos off for engine #3.
+STRING Magnetos off for engine #4.====Magnetos off for engine #4.
+STRING Magnetos off for engine #5.====Magnetos off for engine #5.
+STRING Magnetos off for engine #6.====Magnetos off for engine #6.
+STRING Magnetos off for engine #7.====Magnetos off for engine #7.
+STRING Magnetos off for engine #8.====Magnetos off for engine #8.
+STRING Magnetos left for engine #1.====Magnetos left for engine #1.
+STRING Magnetos left for engine #2.====Magnetos left for engine #2.
+STRING Magnetos left for engine #3.====Magnetos left for engine #3.
+STRING Magnetos left for engine #4.====Magnetos left for engine #4.
+STRING Magnetos left for engine #5.====Magnetos left for engine #5.
+STRING Magnetos left for engine #6.====Magnetos left for engine #6.
+STRING Magnetos left for engine #7.====Magnetos left for engine #7.
+STRING Magnetos left for engine #8.====Magnetos left for engine #8.
+STRING Magnetos right for engine #1.====Magnetos right for engine #1.
+STRING Magnetos right for engine #2.====Magnetos right for engine #2.
+STRING Magnetos right for engine #3.====Magnetos right for engine #3.
+STRING Magnetos right for engine #4.====Magnetos right for engine #4.
+STRING Magnetos right for engine #5.====Magnetos right for engine #5.
+STRING Magnetos right for engine #6.====Magnetos right for engine #6.
+STRING Magnetos right for engine #7.====Magnetos right for engine #7.
+STRING Magnetos right for engine #8.====Magnetos right for engine #8.
+STRING Magnetos both for engine #1.====Magnetos both for engine #1.
+STRING Magnetos both for engine #2.====Magnetos both for engine #2.
+STRING Magnetos both for engine #3.====Magnetos both for engine #3.
+STRING Magnetos both for engine #4.====Magnetos both for engine #4.
+STRING Magnetos both for engine #5.====Magnetos both for engine #5.
+STRING Magnetos both for engine #6.====Magnetos both for engine #6.
+STRING Magnetos both for engine #7.====Magnetos both for engine #7.
+STRING Magnetos both for engine #8.====Magnetos both for engine #8.
+STRING Igniter #1 arm off.====Igniter #1 arm off.
+STRING Igniter #2 arm off.====Igniter #2 arm off.
+STRING Igniter #3 arm off.====Igniter #3 arm off.
+STRING Igniter #4 arm off.====Igniter #4 arm off.
+STRING Igniter #5 arm off.====Igniter #5 arm off.
+STRING Igniter #6 arm off.====Igniter #6 arm off.
+STRING Igniter #7 arm off.====Igniter #7 arm off.
+STRING Igniter #8 arm off.====Igniter #8 arm off.
+STRING Igniter #1 arm on.====Igniter #1 arm on.
+STRING Igniter #2 arm on.====Igniter #2 arm on.
+STRING Igniter #3 arm on.====Igniter #3 arm on.
+STRING Igniter #4 arm on.====Igniter #4 arm on.
+STRING Igniter #5 arm on.====Igniter #5 arm on.
+STRING Igniter #6 arm on.====Igniter #6 arm on.
+STRING Igniter #7 arm on.====Igniter #7 arm on.
+STRING Igniter #8 arm on.====Igniter #8 arm on.
+STRING Igniter #1 contin-ignition off.====Igniter #1 contin-ignition off.
+STRING Igniter #2 contin-ignition off.====Igniter #2 contin-ignition off.
+STRING Igniter #3 contin-ignition off.====Igniter #3 contin-ignition off.
+STRING Igniter #4 contin-ignition off.====Igniter #4 contin-ignition off.
+STRING Igniter #5 contin-ignition off.====Igniter #5 contin-ignition off.
+STRING Igniter #6 contin-ignition off.====Igniter #6 contin-ignition off.
+STRING Igniter #7 contin-ignition off.====Igniter #7 contin-ignition off.
+STRING Igniter #8 contin-ignition off.====Igniter #8 contin-ignition off.
+STRING Igniter #1 contin-ignition on.====Igniter #1 contin-ignition on.
+STRING Igniter #2 contin-ignition on.====Igniter #2 contin-ignition on.
+STRING Igniter #3 contin-ignition on.====Igniter #3 contin-ignition on.
+STRING Igniter #4 contin-ignition on.====Igniter #4 contin-ignition on.
+STRING Igniter #5 contin-ignition on.====Igniter #5 contin-ignition on.
+STRING Igniter #6 contin-ignition on.====Igniter #6 contin-ignition on.
+STRING Igniter #7 contin-ignition on.====Igniter #7 contin-ignition on.
+STRING Igniter #8 contin-ignition on.====Igniter #8 contin-ignition on.
+STRING Ignition key down one notch for engine #1.====Ignition key down one notch for engine #1.
+STRING Ignition key down one notch for engine #2.====Ignition key down one notch for engine #2.
+STRING Ignition key down one notch for engine #3.====Ignition key down one notch for engine #3.
+STRING Ignition key down one notch for engine #4.====Ignition key down one notch for engine #4.
+STRING Ignition key down one notch for engine #5.====Ignition key down one notch for engine #5.
+STRING Ignition key down one notch for engine #6.====Ignition key down one notch for engine #6.
+STRING Ignition key down one notch for engine #7.====Ignition key down one notch for engine #7.
+STRING Ignition key down one notch for engine #8.====Ignition key down one notch for engine #8.
+STRING Ignition key up one notch for engine #1.====Ignition key up one notch for engine #1.
+STRING Ignition key up one notch for engine #2.====Ignition key up one notch for engine #2.
+STRING Ignition key up one notch for engine #3.====Ignition key up one notch for engine #3.
+STRING Ignition key up one notch for engine #4.====Ignition key up one notch for engine #4.
+STRING Ignition key up one notch for engine #5.====Ignition key up one notch for engine #5.
+STRING Ignition key up one notch for engine #6.====Ignition key up one notch for engine #6.
+STRING Ignition key up one notch for engine #7.====Ignition key up one notch for engine #7.
+STRING Ignition key up one notch for engine #8.====Ignition key up one notch for engine #8.
+STRING Move cowl flaps #1 closed a bit.====Move cowl flaps #1 closed a bit.
+STRING Move cowl flaps #2 closed a bit.====Move cowl flaps #2 closed a bit.
+STRING Move cowl flaps #3 closed a bit.====Move cowl flaps #3 closed a bit.
+STRING Move cowl flaps #4 closed a bit.====Move cowl flaps #4 closed a bit.
+STRING Move cowl flaps #5 closed a bit.====Move cowl flaps #5 closed a bit.
+STRING Move cowl flaps #6 closed a bit.====Move cowl flaps #6 closed a bit.
+STRING Move cowl flaps #7 closed a bit.====Move cowl flaps #7 closed a bit.
+STRING Move cowl flaps #8 closed a bit.====Move cowl flaps #8 closed a bit.
+STRING Move cowl flaps #1 open a bit.====Move cowl flaps #1 open a bit.
+STRING Move cowl flaps #2 open a bit.====Move cowl flaps #2 open a bit.
+STRING Move cowl flaps #3 open a bit.====Move cowl flaps #3 open a bit.
+STRING Move cowl flaps #4 open a bit.====Move cowl flaps #4 open a bit.
+STRING Move cowl flaps #5 open a bit.====Move cowl flaps #5 open a bit.
+STRING Move cowl flaps #6 open a bit.====Move cowl flaps #6 open a bit.
+STRING Move cowl flaps #7 open a bit.====Move cowl flaps #7 open a bit.
+STRING Move cowl flaps #8 open a bit.====Move cowl flaps #8 open a bit.
+STRING Pull fuel and mags for shut-down #1.====Pull fuel and mags for shut-down #1.
+STRING Pull fuel and mags for shut-down #2.====Pull fuel and mags for shut-down #2.
+STRING Pull fuel and mags for shut-down #3.====Pull fuel and mags for shut-down #3.
+STRING Pull fuel and mags for shut-down #4.====Pull fuel and mags for shut-down #4.
+STRING Pull fuel and mags for shut-down #5.====Pull fuel and mags for shut-down #5.
+STRING Pull fuel and mags for shut-down #6.====Pull fuel and mags for shut-down #6.
+STRING Pull fuel and mags for shut-down #7.====Pull fuel and mags for shut-down #7.
+STRING Pull fuel and mags for shut-down #8.====Pull fuel and mags for shut-down #8.
+STRING FADEC #1 off.====FADEC #1 關閉.
+STRING FADEC #2 off.====FADEC #2 關閉.
+STRING FADEC #3 off.====FADEC #3 關閉.
+STRING FADEC #4 off.====FADEC #4 關閉.
+STRING FADEC #5 off.====FADEC #5 關閉.
+STRING FADEC #6 off.====FADEC #6 關閉.
+STRING FADEC #7 off.====FADEC #7 關閉.
+STRING FADEC #8 off.====FADEC #8 關閉.
+STRING FADEC #1 on.====FADEC #1 開啟.
+STRING FADEC #2 on.====FADEC #2 開啟.
+STRING FADEC #3 on.====FADEC #3 開啟.
+STRING FADEC #4 on.====FADEC #4 開啟.
+STRING FADEC #5 on.====FADEC #5 開啟.
+STRING FADEC #6 on.====FADEC #6 開啟.
+STRING FADEC #7 on.====FADEC #7 開啟.
+STRING FADEC #8 on.====FADEC #8 開啟.
+STRING Fire extinguisher #1 off.==== #1號滅火器關閉.
+STRING Fire extinguisher #2 off.==== #2號滅火器關閉.
+STRING Fire extinguisher #3 off.==== #3號滅火器關閉.
+STRING Fire extinguisher #4 off.==== #4號滅火器關閉.
+STRING Fire extinguisher #5 off.==== #5號滅火器關閉.
+STRING Fire extinguisher #6 off.==== #6號滅火器關閉.
+STRING Fire extinguisher #7 off.==== #7號滅火器關閉.
+STRING Fire extinguisher #8 off.==== #8號滅火器關閉.
+STRING Fire extinguisher #1 on.==== #1號滅火器開啟.
+STRING Fire extinguisher #2 on.==== #2號滅火器開啟.
+STRING Fire extinguisher #3 on.==== #3號滅火器開啟.
+STRING Fire extinguisher #4 on.==== #4號滅火器開啟.
+STRING Fire extinguisher #5 on.==== #5號滅火器開啟.
+STRING Fire extinguisher #6 on.==== #6號滅火器開啟.
+STRING Fire extinguisher #7 on.==== #7號滅火器開啟.
+STRING Fire extinguisher #8 on.==== #8號滅火器開啟.
+STRING Generator #1 off.====發電機 #1號關閉.
+STRING Generator #2 off.====發電機 #2號關閉.
+STRING Generator #3 off.====發電機 #3號關閉.
+STRING Generator #4 off.====發電機 #4號關閉.
+STRING Generator #5 off.====發電機 #5號關閉.
+STRING Generator #6 off.====發電機 #6號關閉.
+STRING Generator #7 off.====發電機 #7號關閉.
+STRING Generator #8 off.====發電機 #8號關閉.
+STRING Generator #1 on.====發電機 #1號開啟.
+STRING Generator #2 on.====發電機 #2號開啟.
+STRING Generator #3 on.====發電機 #3號開啟.
+STRING Generator #4 on.====發電機 #4號開啟.
+STRING Generator #5 on.====發電機 #5號開啟.
+STRING Generator #6 on.====發電機 #6號開啟.
+STRING Generator #7 on.====發電機 #7號開啟.
+STRING Generator #8 on.====發電機 #8號開啟.
+STRING Generator #1 toggle.====發電機 #1號開關.
+STRING Generator #2 toggle.====發電機 #2號開關.
+STRING Generator #3 toggle.====發電機 #3號開關.
+STRING Generator #4 toggle.====發電機 #4號開關.
+STRING Generator #5 toggle.====發電機 #5號開關.
+STRING Generator #6 toggle.====發電機 #6號開關.
+STRING Generator #7 toggle.====發電機 #7號開關.
+STRING Generator #8 toggle.====發電機 #8號開關.
+STRING Generator #1 reset.====發電機 #1號重置.
+STRING Generator #2 reset.====發電機 #2號重置.
+STRING Generator #3 reset.====發電機 #3號重置.
+STRING Generator #4 reset.====發電機 #4號重置.
+STRING Generator #5 reset.====發電機 #5號重置.
+STRING Generator #6 reset.====發電機 #6號重置.
+STRING Generator #7 reset.====發電機 #7號重置.
+STRING Generator #8 reset.====發電機 #8號重置.
+STRING Alternate air #1 off.====Alternate air #1 off.
+STRING Alternate air #2 off.====Alternate air #2 off.
+STRING Alternate air #3 off.====Alternate air #3 off.
+STRING Alternate air #4 off.====Alternate air #4 off.
+STRING Alternate air #5 off.====Alternate air #5 off.
+STRING Alternate air #6 off.====Alternate air #6 off.
+STRING Alternate air #7 off.====Alternate air #7 off.
+STRING Alternate air #8 off.====Alternate air #8 off.
+STRING Alternate air #1 on.====Alternate air #1 on.
+STRING Alternate air #2 on.====Alternate air #2 on.
+STRING Alternate air #3 on.====Alternate air #3 on.
+STRING Alternate air #4 on.====Alternate air #4 on.
+STRING Alternate air #5 on.====Alternate air #5 on.
+STRING Alternate air #6 on.====Alternate air #6 on.
+STRING Alternate air #7 on.====Alternate air #7 on.
+STRING Alternate air #8 on.====Alternate air #8 on.
+STRING Alternate air backup #1 off.====Alternate air backup #1 off.
+STRING Alternate air backup #2 off.====Alternate air backup #2 off.
+STRING Alternate air backup #3 off.====Alternate air backup #3 off.
+STRING Alternate air backup #4 off.====Alternate air backup #4 off.
+STRING Alternate air backup #5 off.====Alternate air backup #5 off.
+STRING Alternate air backup #6 off.====Alternate air backup #6 off.
+STRING Alternate air backup #7 off.====Alternate air backup #7 off.
+STRING Alternate air backup #8 off.====Alternate air backup #8 off.
+STRING Alternate air backup #1 on.====Alternate air backup #1 on.
+STRING Alternate air backup #2 on.====Alternate air backup #2 on.
+STRING Alternate air backup #3 on.====Alternate air backup #3 on.
+STRING Alternate air backup #4 on.====Alternate air backup #4 on.
+STRING Alternate air backup #5 on.====Alternate air backup #5 on.
+STRING Alternate air backup #6 on.====Alternate air backup #6 on.
+STRING Alternate air backup #7 on.====Alternate air backup #7 on.
+STRING Alternate air backup #8 on.====Alternate air backup #8 on.
+STRING Water rudder down (engage).====水舵下降（接合）.
+STRING Water rudder up (disengage).====水舵向上（脫離）.
+STRING Toggle water rudder.====開關水舵.
+STRING Auto-brakes off/disarm.====自動剎車關閉/解除.
+STRING Auto-brakes RTO.====自動剎車 RTO.
+STRING Auto-brakes 1.====自動剎車 1.
+STRING Auto-brakes 2.====自動剎車 2.
+STRING Auto-brakes 3.====自動剎車 3.
+STRING Auto-brakes max.====自動剎車最大.
+STRING Toggle hotel mode.====開關酒店模式.
+STRING Pitch trim A up.====Pitch trim A up.
+STRING Pitch trim A down.====Pitch trim A down.
+STRING Pitch trim B up.====Pitch trim B up.
+STRING Pitch trim B down.====Pitch trim B down.
+STRING Pitch trim up - Mechanical, not servo.====Pitch trim up - Mechanical, not servo.
+STRING Pitch trim down - Mechanical, not servo.====Pitch trim down - Mechanical, not servo.
+STRING Fuel pump for tank #1 on.====油箱燃油泵 #1開啟.
+STRING Fuel pump for tank #2 on.====油箱用油泵 #2開啟.
+STRING Fuel pump for tank #3 on.====油箱燃油泵 #3開啟.
+STRING Fuel pump for tank #4 on.====油箱燃油泵 #4開啟.
+STRING Fuel pump for tank #5 on.====油箱燃油泵 #5開啟.
+STRING Fuel pump for tank #6 on.====油箱燃油泵 #6開啟.
+STRING Fuel pump for tank #7 on.====油箱燃油泵 #7開啟.
+STRING Fuel pump for tank #8 on.====油箱燃油泵 #8開啟.
+STRING Fuel pump for tank #9 on.====油箱燃油泵 #9開啟.
+STRING Fuel pump for tank #1 off.====油箱燃油泵 #1關閉.
+STRING Fuel pump for tank #2 off.====油箱燃油泵 #2關閉.
+STRING Fuel pump for tank #3 off.====油箱燃油泵 #3關閉.
+STRING Fuel pump for tank #4 off.====油箱燃油泵 #4關閉.
+STRING Fuel pump for tank #5 off.====油箱燃油泵 #5關閉.
+STRING Fuel pump for tank #6 off.====油箱燃油泵 #6關閉.
+STRING Fuel pump for tank #7 off.====油箱燃油泵 #7關閉.
+STRING Fuel pump for tank #8 off.====油箱燃油泵 #8關閉.
+STRING Fuel pump for tank #9 off.====油箱燃油泵 #9關閉.
+STRING Set fuel selector for left engine to none (shut off).====將左側發動機的燃料選擇器設置為無（關閉）.
+STRING Set fuel selector for left engine to left tanks.====將左側發動機的燃料選擇器設置為左側油箱.
+STRING Set fuel selector for left engine to center tanks.====將左側發動機的燃油選擇器設置為中央油箱.
+STRING Set fuel selector for left engine to right tanks.====將左側發動機的燃油選擇器設置為右側油箱.
+STRING Set fuel selector for left engine to all tanks.====將左側發動機的燃油選擇器設置為所有油箱.
+STRING Set fuel selector for right engine to none (shut off).====將右側發動機的燃料選擇器設置為無（關閉）.
+STRING Set fuel selector for right engine to left tanks.====將右側發動機的燃油選擇器設置為左側油箱.
+STRING Set fuel selector for right engine to center tanks.====將右發動機的燃油選擇器設置到中央油箱.
+STRING Set fuel selector for right engine to right tanks.====將右發動機的燃油選擇器設置到右油箱.
+STRING Set fuel selector for right engine to all tanks.====將右發動機的燃油選擇器設置到所有油箱.
+STRING Transfer fuel to aft.====將燃料轉移到機尾.
+STRING Transfer fuel from aft.====從機尾轉移燃料.
+STRING Aux to feeder transfer left override.====Aux to feeder transfer left override.
+STRING Aux to feeder transfer left on.====Aux to feeder transfer left on.
+STRING Aux to feeder transfer left off.====Aux to feeder transfer left off.
+STRING Aux to feeder transfer left off->on->overide.====Aux to feeder transfer left off->on->overide.
+STRING Aux to feeder transfer left override->on->off.====Aux to feeder transfer left override->on->off.
+STRING Aux to feeder transfer right override.====Aux to feeder transfer right override.
+STRING Aux to feeder transfer right on.====Aux to feeder transfer right on.
+STRING Aux to feeder transfer right off.====Aux to feeder transfer right off.
+STRING Aux to feeder transfer right off->on->overide.====Aux to feeder transfer right off->on->overide.
+STRING Aux to feeder transfer right override->on->off.====Aux to feeder transfer right override->on->off.
+STRING Aux to feeder transfer test left.====Aux to feeder transfer test left.
+STRING Aux to feeder transfer test right.====Aux to feeder transfer test right.
+STRING Crossfeed valve open.====交叉燃油閥打開.
+STRING Open crossfeed valve when pressure difference detected.====檢測到壓差時打開交叉燃油閥.
+STRING Close crossfeed valve and turn off auto-crossfeed.====關閉交叉燃油閥並關閉自動交叉燃油.
+STRING Auto-crossfeed off->auto->on.====自動交叉燃油閥門 關閉->自動->開啟.
+STRING Auto-crossfeed on->auto->off.====自動交叉燃油閥門 開啟->自動->關閉.
+STRING Fuel pump for engine #1 on.====引擎油泵 #1 開啟.
+STRING Fuel pump for engine #2 on.====引擎油泵 #2 開啟.
+STRING Fuel pump for engine #3 on.====引擎油泵 #3 開啟.
+STRING Fuel pump for engine #4 on.====引擎油泵 #4 開啟.
+STRING Fuel pump for engine #5 on.====引擎油泵 #5 開啟.
+STRING Fuel pump for engine #6 on.====引擎油泵 #6 開啟.
+STRING Fuel pump for engine #7 on.====引擎油泵 #7 開啟.
+STRING Fuel pump for engine #8 on.====引擎油泵 #8 開啟.
+STRING Fuel pump for engine #1 off.====引擎油泵 #1 關閉.
+STRING Fuel pump for engine #2 off.====引擎油泵 #2 關閉.
+STRING Fuel pump for engine #3 off.====引擎油泵 #3 關閉.
+STRING Fuel pump for engine #4 off.====引擎油泵 #4 關閉.
+STRING Fuel pump for engine #5 off.====引擎油泵 #5 關閉.
+STRING Fuel pump for engine #6 off.====引擎油泵 #6 關閉.
+STRING Fuel pump for engine #7 off.====引擎油泵 #7 關閉.
+STRING Fuel pump for engine #8 off.====引擎油泵 #8 關閉.
+STRING Fuel pump for engine #1 toggle.====開關引擎油泵 #1.
+STRING Fuel pump for engine #2 toggle.====開關引擎油泵 #2.
+STRING Fuel pump for engine #3 toggle.====開關引擎油泵 #3.
+STRING Fuel pump for engine #4 toggle.====開關引擎油泵 #4.
+STRING Fuel pump for engine #5 toggle.====開關引擎油泵 #5.
+STRING Fuel pump for engine #6 toggle.====開關引擎油泵 #6.
+STRING Fuel pump for engine #7 toggle.====開關引擎油泵 #7.
+STRING Fuel pump for engine #8 toggle.====開關引擎油泵 #8.
+STRING Fuel pump prime for engine #1 on.====發動機燃油泵填料 #1開啟.
+STRING Fuel pump prime for engine #2 on.====發動機燃油泵填料 #2開啟.
+STRING Fuel pump prime for engine #3 on.====發動機燃油泵填料 #3開啟.
+STRING Fuel pump prime for engine #4 on.====發動機燃油泵填料 #4開啟.
+STRING Fuel pump prime for engine #5 on.====發動機燃油泵填料 #5開啟.
+STRING Fuel pump prime for engine #6 on.====發動機燃油泵填料 #6開啟.
+STRING Fuel pump prime for engine #7 on.====發動機燃油泵填料 #7開啟.
+STRING Fuel pump prime for engine #8 on.====發動機燃油泵填料 #8開啟.
+STRING Fuel tanks show all tanks.====油箱顯示所有油箱.
+STRING Fuel tanks show nacelle tanks.====油箱展示機艙油箱.
+STRING APU emergency shutoff with fire handle.====帶消防手柄的 APU 緊急關閉裝置.
+STRING Re-charge batteries.====重新為充電電池.
+STRING Bleed air shut off engine 1.====引氣關閉發動機 1.
+STRING Bleed air shut off engine 2.====引氣關閉發動機 2.
+STRING Bleed air shut off engine 3.====引氣關閉發動機 3.
+STRING Bleed air shut off engine 4.====引氣關閉發動機 4.
+STRING Bleed air shut off engine 5.====引氣關閉發動機 5.
+STRING Bleed air shut off engine 6.====引氣關閉發動機 6.
+STRING Bleed air shut off engine 7.====引氣關閉發動機 7.
+STRING Bleed air shut off engine 8.====引氣關閉發動機 8.
+STRING Bleed air on engine 1.====引擎引氣開啟 1.
+STRING Bleed air on engine 2.====引擎引氣開啟 2.
+STRING Bleed air on engine 3.====引擎引氣開啟 3.
+STRING Bleed air on engine 4.====引擎引氣開啟 4.
+STRING Bleed air on engine 5.====引擎引氣開啟 5.
+STRING Bleed air on engine 6.====引擎引氣開啟 6.
+STRING Bleed air on engine 7.====引擎引氣開啟 7.
+STRING Bleed air on engine 8.====引擎引氣開啟 8.
+STRING Bleed air toggle engine 1.====引擎引氣開關 1.
+STRING Bleed air toggle engine 2.====引擎引氣開關 2.
+STRING Bleed air toggle engine 3.====引擎引氣開關 3.
+STRING Bleed air toggle engine 4.====引擎引氣開關 4.
+STRING Bleed air toggle engine 5.====引擎引氣開關 5.
+STRING Bleed air toggle engine 6.====引擎引氣開關 6.
+STRING Bleed air toggle engine 7.====引擎引氣開關 7.
+STRING Bleed air toggle engine 8.====引擎引氣開關 8.
+STRING Bleed air shut off GPU.====引氣關閉APU.
+STRING Bleed air on GPU.====引氣開啟GPU.
+STRING Bleed air toggle GPU.====引氣開關GPU.
+STRING Bleed air shut off APU.====引氣關閉APU.
+STRING Bleed air on APU.====引氣開啟APU.
+STRING Bleed air toggle APU.====引氣開關APU.
+STRING Bleed air shut left isolation.====引氣關閉左隔離.
+STRING Bleed air open left isolation.====引氣開啟左隔離.
+STRING Bleed air toggle left isolation.====開關引氣左隔離.
+STRING Bleed air shut right isolation.====引氣關閉右隔離.
+STRING Bleed air open right isolation.====引氣開啟右隔離.
+STRING Bleed air toggle right isolation.====開關引氣右隔離.
+STRING Bleed air left pack off.====左引氣關閉.
+STRING Bleed air left pack on.====左引氣開啟.
+STRING Bleed air left pack toggle.====左引氣開關.
+STRING Bleed air center pack off.====中央引氣關閉.
+STRING Bleed air center pack on.====中央引氣開啟.
+STRING Bleed air center pack toggle.====中央引氣開關.
+STRING Bleed air right pack off.====右引氣關閉.
+STRING Bleed air right pack on.====右引氣開啟.
+STRING Bleed air right pack toggle.====右引氣開關.
+STRING Air conditioning on.====空調開啟.
+STRING Air conditioning off.====空調關閉.
+STRING Electric heater on.====電暖開啟.
+STRING Electric heater on ground max.====地面電暖最大.
+STRING Electric heater off.====電暖關閉.
+STRING Electric heater off->on->grd max.====電暖 關閉->開啟->地面模式最大.
+STRING Electric heater grd max->on->off.====電暖 地面模式最大->開啟->關閉.
+STRING Vent fan auto (on only with AC or heat).====自動排氣扇（僅在AC或加熱時開啟）.
+STRING Vent fan on low.====自動排氣扇低檔位.
+STRING Vent fan high.====自動排氣扇高檔位.
+STRING Vent fan setting up.====啟動自動排氣扇.
+STRING Vent fan setting down.====關閉自動排氣扇.
+STRING Anti-ice: left static heat toggle.====Anti-ice: left static heat toggle.
+STRING Anti-ice: right static heat toggle.====Anti-ice: right static heat toggle.
+STRING Anti-ice: all wing, anti-ice heat on.====Anti-ice: all wing, anti-ice heat on.
+STRING Anti-ice: left wing, anti-ice heat on.====Anti-ice: left wing, anti-ice heat on.
+STRING Anti-ice: right wing, anti-ice heat on.====Anti-ice: right wing, anti-ice heat on.
+STRING Anti-ice: all wing, anti-ice heat off.====Anti-ice: all wing, anti-ice heat off.
+STRING Anti-ice: left wing, anti-ice heat off.====Anti-ice: left wing, anti-ice heat off.
+STRING Anti-ice: right wing, anti-ice heat off.====Anti-ice: right wing, anti-ice heat off.
+STRING Anti-ice: all wing, anti-ice heat toggle.====Anti-ice: all wing, anti-ice heat toggle.
+STRING Anti-ice: left wing, anti-ice heat toggle.====Anti-ice: left wing, anti-ice heat toggle.
+STRING Anti-ice: right wing, anti-ice heat toggle.====Anti-ice: right wing, anti-ice heat toggle.
+STRING Anti-ice: all wing, de-icing boots on schedule.====Anti-ice: all wing, de-icing boots on schedule.
+STRING Anti-ice: left wing, de-icing boots on schedule.====Anti-ice: left wing, de-icing boots on schedule.
+STRING Anti-ice: right wing, de-icing boots on schedule.====Anti-ice: right wing, de-icing boots on schedule.
+STRING Anti-ice: all wing, de-icing boots off.====Anti-ice: all wing, de-icing boots off.
+STRING Anti-ice: left wing, de-icing boots off.====Anti-ice: left wing, de-icing boots off.
+STRING Anti-ice: right wing, de-icing boots off.====Anti-ice: right wing, de-icing boots off.
+STRING Anti-ice: all wing, de-icing boots toggle.====Anti-ice: all wing, de-icing boots toggle.
+STRING Anti-ice: left wing, de-icing boots toggle.====Anti-ice: left wing, de-icing boots toggle.
+STRING Anti-ice: right wing, de-icing boots toggle.====Anti-ice: right wing, de-icing boots toggle.
+STRING Anti-ice: all wing, bleed anti-ice on.====Anti-ice: all wing, bleed anti-ice on.
+STRING Anti-ice: left wing, bleed anti-ice on.====Anti-ice: left wing, bleed anti-ice on.
+STRING Anti-ice: right wing, bleed anti-ice on.====Anti-ice: right wing, bleed anti-ice on.
+STRING Anti-ice: all wing, bleed anti-ice off.====Anti-ice: all wing, bleed anti-ice off.
+STRING Anti-ice: left wing, bleed anti-ice off.====Anti-ice: left wing, bleed anti-ice off.
+STRING Anti-ice: right wing, bleed anti-ice off.====Anti-ice: right wing, bleed anti-ice off.
+STRING Anti-ice: all wing, bleed anti-ice toggle.====Anti-ice: all wing, bleed anti-ice toggle.
+STRING Anti-ice: left wing, bleed anti-ice toggle.====Anti-ice: left wing, bleed anti-ice toggle.
+STRING Anti-ice: right wing, bleed anti-ice toggle.====Anti-ice: right wing, bleed anti-ice toggle.
+STRING Anti-ice: all wing, TKS de-ice normal.====Anti-ice: all wing, TKS de-ice normal.
+STRING Anti-ice: left wing, TKS de-ice normal.====Anti-ice: left wing, TKS de-ice normal.
+STRING Anti-ice: right wing, TKS de-ice normal.====Anti-ice: right wing, TKS de-ice normal.
+STRING Anti-ice: all wing, TKS de-ice high.====Anti-ice: all wing, TKS de-ice high.
+STRING Anti-ice: left wing, TKS de-ice high.====Anti-ice: left wing, TKS de-ice high.
+STRING Anti-ice: right wing, TKS de-ice high.====Anti-ice: right wing, TKS de-ice high.
+STRING Anti-ice: all wing, TKS de-ice off.====Anti-ice: all wing, TKS de-ice off.
+STRING Anti-ice: left wing, TKS de-ice off.====Anti-ice: left wing, TKS de-ice off.
+STRING Anti-ice: right wing, TKS de-ice off.====Anti-ice: right wing, TKS de-ice off.
+STRING Anti-ice: all wing, TKS de-ice toggle.====Anti-ice: all wing, TKS de-ice toggle.
+STRING Anti-ice: left wing, TKS de-ice toggle.====Anti-ice: left wing, TKS de-ice toggle.
+STRING Anti-ice: right wing, TKS de-ice toggle.====Anti-ice: right wing, TKS de-ice toggle.
+STRING Anti-ice: all engines inlet heat on.====Anti-ice: all engines inlet heat on.
+STRING Anti-ice: all engines inlet heat off.====Anti-ice: all engines inlet heat off.
+STRING Anti-ice: all engines inlet heat toggle.====Anti-ice: all engines inlet heat toggle.
+STRING Anti-ice: engine #1 inlet heat on.====Anti-ice: engine #1 inlet heat on.
+STRING Anti-ice: engine #2 inlet heat on.====Anti-ice: engine #2 inlet heat on.
+STRING Anti-ice: engine #3 inlet heat on.====Anti-ice: engine #3 inlet heat on.
+STRING Anti-ice: engine #4 inlet heat on.====Anti-ice: engine #4 inlet heat on.
+STRING Anti-ice: engine #5 inlet heat on.====Anti-ice: engine #5 inlet heat on.
+STRING Anti-ice: engine #6 inlet heat on.====Anti-ice: engine #6 inlet heat on.
+STRING Anti-ice: engine #7 inlet heat on.====Anti-ice: engine #7 inlet heat on.
+STRING Anti-ice: engine #8 inlet heat on.====Anti-ice: engine #8 inlet heat on.
+STRING Anti-ice: engine #1 inlet heat off.====Anti-ice: engine #1 inlet heat off.
+STRING Anti-ice: engine #2 inlet heat off.====Anti-ice: engine #2 inlet heat off.
+STRING Anti-ice: engine #3 inlet heat off.====Anti-ice: engine #3 inlet heat off.
+STRING Anti-ice: engine #4 inlet heat off.====Anti-ice: engine #4 inlet heat off.
+STRING Anti-ice: engine #5 inlet heat off.====Anti-ice: engine #5 inlet heat off.
+STRING Anti-ice: engine #6 inlet heat off.====Anti-ice: engine #6 inlet heat off.
+STRING Anti-ice: engine #7 inlet heat off.====Anti-ice: engine #7 inlet heat off.
+STRING Anti-ice: engine #8 inlet heat off.====Anti-ice: engine #8 inlet heat off.
+STRING Anti-ice: engine #1 inlet heat toggle.====Anti-ice: engine #1 inlet heat toggle.
+STRING Anti-ice: engine #2 inlet heat toggle.====Anti-ice: engine #2 inlet heat toggle.
+STRING Anti-ice: engine #3 inlet heat toggle.====Anti-ice: engine #3 inlet heat toggle.
+STRING Anti-ice: engine #4 inlet heat toggle.====Anti-ice: engine #4 inlet heat toggle.
+STRING Anti-ice: engine #5 inlet heat toggle.====Anti-ice: engine #5 inlet heat toggle.
+STRING Anti-ice: engine #6 inlet heat toggle.====Anti-ice: engine #6 inlet heat toggle.
+STRING Anti-ice: engine #7 inlet heat toggle.====Anti-ice: engine #7 inlet heat toggle.
+STRING Anti-ice: engine #8 inlet heat toggle.====Anti-ice: engine #8 inlet heat toggle.
+STRING Anti-ice: engine #1 anti-ice on.====Anti-ice: engine #1 anti-ice on.
+STRING Anti-ice: engine #2 anti-ice on.====Anti-ice: engine #2 anti-ice on.
+STRING Anti-ice: engine #3 anti-ice on.====Anti-ice: engine #3 anti-ice on.
+STRING Anti-ice: engine #4 anti-ice on.====Anti-ice: engine #4 anti-ice on.
+STRING Anti-ice: engine #5 anti-ice on.====Anti-ice: engine #5 anti-ice on.
+STRING Anti-ice: engine #6 anti-ice on.====Anti-ice: engine #6 anti-ice on.
+STRING Anti-ice: engine #7 anti-ice on.====Anti-ice: engine #7 anti-ice on.
+STRING Anti-ice: engine #8 anti-ice on.====Anti-ice: engine #8 anti-ice on.
+STRING Anti-ice: engine #1 anti-ice off.====Anti-ice: engine #1 anti-ice off.
+STRING Anti-ice: engine #2 anti-ice off.====Anti-ice: engine #2 anti-ice off.
+STRING Anti-ice: engine #3 anti-ice off.====Anti-ice: engine #3 anti-ice off.
+STRING Anti-ice: engine #4 anti-ice off.====Anti-ice: engine #4 anti-ice off.
+STRING Anti-ice: engine #5 anti-ice off.====Anti-ice: engine #5 anti-ice off.
+STRING Anti-ice: engine #6 anti-ice off.====Anti-ice: engine #6 anti-ice off.
+STRING Anti-ice: engine #7 anti-ice off.====Anti-ice: engine #7 anti-ice off.
+STRING Anti-ice: engine #8 anti-ice off.====Anti-ice: engine #8 anti-ice off.
+STRING Anti-ice: engine #1 anti-ice toggle.====Anti-ice: engine #1 anti-ice toggle.
+STRING Anti-ice: engine #2 anti-ice toggle.====Anti-ice: engine #2 anti-ice toggle.
+STRING Anti-ice: engine #3 anti-ice toggle.====Anti-ice: engine #3 anti-ice toggle.
+STRING Anti-ice: engine #4 anti-ice toggle.====Anti-ice: engine #4 anti-ice toggle.
+STRING Anti-ice: engine #5 anti-ice toggle.====Anti-ice: engine #5 anti-ice toggle.
+STRING Anti-ice: engine #6 anti-ice toggle.====Anti-ice: engine #6 anti-ice toggle.
+STRING Anti-ice: engine #7 anti-ice toggle.====Anti-ice: engine #7 anti-ice toggle.
+STRING Anti-ice: engine #8 anti-ice toggle.====Anti-ice: engine #8 anti-ice toggle.
+STRING Anti-ice: engine #1 prop heat on.====Anti-ice: engine #1 prop heat on.
+STRING Anti-ice: engine #2 prop heat on.====Anti-ice: engine #2 prop heat on.
+STRING Anti-ice: engine #3 prop heat on.====Anti-ice: engine #3 prop heat on.
+STRING Anti-ice: engine #4 prop heat on.====Anti-ice: engine #4 prop heat on.
+STRING Anti-ice: engine #5 prop heat on.====Anti-ice: engine #5 prop heat on.
+STRING Anti-ice: engine #6 prop heat on.====Anti-ice: engine #6 prop heat on.
+STRING Anti-ice: engine #7 prop heat on.====Anti-ice: engine #7 prop heat on.
+STRING Anti-ice: engine #8 prop heat on.====Anti-ice: engine #8 prop heat on.
+STRING Anti-ice: engine #1 prop heat off.====Anti-ice: engine #1 prop heat off.
+STRING Anti-ice: engine #2 prop heat off.====Anti-ice: engine #2 prop heat off.
+STRING Anti-ice: engine #3 prop heat off.====Anti-ice: engine #3 prop heat off.
+STRING Anti-ice: engine #4 prop heat off.====Anti-ice: engine #4 prop heat off.
+STRING Anti-ice: engine #5 prop heat off.====Anti-ice: engine #5 prop heat off.
+STRING Anti-ice: engine #6 prop heat off.====Anti-ice: engine #6 prop heat off.
+STRING Anti-ice: engine #7 prop heat off.====Anti-ice: engine #7 prop heat off.
+STRING Anti-ice: engine #8 prop heat off.====Anti-ice: engine #8 prop heat off.
+STRING Anti-ice: engine #1 prop heat toggle.====Anti-ice: engine #1 prop heat toggle.
+STRING Anti-ice: engine #2 prop heat toggle.====Anti-ice: engine #2 prop heat toggle.
+STRING Anti-ice: engine #3 prop heat toggle.====Anti-ice: engine #3 prop heat toggle.
+STRING Anti-ice: engine #4 prop heat toggle.====Anti-ice: engine #4 prop heat toggle.
+STRING Anti-ice: engine #5 prop heat toggle.====Anti-ice: engine #5 prop heat toggle.
+STRING Anti-ice: engine #6 prop heat toggle.====Anti-ice: engine #6 prop heat toggle.
+STRING Anti-ice: engine #7 prop heat toggle.====Anti-ice: engine #7 prop heat toggle.
+STRING Anti-ice: engine #8 prop heat toggle.====Anti-ice: engine #8 prop heat toggle.
+STRING Anti-ice: all prop TKS norm.====Anti-ice: all prop TKS norm.
+STRING Anti-ice: all prop TKS high.====Anti-ice: all prop TKS high.
+STRING Anti-ice: all prop TKS off.====Anti-ice: all prop TKS off.
+STRING Anti-ice: all prop TKS toggle.====Anti-ice: all prop TKS toggle.
+STRING Anti-ice: engine #1 prop TKS norm.====Anti-ice: engine #1 prop TKS norm.
+STRING Anti-ice: engine #2 prop TKS norm.====Anti-ice: engine #2 prop TKS norm.
+STRING Anti-ice: engine #3 prop TKS norm.====Anti-ice: engine #3 prop TKS norm.
+STRING Anti-ice: engine #4 prop TKS norm.====Anti-ice: engine #4 prop TKS norm.
+STRING Anti-ice: engine #5 prop TKS norm.====Anti-ice: engine #5 prop TKS norm.
+STRING Anti-ice: engine #6 prop TKS norm.====Anti-ice: engine #6 prop TKS norm.
+STRING Anti-ice: engine #7 prop TKS norm.====Anti-ice: engine #7 prop TKS norm.
+STRING Anti-ice: engine #8 prop TKS norm.====Anti-ice: engine #8 prop TKS norm.
+STRING Anti-ice: engine #1 prop TKS high.====Anti-ice: engine #1 prop TKS high.
+STRING Anti-ice: engine #2 prop TKS high.====Anti-ice: engine #2 prop TKS high.
+STRING Anti-ice: engine #3 prop TKS high.====Anti-ice: engine #3 prop TKS high.
+STRING Anti-ice: engine #4 prop TKS high.====Anti-ice: engine #4 prop TKS high.
+STRING Anti-ice: engine #5 prop TKS high.====Anti-ice: engine #5 prop TKS high.
+STRING Anti-ice: engine #6 prop TKS high.====Anti-ice: engine #6 prop TKS high.
+STRING Anti-ice: engine #7 prop TKS high.====Anti-ice: engine #7 prop TKS high.
+STRING Anti-ice: engine #8 prop TKS high.====Anti-ice: engine #8 prop TKS high.
+STRING Anti-ice: engine #1 prop TKS off.====Anti-ice: engine #1 prop TKS off.
+STRING Anti-ice: engine #2 prop TKS off.====Anti-ice: engine #2 prop TKS off.
+STRING Anti-ice: engine #3 prop TKS off.====Anti-ice: engine #3 prop TKS off.
+STRING Anti-ice: engine #4 prop TKS off.====Anti-ice: engine #4 prop TKS off.
+STRING Anti-ice: engine #5 prop TKS off.====Anti-ice: engine #5 prop TKS off.
+STRING Anti-ice: engine #6 prop TKS off.====Anti-ice: engine #6 prop TKS off.
+STRING Anti-ice: engine #7 prop TKS off.====Anti-ice: engine #7 prop TKS off.
+STRING Anti-ice: engine #8 prop TKS off.====Anti-ice: engine #8 prop TKS off.
+STRING Anti-ice: engine #1 prop TKS toggle.====Anti-ice: engine #1 prop TKS toggle.
+STRING Anti-ice: engine #2 prop TKS toggle.====Anti-ice: engine #2 prop TKS toggle.
+STRING Anti-ice: engine #3 prop TKS toggle.====Anti-ice: engine #3 prop TKS toggle.
+STRING Anti-ice: engine #4 prop TKS toggle.====Anti-ice: engine #4 prop TKS toggle.
+STRING Anti-ice: engine #5 prop TKS toggle.====Anti-ice: engine #5 prop TKS toggle.
+STRING Anti-ice: engine #6 prop TKS toggle.====Anti-ice: engine #6 prop TKS toggle.
+STRING Anti-ice: engine #7 prop TKS toggle.====Anti-ice: engine #7 prop TKS toggle.
+STRING Anti-ice: engine #8 prop TKS toggle.====Anti-ice: engine #8 prop TKS toggle.
+STRING Oxygen====氧氣
+STRING Crew oxygen: master valve open/on.====Crew oxygen: master valve open/on.
+STRING Crew oxygen: master valve closed/off.====Crew oxygen: master valve closed/off.
+STRING Crew oxygen: master valve toggle====Crew oxygen: master valve toggle
+STRING Crew oxygen: demand regulator up.====Crew oxygen: demand regulator up.
+STRING Crew oxygen: demand regulator down.====Crew oxygen: demand regulator down.
+STRING Passenger oxygen: drop masks.====Passenger oxygen: drop masks.
+STRING Door #1 open.====Door #1 open.
+STRING Door #2 open.====Door #2 open.
+STRING Door #3 open.====Door #3 open.
+STRING Door #4 open.====Door #4 open.
+STRING Door #5 open.====Door #5 open.
+STRING Door #6 open.====Door #6 open.
+STRING Door #7 open.====Door #7 open.
+STRING Door #8 open.====Door #8 open.
+STRING Door #9 open.====Door #9 open.
+STRING Door #10 open.====Door #10 open.
+STRING Door #1 close.====Door #1 close.
+STRING Door #2 close.====Door #2 close.
+STRING Door #3 close.====Door #3 close.
+STRING Door #4 close.====Door #4 close.
+STRING Door #5 close.====Door #5 close.
+STRING Door #6 close.====Door #6 close.
+STRING Door #7 close.====Door #7 close.
+STRING Door #8 close.====Door #8 close.
+STRING Door #9 close.====Door #9 close.
+STRING Door #10 close.====Door #10 close.
+STRING Winch faster. (for gliders).====Winch faster. (for gliders).
+STRING Winch slower. (for gliders).====Winch slower. (for gliders).
+STRING Monitor audio: COM auto (same as transmit) toggle.====Monitor audio: COM auto (same as transmit) toggle.
+STRING Monitor audio: COM1 toggle.====Monitor audio: COM1 toggle.
+STRING Monitor audio: COM2 toggle.====Monitor audio: COM2 toggle.
+STRING Monitor audio: NAV1 toggle.====Monitor audio: NAV1 toggle.
+STRING Monitor audio: NAV2 toggle.====Monitor audio: NAV2 toggle.
+STRING Monitor audio: ADF1 toggle.====Monitor audio: ADF1 toggle.
+STRING Monitor audio: ADF2 toggle.====Monitor audio: ADF2 toggle.
+STRING Monitor audio: DME toggle.====Monitor audio: DME toggle.
+STRING Monitor audio: MKR toggle.====Monitor audio: MKR toggle.
+STRING Transmit audio: COM1 - old panel, doesn't change listener.====Transmit audio: COM1 - old panel, doesn't change listener.
+STRING Transmit audio: COM2 - old panel, doesn't change listener.====Transmit audio: COM2 - old panel, doesn't change listener.
+STRING Monitor audio: COM auto (same as transmit) off.====Monitor audio: COM auto (same as transmit) off.
+STRING Monitor audio: COM1 off.====Monitor audio: COM1 off.
+STRING Monitor audio: COM2 off.====Monitor audio: COM2 off.
+STRING Monitor audio: NAV1 off.====Monitor audio: NAV1 off.
+STRING Monitor audio: NAV2 off.====Monitor audio: NAV2 off.
+STRING Monitor audio: ADF1 off.====Monitor audio: ADF1 off.
+STRING Monitor audio: ADF2 off.====Monitor audio: ADF2 off.
+STRING Monitor audio: DME off.====Monitor audio: DME off.
+STRING Monitor audio: MKR off.====Monitor audio: MKR off.
+STRING Monitor audio: COM auto (same as transmit) on.====Monitor audio: COM auto (same as transmit) on.
+STRING Monitor audio: COM1 on.====Monitor audio: COM1 on.
+STRING Monitor audio: COM2 on.====Monitor audio: COM2 on.
+STRING Monitor audio: NAV1 on.====Monitor audio: NAV1 on.
+STRING Monitor audio: NAV2 on.====Monitor audio: NAV2 on.
+STRING Monitor audio: ADF1 on.====Monitor audio: ADF1 on.
+STRING Monitor audio: ADF2 on.====Monitor audio: ADF2 on.
+STRING Monitor audio: DME on.====Monitor audio: DME on.
+STRING Monitor audio: MKR on.====Monitor audio: MKR on.
+STRING OBS HSI direct course.====OBS HSI direct course.
+STRING Copilot OBS HSI direct course.====Copilot OBS HSI direct course.
+STRING Change autopilot instrument source, 0 or 1====Change autopilot instrument source, 0 or 1
+STRING Flight director 2 on.====Flight director 2 on.
+STRING Flight director 2 toggle.====Flight director 2 toggle.
+STRING Servos 2 on.====Servos 2 on.
+STRING Servos 2 toggle.====Servos 2 toggle.
+STRING Flight director 2 down (on/FDIR/off).====Flight director 2 down (on/FDIR/off).
+STRING Flight director 2 up (off/FDIR/on).====Flight director 2 up (off/FDIR/on).
+STRING Disco servos 2, flt dir 2.====Disco servos 2, flt dir 2.
+STRING CWS A - Control wheel steering mode AP A.====CWS A - Control wheel steering mode AP A.
+STRING CWS B - Control wheel steering mode AP B.====CWS B - Control wheel steering mode AP B.
+STRING Servos 3 on.====Servos 3 on.
+STRING Servos 3 toggle.====Servos 3 toggle.
+STRING Disco servos 3.====Disco servos 3.
+STRING Disco servos, which ever side is active.====Disco servos, which ever side is active.
+STRING Disco servos and yaw damp, any side.====Disco servos and yaw damp, any side.
+STRING Disco servos, yaw damp and trim any side.====Disco servos, yaw damp and trim any side.
+STRING Autopilot auto-throttle speed-hold on.====Autopilot auto-throttle speed-hold on.
+STRING Autopilot auto-throttle all modes off.====Autopilot auto-throttle all modes off.
+STRING Autopilot auto-throttle speed toggle.====Autopilot auto-throttle speed toggle.
+STRING Autopilot auto-throttle EPR/N1 hold on.====Autopilot auto-throttle EPR/N1 hold on.
+STRING Autopilot auto-throttle EPR/N1 hold toggle.====Autopilot auto-throttle EPR/N1 hold toggle.
+STRING Autopilot track.====Autopilot track.
+STRING Autopilot wing-level / roll hold.====Autopilot wing-level / roll hold.
+STRING Autopilot wing-level / rate hold.====Autopilot wing-level / rate hold.
+STRING Autopilot heading select and NAV arm.====Autopilot heading select and NAV arm.
+STRING Autopilot flight path angle, current FPA.====Autopilot flight path angle, current FPA.
+STRING Autopilot GPS Climb.====Autopilot GPS Climb.
+STRING Autopilot GPS Descend.====Autopilot GPS Descend.
+STRING Autopilot TRK/FPA vs HDG/VS toggle.====Autopilot TRK/FPA vs HDG/VS toggle.
+STRING Autopilot override center: Go to ROL mode, 0 turn rate roll angle.====Autopilot override center: Go to ROL mode, 0 turn rate roll angle.
+STRING vacuum DG sync to magnetic north.====vacuum DG sync to magnetic north.
+STRING Attitude vacuum gyro fast erect.====Attitude vacuum gyro fast erect.
+STRING Attitude vacuum gyro cage toggle.====Attitude vacuum gyro cage toggle.
+STRING Attitude vacuum gyro fast erect, copilot.====Attitude vacuum gyro fast erect, copilot.
+STRING Attitude vacuum gyro cage toggle, copilot====Attitude vacuum gyro cage toggle, copilot
+STRING Baro selection down a bit, standby alt.====Baro selection down a bit, standby alt.
+STRING Baro selection up a bit, standby alt.====Baro selection up a bit, standby alt.
+STRING Baro selection down a bit, AP presel.====Baro selection down a bit, AP presel.
+STRING Baro selection up a bit, AP presel.====Baro selection up a bit, AP presel.
+STRING Minimum descend alt reference down.====Minimum descend alt reference down.
+STRING Minimum descend alt reference up.====Minimum descend alt reference up.
+STRING Minimum descend alt reference copilot down.====Minimum descend alt reference copilot down.
+STRING Minimum descend alt reference copilot up.====Minimum descend alt reference copilot up.
+STRING Cancel altitude alert (preselector).====Cancel altitude alert (preselector).
+STRING Cancel MDA alert.====Cancel MDA alert.
+STRING G430/530 #1 (pilot)====G430/530 #1 (pilot)
+STRING GNS COM/NAV 1 coarse down.====GNS COM/NAV 1 coarse down.
+STRING GNS COM/NAV 1 coarse up.====GNS COM/NAV 1 coarse up.
+STRING GNS COM/NAV 1 fine down.====GNS COM/NAV 1 fine down.
+STRING GNS COM/NAV 1 fine up.====GNS COM/NAV 1 fine up.
+STRING GNS NAV 1 chapter up.====GNS NAV 1 chapter up.
+STRING GNS NAV 1 chapter dn.====GNS NAV 1 chapter dn.
+STRING GNS NAV 1 page up.====GNS NAV 1 page up.
+STRING GNS NAV 1 page dn.====GNS NAV 1 page dn.
+STRING GNS NAV 1 zoom in.====GNS NAV 1 zoom in.
+STRING GNS NAV 1 zoom out.====GNS NAV 1 zoom out.
+STRING GNS NAV 1 NAV COM toggle.====GNS NAV 1 NAV COM toggle.
+STRING GNS NAV 1 CDI.====GNS NAV 1 CDI.
+STRING GNS NAV 1 OBS.====GNS NAV 1 OBS.
+STRING GNS NAV 1 MSG.====GNS NAV 1 MSG.
+STRING GNS NAV 1 FPL.====GNS NAV 1 FPL.
+STRING GNS NAV 1 PROC.====GNS NAV 1 PROC.
+STRING GNS NAV 1 VNAV.====GNS NAV 1 VNAV.
+STRING GNS NAV 1 Direct.====GNS NAV 1 Direct.
+STRING GNS NAV 1 Menu.====GNS NAV 1 Menu.
+STRING GNS NAV 1 CLR.====GNS NAV 1 CLR.
+STRING GNS NAV 1 ENT.====GNS NAV 1 ENT.
+STRING GNS NAV 1 COM flip flop.====GNS NAV 1 COM flip flop.
+STRING GNS NAV 1 NAV flip flop.====GNS NAV 1 NAV flip flop.
+STRING GNS NAV 1 push cursor.====GNS NAV 1 push cursor.
+STRING GNS NAV 1 pop out window.====GNS NAV 1 pop out window.
+STRING GNS NAV 1 toggle popup.====GNS NAV 1 toggle popup.
+STRING GNS NAV 1 COM audio.====GNS NAV 1 COM audio.
+STRING GNS NAV 1 NAV ID====GNS NAV 1 NAV ID
+STRING GNS NAV 1 COM audio volume up.====GNS NAV 1 COM audio volume up.
+STRING GNS NAV 1 COM audio volume down.====GNS NAV 1 COM audio volume down.
+STRING GNS NAV 1 NAV audio volume up.====GNS NAV 1 NAV audio volume up.
+STRING GNS NAV 1 NAV audio volume down.====GNS NAV 1 NAV audio volume down.
+STRING G430/530 #2 (copilot)====G430/530 #2 (copilot)
+STRING GNS COM/NAV 2 coarse down.====GNS COM/NAV 2 coarse down.
+STRING GNS COM/NAV 2 coarse up.====GNS COM/NAV 2 coarse up.
+STRING GNS COM/NAV 2 fine down.====GNS COM/NAV 2 fine down.
+STRING GNS COM/NAV 2 fine up.====GNS COM/NAV 2 fine up.
+STRING GNS NAV 2 chapter up.====GNS NAV 2 chapter up.
+STRING GNS NAV 2 chapter dn.====GNS NAV 2 chapter dn.
+STRING GNS NAV 2 page up.====GNS NAV 2 page up.
+STRING GNS NAV 2 page dn.====GNS NAV 2 page dn.
+STRING GNS NAV 2 zoom in.====GNS NAV 2 zoom in.
+STRING GNS NAV 2 zoom out.====GNS NAV 2 zoom out.
+STRING GNS NAV 2 NAV COM toggle.====GNS NAV 2 NAV COM toggle.
+STRING GNS NAV 2 CDI.====GNS NAV 2 CDI.
+STRING GNS NAV 2 OBS.====GNS NAV 2 OBS.
+STRING GNS NAV 2 MSG.====GNS NAV 2 MSG.
+STRING GNS NAV 2 FPL.====GNS NAV 2 FPL.
+STRING GNS NAV 2 PROC.====GNS NAV 2 PROC.
+STRING GNS NAV 2 VNAV.====GNS NAV 2 VNAV.
+STRING GNS NAV 2 Direct.====GNS NAV 2 Direct.
+STRING GNS NAV 2 Menu.====GNS NAV 2 Menu.
+STRING GNS NAV 2 CLR.====GNS NAV 2 CLR.
+STRING GNS NAV 2 ENT.====GNS NAV 2 ENT.
+STRING GNS NAV 2 COM FF.====GNS NAV 2 COM FF.
+STRING GNS NAV 2 NAV FF.====GNS NAV 2 NAV FF.
+STRING GNS NAV 2 push cursor.====GNS NAV 2 push cursor.
+STRING GNS NAV 2 pop out window.====GNS NAV 2 pop out window.
+STRING GNS NAV 2 toggle popup.====GNS NAV 2 toggle popup.
+STRING GNS NAV 2 COM audio.====GNS NAV 2 COM audio.
+STRING GNS NAV 2 NAV ID====GNS NAV 2 NAV ID
+STRING GNS NAV 2 COM audio volume up.====GNS NAV 2 COM audio volume up.
+STRING GNS NAV 2 COM audio volume down.====GNS NAV 2 COM audio volume down.
+STRING GNS NAV 2 NAV audio volume up.====GNS NAV 2 NAV audio volume up.
+STRING GNS NAV 2 NAV audio volume down.====GNS NAV 2 NAV audio volume down.
+STRING G1000 pilot NAV audio volume up.====G1000 pilot NAV audio volume up.
+STRING G1000 pilot NAV audio volume down.====G1000 pilot NAV audio volume down.
+STRING G1000 pilot AP VNAV.====G1000 pilot AP VNAV.
+STRING G1000 pilot COM audio.====G1000 pilot COM audio.
+STRING G1000 pilot COM audio volume up.====G1000 pilot COM audio volume up.
+STRING G1000 pilot COM audio volume down.====G1000 pilot COM audio volume down.
+STRING G1000 pilot COM flip flop.====G1000 pilot COM flip flop.
+STRING G1000 pilot COM outer ring tune up.====G1000 pilot COM outer ring tune up.
+STRING G1000 pilot COM outer ring tune down.====G1000 pilot COM outer ring tune down.
+STRING G1000 pilot COM inner ring tune up.====G1000 pilot COM inner ring tune up.
+STRING G1000 pilot COM inner ring tune down.====G1000 pilot COM inner ring tune down.
+STRING G1000 MFD NAV audio volume up.====G1000 MFD NAV audio volume up.
+STRING G1000 MFD NAV audio volume down.====G1000 MFD NAV audio volume down.
+STRING G1000 MFD COM audio volume up.====G1000 MFD COM audio volume up.
+STRING G1000 MFD COM audio volume down.====G1000 MFD COM audio volume down.
+STRING G1000 copilot NAV audio volume up.====G1000 copilot NAV audio volume up.
+STRING G1000 copilot NAV audio volume down.====G1000 copilot NAV audio volume down.
+STRING G1000 copilot COM audio volume up.====G1000 copilot COM audio volume up.
+STRING G1000 copilot COM audio volume down.====G1000 copilot COM audio volume down.
+STRING GCU====GCU
+STRING GCU: A====GCU: A
+STRING GCU: B====GCU: B
+STRING GCU: C====GCU: C
+STRING GCU: D====GCU: D
+STRING GCU: E====GCU: E
+STRING GCU: F====GCU: F
+STRING GCU: G====GCU: G
+STRING GCU: H====GCU: H
+STRING GCU: I====GCU: I
+STRING GCU: J====GCU: J
+STRING GCU: K====GCU: K
+STRING GCU: L====GCU: L
+STRING GCU: M====GCU: M
+STRING GCU: N====GCU: N
+STRING GCU: O====GCU: O
+STRING GCU: P====GCU: P
+STRING GCU: Q====GCU: Q
+STRING GCU: R====GCU: R
+STRING GCU: S====GCU: S
+STRING GCU: T====GCU: T
+STRING GCU: U====GCU: U
+STRING GCU: V====GCU: V
+STRING GCU: W====GCU: W
+STRING GCU: X====GCU: X
+STRING GCU: Y====GCU: Y
+STRING GCU: Z====GCU: Z
+STRING GCU: 0====GCU: 0
+STRING GCU: 1====GCU: 1
+STRING GCU: 2====GCU: 2
+STRING GCU: 3====GCU: 3
+STRING GCU: 4====GCU: 4
+STRING GCU: 5====GCU: 5
+STRING GCU: 6====GCU: 6
+STRING GCU: 7====GCU: 7
+STRING GCU: 8====GCU: 8
+STRING GCU: 9====GCU: 9
+STRING GCU: dot====GCU: dot
+STRING GCU: minus====GCU: minus
+STRING GCU: space====GCU: space
+STRING GCU: backspace====GCU: backspace
+STRING GCU: HDG up.====GCU: HDG up.
+STRING GCU: HDG down.====GCU: HDG down.
+STRING GCU: HDG sync.====GCU: HDG sync.
+STRING GCU: CRS up.====GCU: CRS up.
+STRING GCU: CRS down.====GCU: CRS down.
+STRING GCU: CRS sync.====GCU: CRS sync.
+STRING GCU: altitude up.====GCU: altitude up.
+STRING GCU: altitude down.====GCU: altitude down.
+STRING GCU: altitude sync.====GCU: altitude sync.
+STRING GCU: range up.====GCU: range up.
+STRING GCU: range down.====GCU: range down.
+STRING GCU: pan up.====GCU: pan up.
+STRING GCU: pan down.====GCU: pan down.
+STRING GCU: pan left.====GCU: pan left.
+STRING GCU: pan right.====GCU: pan right.
+STRING GCU: pan up left.====GCU: pan up left.
+STRING GCU: pan down left.====GCU: pan down left.
+STRING GCU: pan up right.====GCU: pan up right.
+STRING GCU: pan down right.====GCU: pan down right.
+STRING GCU: push pan.====GCU: push pan.
+STRING GCU: FMS====GCU: FMS
+STRING GCU: XPDR====GCU: XPDR
+STRING GCU: COM====GCU: COM
+STRING GCU: NAV====GCU: NAV
+STRING GCU: COM/NAV flip flop.====GCU: COM/NAV flip flop.
+STRING GCU: -D->.====GCU: -D->.
+STRING GCU: menu.====GCU: menu.
+STRING GCU: FPL.====GCU: FPL.
+STRING GCU: proc.====GCU: proc.
+STRING GCU: CLR.====GCU: CLR.
+STRING GCU: ENT.====GCU: ENT.
+STRING GCU: outer ring tune up.====GCU: outer ring tune up.
+STRING GCU: outer ring tune down.====GCU: outer ring tune down.
+STRING GCU: inner ring tune up.====GCU: inner ring tune up.
+STRING GCU: inner ring tune down.====GCU: inner ring tune down.
+STRING GCU: cursor/1-2.====GCU: cursor/1-2.
+STRING Go to save 3-D cockpit location #1.====Go to save 3-D cockpit location #1.
+STRING Go to save 3-D cockpit location #2.====Go to save 3-D cockpit location #2.
+STRING Go to save 3-D cockpit location #3.====Go to save 3-D cockpit location #3.
+STRING Go to save 3-D cockpit location #4.====Go to save 3-D cockpit location #4.
+STRING Go to save 3-D cockpit location #5.====Go to save 3-D cockpit location #5.
+STRING Go to save 3-D cockpit location #6.====Go to save 3-D cockpit location #6.
+STRING Go to save 3-D cockpit location #7.====Go to save 3-D cockpit location #7.
+STRING Go to save 3-D cockpit location #8.====Go to save 3-D cockpit location #8.
+STRING Go to save 3-D cockpit location #9.====Go to save 3-D cockpit location #9.
+STRING Go to save 3-D cockpit location #10.====Go to save 3-D cockpit location #10.
+STRING Go to save 3-D cockpit location #11.====Go to save 3-D cockpit location #11.
+STRING Go to save 3-D cockpit location #12.====Go to save 3-D cockpit location #12.
+STRING Go to save 3-D cockpit location #13.====Go to save 3-D cockpit location #13.
+STRING Go to save 3-D cockpit location #14.====Go to save 3-D cockpit location #14.
+STRING Go to save 3-D cockpit location #15.====Go to save 3-D cockpit location #15.
+STRING Go to save 3-D cockpit location #16.====Go to save 3-D cockpit location #16.
+STRING Go to save 3-D cockpit location #17.====Go to save 3-D cockpit location #17.
+STRING Go to save 3-D cockpit location #18.====Go to save 3-D cockpit location #18.
+STRING Go to save 3-D cockpit location #19.====Go to save 3-D cockpit location #19.
+STRING Go to save 3-D cockpit location #20.====Go to save 3-D cockpit location #20.
+STRING Memorize 3-D cockpit location #1.====Memorize 3-D cockpit location #1.
+STRING Memorize 3-D cockpit location #2.====Memorize 3-D cockpit location #2.
+STRING Memorize 3-D cockpit location #3.====Memorize 3-D cockpit location #3.
+STRING Memorize 3-D cockpit location #4.====Memorize 3-D cockpit location #4.
+STRING Memorize 3-D cockpit location #5.====Memorize 3-D cockpit location #5.
+STRING Memorize 3-D cockpit location #6.====Memorize 3-D cockpit location #6.
+STRING Memorize 3-D cockpit location #7.====Memorize 3-D cockpit location #7.
+STRING Memorize 3-D cockpit location #8.====Memorize 3-D cockpit location #8.
+STRING Memorize 3-D cockpit location #9.====Memorize 3-D cockpit location #9.
+STRING Memorize 3-D cockpit location #10.====記住 3-D 駕駛艙位置 #10.
+STRING Memorize 3-D cockpit location #11.====記住 3-D 駕駛艙位置 #11.
+STRING Memorize 3-D cockpit location #12.====記住 3-D 駕駛艙位置 #12.
+STRING Memorize 3-D cockpit location #13.====記住 3-D 駕駛艙位置 #13.
+STRING Memorize 3-D cockpit location #14.====Memorize 3-D cockpit location #14.
+STRING Memorize 3-D cockpit location #15.====Memorize 3-D cockpit location #15.
+STRING Memorize 3-D cockpit location #16.====Memorize 3-D cockpit location #16.
+STRING Memorize 3-D cockpit location #17.====Memorize 3-D cockpit location #17.
+STRING Memorize 3-D cockpit location #18.====Memorize 3-D cockpit location #18.
+STRING Memorize 3-D cockpit location #19.====Memorize 3-D cockpit location #19.
+STRING Memorize 3-D cockpit location #20.====Memorize 3-D cockpit location #20.
+STRING After connecting the GPS to your computer, you’ll need to put the device in simulation mode.====將 GPS 連接到計算機後，您需要將設備置於模擬模式。
+STRING Then, set the device's Serial #1 to “Aviation In” and Serial #2 to “none,” if applicable. Note that you may need a DB-9 cable from Garmin.====然後，將設備的序列號 1 設置為“航空輸入”，將序列號 2 設置為“無”（如果適用）。 請注意，您可能需要 Garmin 的 DB-9 電纜。
+STRING Support for physical G400, G430, or G530 unit is unavailable, since you don’t have a Pro-Use USB key.====不支持物理 G400、G430 或 G530 設備，因為您沒有 Pro-Use USB 密鑰。
+STRING When enabled, glowing green boxes will be shown around manipulators.====啟用後，操縱器周圍將顯示發光的綠色框。
+STRING Enable Green Manipulator Visualizations====啟用綠色操縱器可視化
+STRING Check this to limit the frame rate of X-Plane to the refresh rate of your monitor. This will stabilize the frame rate (preventing brief drops in frame rate which can be perceived as “stutters”) if you are running X-Plane at a very high frame rate.====選中此項可將 X-Plane 的幀速率限制為顯示器的刷新率。 如果您以非常高的幀速率運行 X-Plane，這將穩定幀速率（防止可能被視為“卡頓”的幀速率的短暫下降）。
+STRING Disable incoming traffic====禁用傳入流量
+STRING Accept incoming connections====接受傳入連接
+STRING With this unchecked, we will temporarily hide all in-cockpit data output.====如果不選中此選項，我們將暫時隱藏所有駕駛艙內的數據輸出。
+STRING Display in-cockpit data output====顯示駕駛艙日至匯出
+STRING None (fastest)-FXAA-2x SSAA+FXAA-4x SSAA-4x SSAA+FXAA====沒有 (最快)-FXAA-2x SSAA+FXAA-4x SSAA-4x SSAA+FXAA
+STRING None (fastest)====沒有 (最快)
+STRING DEVELOPERS====開發者
+STRING ARTISTS====藝術家/美術設計師
+STRING USER INTERFACE DESIGN====使用者界面設計
+STRING NAVAID DATA====導航數據
+STRING AIRPORT SCENERY GATEWAY====AIRPORT SCENERY GATEWAY
+STRING DEVELOPER TOOLS====開發者工具
+STRING MARKETING & SUPPORT====營銷與支持
+STRING CHINESE TRANSLATION====中文翻譯
+STRING AIRPORT SCENERY====機場地景
+STRING X-Plane’s 36,000+ default airports are the result of the contributions of thousands of community contributors.====X-Plane 的 36,000 多個默認機場是數千名社區貢獻者貢獻的結果。
+STRING We, the X-Plane community, owe these scenery authors a tremendous debt of gratitude.====我們，X-Plane 社區，欠這些風景作者一個巨大的感激之情。
+STRING View All Scenery Contributors====查看所有風景貢獻者
 STRING Index====索引
 STRING Data to Output====數據輸出
 STRING Network via UDP====通過UDP網絡
