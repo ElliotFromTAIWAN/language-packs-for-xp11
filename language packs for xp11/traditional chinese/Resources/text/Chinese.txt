@@ -2545,7 +2545,7 @@ STRING Regenerate Icons====重新生成圖標
 STRING Generate Icon====生成圖標
 STRING %1:number of results% Result====*已完成%1:number of results%（此處是結合上下文猜的，下同） *
 STRING %1:number of results% Results====*已完成%1:number of results%*
-STRING ID====注冊號
+STRING ID====機場註冊代碼
 STRING ICAO====IACO代碼
 STRING IATA====IATA代碼
 STRING FAA====FAA代碼
@@ -4073,14 +4073,14 @@ STRING Anti-ice: engine #5 inlet heat toggle.====除冰:  #5號引擎加熱開�
 STRING Anti-ice: engine #6 inlet heat toggle.====除冰:  #6號引擎加熱開關.
 STRING Anti-ice: engine #7 inlet heat toggle.====除冰:  #7號引擎加熱開關.
 STRING Anti-ice: engine #8 inlet heat toggle.====除冰:  #8號引擎加熱開關.
-STRING Anti-ice: engine #1 anti-ice on.====Anti-ice: engine #1 anti-ice on.
-STRING Anti-ice: engine #2 anti-ice on.====Anti-ice: engine #2 anti-ice on.
-STRING Anti-ice: engine #3 anti-ice on.====Anti-ice: engine #3 anti-ice on.
-STRING Anti-ice: engine #4 anti-ice on.====Anti-ice: engine #4 anti-ice on.
-STRING Anti-ice: engine #5 anti-ice on.====Anti-ice: engine #5 anti-ice on.
-STRING Anti-ice: engine #6 anti-ice on.====Anti-ice: engine #6 anti-ice on.
-STRING Anti-ice: engine #7 anti-ice on.====Anti-ice: engine #7 anti-ice on.
-STRING Anti-ice: engine #8 anti-ice on.====Anti-ice: engine #8 anti-ice on.
+STRING Anti-ice: engine #1 anti-ice on.====除冰:  #1號引擎開始除冰.
+STRING Anti-ice: engine #2 anti-ice on.====除冰:  #2號引擎開始除冰.
+STRING Anti-ice: engine #3 anti-ice on.====除冰:  #3號引擎開始除冰.
+STRING Anti-ice: engine #4 anti-ice on.====除冰:  #4號引擎開始除冰.
+STRING Anti-ice: engine #5 anti-ice on.====除冰:  #5號引擎開始除冰.
+STRING Anti-ice: engine #6 anti-ice on.====除冰:  #6號引擎開始除冰.
+STRING Anti-ice: engine #7 anti-ice on.====除冰:  #7號引擎開始除冰.
+STRING Anti-ice: engine #8 anti-ice on.====除冰:  #8號引擎開始除冰.
 STRING Anti-ice: engine #1 anti-ice off.====Anti-ice: engine #1 anti-ice off.
 STRING Anti-ice: engine #2 anti-ice off.====Anti-ice: engine #2 anti-ice off.
 STRING Anti-ice: engine #3 anti-ice off.====Anti-ice: engine #3 anti-ice off.
