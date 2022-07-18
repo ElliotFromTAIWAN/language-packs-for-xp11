@@ -4081,82 +4081,82 @@ STRING Anti-ice: engine #5 anti-ice on.====除冰:  #5號引擎開始除冰.
 STRING Anti-ice: engine #6 anti-ice on.====除冰:  #6號引擎開始除冰.
 STRING Anti-ice: engine #7 anti-ice on.====除冰:  #7號引擎開始除冰.
 STRING Anti-ice: engine #8 anti-ice on.====除冰:  #8號引擎開始除冰.
-STRING Anti-ice: engine #1 anti-ice off.====Anti-ice: engine #1 anti-ice off.
-STRING Anti-ice: engine #2 anti-ice off.====Anti-ice: engine #2 anti-ice off.
-STRING Anti-ice: engine #3 anti-ice off.====Anti-ice: engine #3 anti-ice off.
-STRING Anti-ice: engine #4 anti-ice off.====Anti-ice: engine #4 anti-ice off.
-STRING Anti-ice: engine #5 anti-ice off.====Anti-ice: engine #5 anti-ice off.
-STRING Anti-ice: engine #6 anti-ice off.====Anti-ice: engine #6 anti-ice off.
-STRING Anti-ice: engine #7 anti-ice off.====Anti-ice: engine #7 anti-ice off.
-STRING Anti-ice: engine #8 anti-ice off.====Anti-ice: engine #8 anti-ice off.
-STRING Anti-ice: engine #1 anti-ice toggle.====Anti-ice: engine #1 anti-ice toggle.
-STRING Anti-ice: engine #2 anti-ice toggle.====Anti-ice: engine #2 anti-ice toggle.
-STRING Anti-ice: engine #3 anti-ice toggle.====Anti-ice: engine #3 anti-ice toggle.
-STRING Anti-ice: engine #4 anti-ice toggle.====Anti-ice: engine #4 anti-ice toggle.
-STRING Anti-ice: engine #5 anti-ice toggle.====Anti-ice: engine #5 anti-ice toggle.
-STRING Anti-ice: engine #6 anti-ice toggle.====Anti-ice: engine #6 anti-ice toggle.
-STRING Anti-ice: engine #7 anti-ice toggle.====Anti-ice: engine #7 anti-ice toggle.
-STRING Anti-ice: engine #8 anti-ice toggle.====Anti-ice: engine #8 anti-ice toggle.
-STRING Anti-ice: engine #1 prop heat on.====Anti-ice: engine #1 prop heat on.
-STRING Anti-ice: engine #2 prop heat on.====Anti-ice: engine #2 prop heat on.
-STRING Anti-ice: engine #3 prop heat on.====Anti-ice: engine #3 prop heat on.
-STRING Anti-ice: engine #4 prop heat on.====Anti-ice: engine #4 prop heat on.
-STRING Anti-ice: engine #5 prop heat on.====Anti-ice: engine #5 prop heat on.
-STRING Anti-ice: engine #6 prop heat on.====Anti-ice: engine #6 prop heat on.
-STRING Anti-ice: engine #7 prop heat on.====Anti-ice: engine #7 prop heat on.
-STRING Anti-ice: engine #8 prop heat on.====Anti-ice: engine #8 prop heat on.
-STRING Anti-ice: engine #1 prop heat off.====Anti-ice: engine #1 prop heat off.
-STRING Anti-ice: engine #2 prop heat off.====Anti-ice: engine #2 prop heat off.
-STRING Anti-ice: engine #3 prop heat off.====Anti-ice: engine #3 prop heat off.
-STRING Anti-ice: engine #4 prop heat off.====Anti-ice: engine #4 prop heat off.
-STRING Anti-ice: engine #5 prop heat off.====Anti-ice: engine #5 prop heat off.
-STRING Anti-ice: engine #6 prop heat off.====Anti-ice: engine #6 prop heat off.
-STRING Anti-ice: engine #7 prop heat off.====Anti-ice: engine #7 prop heat off.
-STRING Anti-ice: engine #8 prop heat off.====Anti-ice: engine #8 prop heat off.
-STRING Anti-ice: engine #1 prop heat toggle.====Anti-ice: engine #1 prop heat toggle.
-STRING Anti-ice: engine #2 prop heat toggle.====Anti-ice: engine #2 prop heat toggle.
-STRING Anti-ice: engine #3 prop heat toggle.====Anti-ice: engine #3 prop heat toggle.
-STRING Anti-ice: engine #4 prop heat toggle.====Anti-ice: engine #4 prop heat toggle.
-STRING Anti-ice: engine #5 prop heat toggle.====Anti-ice: engine #5 prop heat toggle.
-STRING Anti-ice: engine #6 prop heat toggle.====Anti-ice: engine #6 prop heat toggle.
-STRING Anti-ice: engine #7 prop heat toggle.====Anti-ice: engine #7 prop heat toggle.
-STRING Anti-ice: engine #8 prop heat toggle.====Anti-ice: engine #8 prop heat toggle.
-STRING Anti-ice: all prop TKS norm.====Anti-ice: all prop TKS norm.
-STRING Anti-ice: all prop TKS high.====Anti-ice: all prop TKS high.
-STRING Anti-ice: all prop TKS off.====Anti-ice: all prop TKS off.
-STRING Anti-ice: all prop TKS toggle.====Anti-ice: all prop TKS toggle.
-STRING Anti-ice: engine #1 prop TKS norm.====Anti-ice: engine #1 prop TKS norm.
-STRING Anti-ice: engine #2 prop TKS norm.====Anti-ice: engine #2 prop TKS norm.
-STRING Anti-ice: engine #3 prop TKS norm.====Anti-ice: engine #3 prop TKS norm.
-STRING Anti-ice: engine #4 prop TKS norm.====Anti-ice: engine #4 prop TKS norm.
-STRING Anti-ice: engine #5 prop TKS norm.====Anti-ice: engine #5 prop TKS norm.
-STRING Anti-ice: engine #6 prop TKS norm.====Anti-ice: engine #6 prop TKS norm.
-STRING Anti-ice: engine #7 prop TKS norm.====Anti-ice: engine #7 prop TKS norm.
-STRING Anti-ice: engine #8 prop TKS norm.====Anti-ice: engine #8 prop TKS norm.
-STRING Anti-ice: engine #1 prop TKS high.====Anti-ice: engine #1 prop TKS high.
-STRING Anti-ice: engine #2 prop TKS high.====Anti-ice: engine #2 prop TKS high.
-STRING Anti-ice: engine #3 prop TKS high.====Anti-ice: engine #3 prop TKS high.
-STRING Anti-ice: engine #4 prop TKS high.====Anti-ice: engine #4 prop TKS high.
-STRING Anti-ice: engine #5 prop TKS high.====Anti-ice: engine #5 prop TKS high.
-STRING Anti-ice: engine #6 prop TKS high.====Anti-ice: engine #6 prop TKS high.
-STRING Anti-ice: engine #7 prop TKS high.====Anti-ice: engine #7 prop TKS high.
-STRING Anti-ice: engine #8 prop TKS high.====Anti-ice: engine #8 prop TKS high.
-STRING Anti-ice: engine #1 prop TKS off.====Anti-ice: engine #1 prop TKS off.
-STRING Anti-ice: engine #2 prop TKS off.====Anti-ice: engine #2 prop TKS off.
-STRING Anti-ice: engine #3 prop TKS off.====Anti-ice: engine #3 prop TKS off.
-STRING Anti-ice: engine #4 prop TKS off.====Anti-ice: engine #4 prop TKS off.
-STRING Anti-ice: engine #5 prop TKS off.====Anti-ice: engine #5 prop TKS off.
-STRING Anti-ice: engine #6 prop TKS off.====Anti-ice: engine #6 prop TKS off.
-STRING Anti-ice: engine #7 prop TKS off.====Anti-ice: engine #7 prop TKS off.
-STRING Anti-ice: engine #8 prop TKS off.====Anti-ice: engine #8 prop TKS off.
-STRING Anti-ice: engine #1 prop TKS toggle.====Anti-ice: engine #1 prop TKS toggle.
-STRING Anti-ice: engine #2 prop TKS toggle.====Anti-ice: engine #2 prop TKS toggle.
-STRING Anti-ice: engine #3 prop TKS toggle.====Anti-ice: engine #3 prop TKS toggle.
-STRING Anti-ice: engine #4 prop TKS toggle.====Anti-ice: engine #4 prop TKS toggle.
-STRING Anti-ice: engine #5 prop TKS toggle.====Anti-ice: engine #5 prop TKS toggle.
-STRING Anti-ice: engine #6 prop TKS toggle.====Anti-ice: engine #6 prop TKS toggle.
-STRING Anti-ice: engine #7 prop TKS toggle.====Anti-ice: engine #7 prop TKS toggle.
-STRING Anti-ice: engine #8 prop TKS toggle.====Anti-ice: engine #8 prop TKS toggle.
+STRING Anti-ice: engine #1 anti-ice off.====除冰:  #1號引擎停止除冰.
+STRING Anti-ice: engine #2 anti-ice off.====除冰:  #2號引擎停止除冰.
+STRING Anti-ice: engine #3 anti-ice off.====除冰:  #3號引擎停止除冰.
+STRING Anti-ice: engine #4 anti-ice off.====除冰:  #4號引擎停止除冰.
+STRING Anti-ice: engine #5 anti-ice off.====除冰:  #5號引擎停止除冰.
+STRING Anti-ice: engine #6 anti-ice off.====除冰:  #6號引擎停止除冰.
+STRING Anti-ice: engine #7 anti-ice off.====除冰:  #7號引擎停止除冰.
+STRING Anti-ice: engine #8 anti-ice off.====除冰:  #8號引擎停止除冰.
+STRING Anti-ice: engine #1 anti-ice toggle.====除冰:  #1號引擎除冰開關.
+STRING Anti-ice: engine #2 anti-ice toggle.====除冰:  #2號引擎除冰開關.
+STRING Anti-ice: engine #3 anti-ice toggle.====除冰:  #3號引擎除冰開關.
+STRING Anti-ice: engine #4 anti-ice toggle.====除冰:  #4號引擎除冰開關.
+STRING Anti-ice: engine #5 anti-ice toggle.====除冰:  #5號引擎除冰開關.
+STRING Anti-ice: engine #6 anti-ice toggle.====除冰:  #6號引擎除冰開關.
+STRING Anti-ice: engine #7 anti-ice toggle.====除冰:  #7號引擎除冰開關.
+STRING Anti-ice: engine #8 anti-ice toggle.====除冰:  #8號引擎除冰開關.
+STRING Anti-ice: engine #1 prop heat on.====除冰: engine #1 prop heat 開.
+STRING Anti-ice: engine #2 prop heat on.====除冰: engine #2 prop heat 開.
+STRING Anti-ice: engine #3 prop heat on.====除冰: engine #3 prop heat 開.
+STRING Anti-ice: engine #4 prop heat on.====除冰: engine #4 prop heat 開.
+STRING Anti-ice: engine #5 prop heat on.====除冰: engine #5 prop heat 開.
+STRING Anti-ice: engine #6 prop heat on.====除冰: engine #6 prop heat 開.
+STRING Anti-ice: engine #7 prop heat on.====除冰: engine #7 prop heat 開.
+STRING Anti-ice: engine #8 prop heat on.====除冰: engine #8 prop heat 開.
+STRING Anti-ice: engine #1 prop heat off.====除冰: engine #1 prop heat 關閉.
+STRING Anti-ice: engine #2 prop heat off.====除冰: engine #2 prop heat 關閉.
+STRING Anti-ice: engine #3 prop heat off.====除冰: engine #3 prop heat 關閉.
+STRING Anti-ice: engine #4 prop heat off.====除冰: engine #4 prop heat 關閉.
+STRING Anti-ice: engine #5 prop heat off.====除冰: engine #5 prop heat 關閉.
+STRING Anti-ice: engine #6 prop heat off.====除冰: engine #6 prop heat 關閉.
+STRING Anti-ice: engine #7 prop heat off.====除冰: engine #7 prop heat 關閉.
+STRING Anti-ice: engine #8 prop heat off.====除冰: engine #8 prop heat 關閉.
+STRING Anti-ice: engine #1 prop heat toggle.====除冰: engine #1 prop heat 開關.
+STRING Anti-ice: engine #2 prop heat toggle.====除冰: engine #2 prop heat 開關.
+STRING Anti-ice: engine #3 prop heat toggle.====除冰: engine #3 prop heat 開關.
+STRING Anti-ice: engine #4 prop heat toggle.====除冰: engine #4 prop heat 開關.
+STRING Anti-ice: engine #5 prop heat toggle.====除冰: engine #5 prop heat 開關.
+STRING Anti-ice: engine #6 prop heat toggle.====除冰: engine #6 prop heat 開關.
+STRING Anti-ice: engine #7 prop heat toggle.====除冰: engine #7 prop heat 開關.
+STRING Anti-ice: engine #8 prop heat toggle.====除冰: engine #8 prop heat 開關.
+STRING Anti-ice: all prop TKS norm.====除冰: all prop TKS 正常.
+STRING Anti-ice: all prop TKS high.====除冰: all prop TKS 高.
+STRING Anti-ice: all prop TKS off.====除冰: all prop TKS 關閉.
+STRING Anti-ice: all prop TKS toggle.====除冰: all prop TKS 開關.
+STRING Anti-ice: engine #1 prop TKS norm.====除冰: engine #1 prop TKS 正常.
+STRING Anti-ice: engine #2 prop TKS norm.====除冰: engine #2 prop TKS 正常.
+STRING Anti-ice: engine #3 prop TKS norm.====除冰: engine #3 prop TKS 正常.
+STRING Anti-ice: engine #4 prop TKS norm.====除冰: engine #4 prop TKS 正常.
+STRING Anti-ice: engine #5 prop TKS norm.====除冰: engine #5 prop TKS 正常.
+STRING Anti-ice: engine #6 prop TKS norm.====除冰: engine #6 prop TKS 正常.
+STRING Anti-ice: engine #7 prop TKS norm.====除冰: engine #7 prop TKS 正常.
+STRING Anti-ice: engine #8 prop TKS norm.====除冰: engine #8 prop TKS 正常.
+STRING Anti-ice: engine #1 prop TKS high.====除冰: engine #1 prop TKS 高.
+STRING Anti-ice: engine #2 prop TKS high.====除冰: engine #2 prop TKS 高.
+STRING Anti-ice: engine #3 prop TKS high.====除冰: engine #3 prop TKS 高.
+STRING Anti-ice: engine #4 prop TKS high.====除冰: engine #4 prop TKS 高.
+STRING Anti-ice: engine #5 prop TKS high.====除冰: engine #5 prop TKS 高.
+STRING Anti-ice: engine #6 prop TKS high.====除冰: engine #6 prop TKS 高.
+STRING Anti-ice: engine #7 prop TKS high.====除冰: engine #7 prop TKS 高.
+STRING Anti-ice: engine #8 prop TKS high.====除冰: engine #8 prop TKS 高.
+STRING Anti-ice: engine #1 prop TKS off.====除冰: engine #1 prop TKS 關閉.
+STRING Anti-ice: engine #2 prop TKS off.====除冰: engine #2 prop TKS 關閉.
+STRING Anti-ice: engine #3 prop TKS off.====除冰: engine #3 prop TKS 關閉.
+STRING Anti-ice: engine #4 prop TKS off.====除冰: engine #4 prop TKS 關閉.
+STRING Anti-ice: engine #5 prop TKS off.====除冰: engine #5 prop TKS 關閉.
+STRING Anti-ice: engine #6 prop TKS off.====除冰: engine #6 prop TKS 關閉.
+STRING Anti-ice: engine #7 prop TKS off.====除冰: engine #7 prop TKS 關閉.
+STRING Anti-ice: engine #8 prop TKS off.====除冰: engine #8 prop TKS 關閉.
+STRING Anti-ice: engine #1 prop TKS toggle.====除冰: engine #1 prop TKS 開關.
+STRING Anti-ice: engine #2 prop TKS toggle.====除冰: engine #2 prop TKS 開關.
+STRING Anti-ice: engine #3 prop TKS toggle.====除冰: engine #3 prop TKS 開關.
+STRING Anti-ice: engine #4 prop TKS toggle.====除冰: engine #4 prop TKS 開關.
+STRING Anti-ice: engine #5 prop TKS toggle.====除冰: engine #5 prop TKS 開關.
+STRING Anti-ice: engine #6 prop TKS toggle.====除冰: engine #6 prop TKS 開關.
+STRING Anti-ice: engine #7 prop TKS toggle.====除冰: engine #7 prop TKS 開關.
+STRING Anti-ice: engine #8 prop TKS toggle.====除冰: engine #8 prop TKS 開關.
 STRING Oxygen====氧氣
 STRING Crew oxygen: master valve open/on.====機組人員用氧氣: 主閥門開啟/開啟.
 STRING Crew oxygen: master valve closed/off.====機組人員用氧氣: 主閥門關閉/關閉.
