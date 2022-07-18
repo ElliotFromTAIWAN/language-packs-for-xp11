@@ -4005,26 +4005,26 @@ STRING Vent fan on low.====自動排氣扇低檔位.
 STRING Vent fan high.====自動排氣扇高檔位.
 STRING Vent fan setting up.====啟動自動排氣扇.
 STRING Vent fan setting down.====關閉自動排氣扇.
-STRING Anti-ice: left static heat toggle.====Anti-ice: left static heat toggle.
-STRING Anti-ice: right static heat toggle.====Anti-ice: right static heat toggle.
-STRING Anti-ice: all wing, anti-ice heat on.====Anti-ice: all wing, anti-ice heat on.
-STRING Anti-ice: left wing, anti-ice heat on.====Anti-ice: left wing, anti-ice heat on.
-STRING Anti-ice: right wing, anti-ice heat on.====Anti-ice: right wing, anti-ice heat on.
-STRING Anti-ice: all wing, anti-ice heat off.====Anti-ice: all wing, anti-ice heat off.
-STRING Anti-ice: left wing, anti-ice heat off.====Anti-ice: left wing, anti-ice heat off.
-STRING Anti-ice: right wing, anti-ice heat off.====Anti-ice: right wing, anti-ice heat off.
-STRING Anti-ice: all wing, anti-ice heat toggle.====Anti-ice: all wing, anti-ice heat toggle.
-STRING Anti-ice: left wing, anti-ice heat toggle.====Anti-ice: left wing, anti-ice heat toggle.
-STRING Anti-ice: right wing, anti-ice heat toggle.====Anti-ice: right wing, anti-ice heat toggle.
-STRING Anti-ice: all wing, de-icing boots on schedule.====Anti-ice: all wing, de-icing boots on schedule.
-STRING Anti-ice: left wing, de-icing boots on schedule.====Anti-ice: left wing, de-icing boots on schedule.
-STRING Anti-ice: right wing, de-icing boots on schedule.====Anti-ice: right wing, de-icing boots on schedule.
-STRING Anti-ice: all wing, de-icing boots off.====Anti-ice: all wing, de-icing boots off.
-STRING Anti-ice: left wing, de-icing boots off.====Anti-ice: left wing, de-icing boots off.
-STRING Anti-ice: right wing, de-icing boots off.====Anti-ice: right wing, de-icing boots off.
-STRING Anti-ice: all wing, de-icing boots toggle.====Anti-ice: all wing, de-icing boots toggle.
-STRING Anti-ice: left wing, de-icing boots toggle.====Anti-ice: left wing, de-icing boots toggle.
-STRING Anti-ice: right wing, de-icing boots toggle.====Anti-ice: right wing, de-icing boots toggle.
+STRING Anti-ice: left static heat toggle.====除冰: left static heat toggle.
+STRING Anti-ice: right static heat toggle.====除冰: right static heat toggle.
+STRING Anti-ice: all wing, anti-ice heat on.====除冰: 機翼, 開始除冰.
+STRING Anti-ice: left wing, anti-ice heat on.====除冰: 左機翼, 開始除冰.
+STRING Anti-ice: right wing, anti-ice heat on.====除冰: 右機翼, 開始除冰.
+STRING Anti-ice: all wing, anti-ice heat off.====除冰: 機翼, 結束除冰.
+STRING Anti-ice: left wing, anti-ice heat off.====除冰: 左機翼, 結束除冰.
+STRING Anti-ice: right wing, anti-ice heat off.====除冰: 右機翼, 結束除冰.
+STRING Anti-ice: all wing, anti-ice heat toggle.====除冰: 機翼, 除冰開關.
+STRING Anti-ice: left wing, anti-ice heat toggle.====除冰: 左機翼, 開關除冰.
+STRING Anti-ice: right wing, anti-ice heat toggle.====除冰: 右機翼, 開關除冰.
+STRING Anti-ice: all wing, de-icing boots on schedule.====除冰: 機翼, 按計劃除冰.
+STRING Anti-ice: left wing, de-icing boots on schedule.====除冰: 左機翼, 按計劃除冰.
+STRING Anti-ice: right wing, de-icing boots on schedule.====除冰: 右機翼, 按計劃除冰.
+STRING Anti-ice: all wing, de-icing boots off.====除冰: 機翼, 結束除冰.
+STRING Anti-ice: left wing, de-icing boots off.====除冰: 左機翼, 結束除冰.
+STRING Anti-ice: right wing, de-icing boots off.====除冰: 右機翼, 結束除冰.
+STRING Anti-ice: all wing, de-icing boots toggle.====除冰: 機翼, 除冰開關.
+STRING Anti-ice: left wing, de-icing boots toggle.====除冰: 左機翼, 除冰開關.
+STRING Anti-ice: right wing, de-icing boots toggle.====除冰: 右機翼, 除冰開關.
 STRING Anti-ice: all wing, bleed anti-ice on.====Anti-ice: all wing, bleed anti-ice on.
 STRING Anti-ice: left wing, bleed anti-ice on.====Anti-ice: left wing, bleed anti-ice on.
 STRING Anti-ice: right wing, bleed anti-ice on.====Anti-ice: right wing, bleed anti-ice on.
@@ -4419,51 +4419,51 @@ STRING GCU: FPL.====GCU: FPL.
 STRING GCU: proc.====GCU: proc.
 STRING GCU: CLR.====GCU: CLR.
 STRING GCU: ENT.====GCU: ENT.
-STRING GCU: outer ring tune up.====GCU: outer ring tune up.
-STRING GCU: outer ring tune down.====GCU: outer ring tune down.
-STRING GCU: inner ring tune up.====GCU: inner ring tune up.
-STRING GCU: inner ring tune down.====GCU: inner ring tune down.
-STRING GCU: cursor/1-2.====GCU: cursor/1-2.
-STRING Go to save 3-D cockpit location #1.====Go to save 3-D cockpit location #1.
-STRING Go to save 3-D cockpit location #2.====Go to save 3-D cockpit location #2.
-STRING Go to save 3-D cockpit location #3.====Go to save 3-D cockpit location #3.
-STRING Go to save 3-D cockpit location #4.====Go to save 3-D cockpit location #4.
-STRING Go to save 3-D cockpit location #5.====Go to save 3-D cockpit location #5.
-STRING Go to save 3-D cockpit location #6.====Go to save 3-D cockpit location #6.
-STRING Go to save 3-D cockpit location #7.====Go to save 3-D cockpit location #7.
-STRING Go to save 3-D cockpit location #8.====Go to save 3-D cockpit location #8.
-STRING Go to save 3-D cockpit location #9.====Go to save 3-D cockpit location #9.
-STRING Go to save 3-D cockpit location #10.====Go to save 3-D cockpit location #10.
-STRING Go to save 3-D cockpit location #11.====Go to save 3-D cockpit location #11.
-STRING Go to save 3-D cockpit location #12.====Go to save 3-D cockpit location #12.
-STRING Go to save 3-D cockpit location #13.====Go to save 3-D cockpit location #13.
-STRING Go to save 3-D cockpit location #14.====Go to save 3-D cockpit location #14.
-STRING Go to save 3-D cockpit location #15.====Go to save 3-D cockpit location #15.
-STRING Go to save 3-D cockpit location #16.====Go to save 3-D cockpit location #16.
-STRING Go to save 3-D cockpit location #17.====Go to save 3-D cockpit location #17.
-STRING Go to save 3-D cockpit location #18.====Go to save 3-D cockpit location #18.
-STRING Go to save 3-D cockpit location #19.====Go to save 3-D cockpit location #19.
-STRING Go to save 3-D cockpit location #20.====Go to save 3-D cockpit location #20.
-STRING Memorize 3-D cockpit location #1.====Memorize 3-D cockpit location #1.
-STRING Memorize 3-D cockpit location #2.====Memorize 3-D cockpit location #2.
-STRING Memorize 3-D cockpit location #3.====Memorize 3-D cockpit location #3.
-STRING Memorize 3-D cockpit location #4.====Memorize 3-D cockpit location #4.
-STRING Memorize 3-D cockpit location #5.====Memorize 3-D cockpit location #5.
-STRING Memorize 3-D cockpit location #6.====Memorize 3-D cockpit location #6.
-STRING Memorize 3-D cockpit location #7.====Memorize 3-D cockpit location #7.
-STRING Memorize 3-D cockpit location #8.====Memorize 3-D cockpit location #8.
-STRING Memorize 3-D cockpit location #9.====Memorize 3-D cockpit location #9.
+STRING GCU: outer ring tune up.====GCU: 外環調高.
+STRING GCU: outer ring tune down.====GCU: 外環調低.
+STRING GCU: inner ring tune up.====GCU: 內環調高.
+STRING GCU: inner ring tune down.====GCU: 內環調低.
+STRING GCU: cursor/1-2.====GCU: 光標/1-2.
+STRING Go to save 3-D cockpit location #1.====保存3-D駕駛艙位置 #1.
+STRING Go to save 3-D cockpit location #2.====保存3-D駕駛艙位置 #2.
+STRING Go to save 3-D cockpit location #3.====保存3-D駕駛艙位置 #3.
+STRING Go to save 3-D cockpit location #4.====保存3-D駕駛艙位置 #4.
+STRING Go to save 3-D cockpit location #5.====保存3-D駕駛艙位置 #5.
+STRING Go to save 3-D cockpit location #6.====保存3-D駕駛艙位置 #6.
+STRING Go to save 3-D cockpit location #7.====保存3-D駕駛艙位置 #7.
+STRING Go to save 3-D cockpit location #8.====保存3-D駕駛艙位置 #8.
+STRING Go to save 3-D cockpit location #9.====保存3-D駕駛艙位置 #9.
+STRING Go to save 3-D cockpit location #10.====保存3-D駕駛艙位置 #10.
+STRING Go to save 3-D cockpit location #11.====保存3-D駕駛艙位置 #11.
+STRING Go to save 3-D cockpit location #12.====保存3-D駕駛艙位置 #12.
+STRING Go to save 3-D cockpit location #13.====保存3-D駕駛艙位置 #13.
+STRING Go to save 3-D cockpit location #14.====保存3-D駕駛艙位置 #14.
+STRING Go to save 3-D cockpit location #15.====保存3-D駕駛艙位置 #15.
+STRING Go to save 3-D cockpit location #16.====保存3-D駕駛艙位置 #16.
+STRING Go to save 3-D cockpit location #17.====保存3-D駕駛艙位置 #17.
+STRING Go to save 3-D cockpit location #18.====保存3-D駕駛艙位置 #18.
+STRING Go to save 3-D cockpit location #19.====保存3-D駕駛艙位置 #19.
+STRING Go to save 3-D cockpit location #20.====保存3-D駕駛艙位置 #20.
+STRING Memorize 3-D cockpit location #1.====記住 3-D 駕駛艙位置 #1.
+STRING Memorize 3-D cockpit location #2.====記住 3-D 駕駛艙位置 #2.
+STRING Memorize 3-D cockpit location #3.====記住 3-D 駕駛艙位置 #3.
+STRING Memorize 3-D cockpit location #4.====記住 3-D 駕駛艙位置 #4.
+STRING Memorize 3-D cockpit location #5.====記住 3-D 駕駛艙位置 #5.
+STRING Memorize 3-D cockpit location #6.====記住 3-D 駕駛艙位置 #6.
+STRING Memorize 3-D cockpit location #7.====記住 3-D 駕駛艙位置 #7.
+STRING Memorize 3-D cockpit location #8.====記住 3-D 駕駛艙位置 #8.
+STRING Memorize 3-D cockpit location #9.====記住 3-D 駕駛艙位置 #9.
 STRING Memorize 3-D cockpit location #10.====記住 3-D 駕駛艙位置 #10.
 STRING Memorize 3-D cockpit location #11.====記住 3-D 駕駛艙位置 #11.
 STRING Memorize 3-D cockpit location #12.====記住 3-D 駕駛艙位置 #12.
 STRING Memorize 3-D cockpit location #13.====記住 3-D 駕駛艙位置 #13.
-STRING Memorize 3-D cockpit location #14.====Memorize 3-D cockpit location #14.
-STRING Memorize 3-D cockpit location #15.====Memorize 3-D cockpit location #15.
-STRING Memorize 3-D cockpit location #16.====Memorize 3-D cockpit location #16.
-STRING Memorize 3-D cockpit location #17.====Memorize 3-D cockpit location #17.
-STRING Memorize 3-D cockpit location #18.====Memorize 3-D cockpit location #18.
-STRING Memorize 3-D cockpit location #19.====Memorize 3-D cockpit location #19.
-STRING Memorize 3-D cockpit location #20.====Memorize 3-D cockpit location #20.
+STRING Memorize 3-D cockpit location #14.====記住 3-D 駕駛艙位置 #14.
+STRING Memorize 3-D cockpit location #15.====記住 3-D 駕駛艙位置 #15.
+STRING Memorize 3-D cockpit location #16.====記住 3-D 駕駛艙位置 #16.
+STRING Memorize 3-D cockpit location #17.====記住 3-D 駕駛艙位置 #17.
+STRING Memorize 3-D cockpit location #18.====記住 3-D 駕駛艙位置 #18.
+STRING Memorize 3-D cockpit location #19.====記住 3-D 駕駛艙位置 #19.
+STRING Memorize 3-D cockpit location #20.====記住 3-D 駕駛艙位置 #20.
 STRING After connecting the GPS to your computer, you’ll need to put the device in simulation mode.====將 GPS 連接到計算機後，您需要將設備置於模擬模式。
 STRING Then, set the device's Serial #1 to “Aviation In” and Serial #2 to “none,” if applicable. Note that you may need a DB-9 cable from Garmin.====然後，將設備的序列號 1 設置為“航空輸入”，將序列號 2 設置為“無”（如果適用）。 請注意，您可能需要 Garmin 的 DB-9 電纜。
 STRING Support for physical G400, G430, or G530 unit is unavailable, since you don’t have a Pro-Use USB key.====不支持物理 G400、G430 或 G530 設備，因為您沒有 Pro-Use USB 密鑰。
