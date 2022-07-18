@@ -4025,54 +4025,54 @@ STRING Anti-ice: right wing, de-icing boots off.====除冰: 右機翼, 結束除
 STRING Anti-ice: all wing, de-icing boots toggle.====除冰: 機翼, 除冰開關.
 STRING Anti-ice: left wing, de-icing boots toggle.====除冰: 左機翼, 除冰開關.
 STRING Anti-ice: right wing, de-icing boots toggle.====除冰: 右機翼, 除冰開關.
-STRING Anti-ice: all wing, bleed anti-ice on.====除冰: all wing, bleed anti-ice on.
-STRING Anti-ice: left wing, bleed anti-ice on.====除冰: left wing, bleed anti-ice on.
-STRING Anti-ice: right wing, bleed anti-ice on.====除冰: right wing, bleed anti-ice on.
-STRING Anti-ice: all wing, bleed anti-ice off.====除冰: all wing, bleed anti-ice off.
-STRING Anti-ice: left wing, bleed anti-ice off.====除冰: left wing, bleed anti-ice off.
-STRING Anti-ice: right wing, bleed anti-ice off.====除冰: right wing, bleed anti-ice off.
-STRING Anti-ice: all wing, bleed anti-ice toggle.====除冰: all wing, bleed anti-ice toggle.
-STRING Anti-ice: left wing, bleed anti-ice toggle.====除冰: left wing, bleed anti-ice toggle.
-STRING Anti-ice: right wing, bleed anti-ice toggle.====除冰: right wing, bleed anti-ice toggle.
-STRING Anti-ice: all wing, TKS de-ice normal.====除冰: all wing, TKS de-ice normal.
-STRING Anti-ice: left wing, TKS de-ice normal.====除冰: left wing, TKS de-ice normal.
-STRING Anti-ice: right wing, TKS de-ice normal.====除冰: right wing, TKS de-ice normal.
-STRING Anti-ice: all wing, TKS de-ice high.====除冰: all wing, TKS de-ice high.
-STRING Anti-ice: left wing, TKS de-ice high.====除冰: left wing, TKS de-ice high.
-STRING Anti-ice: right wing, TKS de-ice high.====除冰: right wing, TKS de-ice high.
-STRING Anti-ice: all wing, TKS de-ice off.====除冰: all wing, TKS de-ice off.
-STRING Anti-ice: left wing, TKS de-ice off.====除冰: left wing, TKS de-ice off.
-STRING Anti-ice: right wing, TKS de-ice off.====除冰: right wing, TKS de-ice off.
-STRING Anti-ice: all wing, TKS de-ice toggle.====除冰: all wing, TKS de-ice toggle.
-STRING Anti-ice: left wing, TKS de-ice toggle.====除冰: left wing, TKS de-ice toggle.
-STRING Anti-ice: right wing, TKS de-ice toggle.====除冰: right wing, TKS de-ice toggle.
-STRING Anti-ice: all engines inlet heat on.====除冰: all engines inlet heat on.
-STRING Anti-ice: all engines inlet heat off.====除冰: all engines inlet heat off.
-STRING Anti-ice: all engines inlet heat toggle.====除冰: all engines inlet heat toggle.
-STRING Anti-ice: engine #1 inlet heat on.====Anti-ice: engine #1 inlet heat on.
-STRING Anti-ice: engine #2 inlet heat on.====Anti-ice: engine #2 inlet heat on.
-STRING Anti-ice: engine #3 inlet heat on.====Anti-ice: engine #3 inlet heat on.
-STRING Anti-ice: engine #4 inlet heat on.====Anti-ice: engine #4 inlet heat on.
-STRING Anti-ice: engine #5 inlet heat on.====Anti-ice: engine #5 inlet heat on.
-STRING Anti-ice: engine #6 inlet heat on.====Anti-ice: engine #6 inlet heat on.
-STRING Anti-ice: engine #7 inlet heat on.====Anti-ice: engine #7 inlet heat on.
-STRING Anti-ice: engine #8 inlet heat on.====Anti-ice: engine #8 inlet heat on.
-STRING Anti-ice: engine #1 inlet heat off.====Anti-ice: engine #1 inlet heat off.
-STRING Anti-ice: engine #2 inlet heat off.====Anti-ice: engine #2 inlet heat off.
-STRING Anti-ice: engine #3 inlet heat off.====Anti-ice: engine #3 inlet heat off.
-STRING Anti-ice: engine #4 inlet heat off.====Anti-ice: engine #4 inlet heat off.
-STRING Anti-ice: engine #5 inlet heat off.====Anti-ice: engine #5 inlet heat off.
-STRING Anti-ice: engine #6 inlet heat off.====Anti-ice: engine #6 inlet heat off.
-STRING Anti-ice: engine #7 inlet heat off.====Anti-ice: engine #7 inlet heat off.
-STRING Anti-ice: engine #8 inlet heat off.====Anti-ice: engine #8 inlet heat off.
-STRING Anti-ice: engine #1 inlet heat toggle.====Anti-ice: engine #1 inlet heat toggle.
-STRING Anti-ice: engine #2 inlet heat toggle.====Anti-ice: engine #2 inlet heat toggle.
-STRING Anti-ice: engine #3 inlet heat toggle.====Anti-ice: engine #3 inlet heat toggle.
-STRING Anti-ice: engine #4 inlet heat toggle.====Anti-ice: engine #4 inlet heat toggle.
-STRING Anti-ice: engine #5 inlet heat toggle.====Anti-ice: engine #5 inlet heat toggle.
-STRING Anti-ice: engine #6 inlet heat toggle.====Anti-ice: engine #6 inlet heat toggle.
-STRING Anti-ice: engine #7 inlet heat toggle.====Anti-ice: engine #7 inlet heat toggle.
-STRING Anti-ice: engine #8 inlet heat toggle.====Anti-ice: engine #8 inlet heat toggle.
+STRING Anti-ice: all wing, bleed anti-ice on.====除冰: 機翼, 引氣除冰開啟.
+STRING Anti-ice: left wing, bleed anti-ice on.====除冰: 左機翼, 引氣除冰開啟.
+STRING Anti-ice: right wing, bleed anti-ice on.====除冰: 右機翼, 引氣除冰開啟.
+STRING Anti-ice: all wing, bleed anti-ice off.====除冰: 機翼, 引氣除冰關閉.
+STRING Anti-ice: left wing, bleed anti-ice off.====除冰: 左機翼, 引氣除冰關閉.
+STRING Anti-ice: right wing, bleed anti-ice off.====除冰: 右機翼, 引氣除冰關閉.
+STRING Anti-ice: all wing, bleed anti-ice toggle.====除冰: 機翼, 引氣除冰開關.
+STRING Anti-ice: left wing, bleed anti-ice toggle.====除冰: 左機翼, 引氣除冰開關.
+STRING Anti-ice: right wing, bleed anti-ice toggle.====除冰: 右機翼, 引氣除冰開關.
+STRING Anti-ice: all wing, TKS de-ice normal.====除冰: 機翼, TKS 正常除冰.
+STRING Anti-ice: left wing, TKS de-ice normal.====除冰: 左機翼, TKS 正常除冰.
+STRING Anti-ice: right wing, TKS de-ice normal.====除冰: 右機翼, TKS 正常除冰.
+STRING Anti-ice: all wing, TKS de-ice high.====除冰: 機翼, TKS 除冰檔位高.
+STRING Anti-ice: left wing, TKS de-ice high.====除冰: 左翼, TKS 除冰檔位高.
+STRING Anti-ice: right wing, TKS de-ice high.====除冰: 右機翼, TKS 除冰檔位高.
+STRING Anti-ice: all wing, TKS de-ice off.====除冰: 機翼, TKS 停止除冰.
+STRING Anti-ice: left wing, TKS de-ice off.====除冰: 左機翼, TKS 停止除冰.
+STRING Anti-ice: right wing, TKS de-ice off.====除冰: 右機翼, TKS 停止除冰.
+STRING Anti-ice: all wing, TKS de-ice toggle.====除冰: 機翼, TKS 除冰開關.
+STRING Anti-ice: left wing, TKS de-ice toggle.====除冰: 左機翼, TKS 除冰開關.
+STRING Anti-ice: right wing, TKS de-ice toggle.====除冰: 右機翼, TKS 除冰開關.
+STRING Anti-ice: all engines inlet heat on.====除冰: 所有引擎開始加熱.
+STRING Anti-ice: all engines inlet heat off.====除冰: 所有引擎停止加熱.
+STRING Anti-ice: all engines inlet heat toggle.====除冰: 所有引擎加熱開關.
+STRING Anti-ice: engine #1 inlet heat on.====除冰:  #1號引擎開始加熱.
+STRING Anti-ice: engine #2 inlet heat on.====除冰:  #2號引擎開始加熱.
+STRING Anti-ice: engine #3 inlet heat on.====除冰:  #3號引擎開始加熱.
+STRING Anti-ice: engine #4 inlet heat on.====除冰:  #4號引擎開始加熱.
+STRING Anti-ice: engine #5 inlet heat on.====除冰:  #5號引擎開始加熱.
+STRING Anti-ice: engine #6 inlet heat on.====除冰:  #6號引擎開始加熱.
+STRING Anti-ice: engine #7 inlet heat on.====除冰:  #7號引擎開始加熱.
+STRING Anti-ice: engine #8 inlet heat on.====除冰:  #8號引擎開始加熱.
+STRING Anti-ice: engine #1 inlet heat off.====除冰:  #1號引擎結束加熱.
+STRING Anti-ice: engine #2 inlet heat off.====除冰:  #2號引擎結束加熱.
+STRING Anti-ice: engine #3 inlet heat off.====除冰:  #3號引擎結束加熱.
+STRING Anti-ice: engine #4 inlet heat off.====除冰:  #4號引擎結束加熱.
+STRING Anti-ice: engine #5 inlet heat off.====除冰:  #5號引擎結束加熱.
+STRING Anti-ice: engine #6 inlet heat off.====除冰:  #6號引擎結束加熱.
+STRING Anti-ice: engine #7 inlet heat off.====除冰:  #7號引擎結束加熱.
+STRING Anti-ice: engine #8 inlet heat off.====除冰:  #8號引擎結束加熱.
+STRING Anti-ice: engine #1 inlet heat toggle.====除冰:  #1號引擎加熱開關.
+STRING Anti-ice: engine #2 inlet heat toggle.====除冰:  #2號引擎加熱開關.
+STRING Anti-ice: engine #3 inlet heat toggle.====除冰:  #3號引擎加熱開關.
+STRING Anti-ice: engine #4 inlet heat toggle.====除冰:  #4號引擎加熱開關.
+STRING Anti-ice: engine #5 inlet heat toggle.====除冰:  #5號引擎加熱開關.
+STRING Anti-ice: engine #6 inlet heat toggle.====除冰:  #6號引擎加熱開關.
+STRING Anti-ice: engine #7 inlet heat toggle.====除冰:  #7號引擎加熱開關.
+STRING Anti-ice: engine #8 inlet heat toggle.====除冰:  #8號引擎加熱開關.
 STRING Anti-ice: engine #1 anti-ice on.====Anti-ice: engine #1 anti-ice on.
 STRING Anti-ice: engine #2 anti-ice on.====Anti-ice: engine #2 anti-ice on.
 STRING Anti-ice: engine #3 anti-ice on.====Anti-ice: engine #3 anti-ice on.
@@ -4158,96 +4158,98 @@ STRING Anti-ice: engine #6 prop TKS toggle.====Anti-ice: engine #6 prop TKS togg
 STRING Anti-ice: engine #7 prop TKS toggle.====Anti-ice: engine #7 prop TKS toggle.
 STRING Anti-ice: engine #8 prop TKS toggle.====Anti-ice: engine #8 prop TKS toggle.
 STRING Oxygen====氧氣
-STRING Crew oxygen: master valve open/on.====Crew oxygen: master valve open/on.
-STRING Crew oxygen: master valve closed/off.====Crew oxygen: master valve closed/off.
-STRING Crew oxygen: master valve toggle====Crew oxygen: master valve toggle
-STRING Crew oxygen: demand regulator up.====Crew oxygen: demand regulator up.
-STRING Crew oxygen: demand regulator down.====Crew oxygen: demand regulator down.
-STRING Passenger oxygen: drop masks.====Passenger oxygen: drop masks.
-STRING Door #1 open.====Door #1 open.
-STRING Door #2 open.====Door #2 open.
-STRING Door #3 open.====Door #3 open.
-STRING Door #4 open.====Door #4 open.
-STRING Door #5 open.====Door #5 open.
-STRING Door #6 open.====Door #6 open.
-STRING Door #7 open.====Door #7 open.
-STRING Door #8 open.====Door #8 open.
-STRING Door #9 open.====Door #9 open.
-STRING Door #10 open.====Door #10 open.
-STRING Door #1 close.====Door #1 close.
-STRING Door #2 close.====Door #2 close.
-STRING Door #3 close.====Door #3 close.
-STRING Door #4 close.====Door #4 close.
-STRING Door #5 close.====Door #5 close.
-STRING Door #6 close.====Door #6 close.
-STRING Door #7 close.====Door #7 close.
-STRING Door #8 close.====Door #8 close.
-STRING Door #9 close.====Door #9 close.
-STRING Door #10 close.====Door #10 close.
-STRING Winch faster. (for gliders).====Winch faster. (for gliders).
-STRING Winch slower. (for gliders).====Winch slower. (for gliders).
-STRING Monitor audio: COM auto (same as transmit) toggle.====Monitor audio: COM auto (same as transmit) toggle.
-STRING Monitor audio: COM1 toggle.====Monitor audio: COM1 toggle.
-STRING Monitor audio: COM2 toggle.====Monitor audio: COM2 toggle.
-STRING Monitor audio: NAV1 toggle.====Monitor audio: NAV1 toggle.
-STRING Monitor audio: NAV2 toggle.====Monitor audio: NAV2 toggle.
-STRING Monitor audio: ADF1 toggle.====Monitor audio: ADF1 toggle.
-STRING Monitor audio: ADF2 toggle.====Monitor audio: ADF2 toggle.
-STRING Monitor audio: DME toggle.====Monitor audio: DME toggle.
-STRING Monitor audio: MKR toggle.====Monitor audio: MKR toggle.
-STRING Transmit audio: COM1 - old panel, doesn't change listener.====Transmit audio: COM1 - old panel, doesn't change listener.
-STRING Transmit audio: COM2 - old panel, doesn't change listener.====Transmit audio: COM2 - old panel, doesn't change listener.
-STRING Monitor audio: COM auto (same as transmit) off.====Monitor audio: COM auto (same as transmit) off.
-STRING Monitor audio: COM1 off.====Monitor audio: COM1 off.
-STRING Monitor audio: COM2 off.====Monitor audio: COM2 off.
-STRING Monitor audio: NAV1 off.====Monitor audio: NAV1 off.
-STRING Monitor audio: NAV2 off.====Monitor audio: NAV2 off.
-STRING Monitor audio: ADF1 off.====Monitor audio: ADF1 off.
-STRING Monitor audio: ADF2 off.====Monitor audio: ADF2 off.
-STRING Monitor audio: DME off.====Monitor audio: DME off.
-STRING Monitor audio: MKR off.====Monitor audio: MKR off.
-STRING Monitor audio: COM auto (same as transmit) on.====Monitor audio: COM auto (same as transmit) on.
-STRING Monitor audio: COM1 on.====Monitor audio: COM1 on.
-STRING Monitor audio: COM2 on.====Monitor audio: COM2 on.
-STRING Monitor audio: NAV1 on.====Monitor audio: NAV1 on.
-STRING Monitor audio: NAV2 on.====Monitor audio: NAV2 on.
-STRING Monitor audio: ADF1 on.====Monitor audio: ADF1 on.
-STRING Monitor audio: ADF2 on.====Monitor audio: ADF2 on.
-STRING Monitor audio: DME on.====Monitor audio: DME on.
-STRING Monitor audio: MKR on.====Monitor audio: MKR on.
+STRING Crew oxygen: master valve open/on.====機組人員用氧氣: 主閥門開啟/開啟.
+STRING Crew oxygen: master valve closed/off.====機組人員用氧氣: 主閥門關閉/關閉.
+STRING Crew oxygen: master valve toggle====機組人員用氧氣: 主閥門開關
+STRING Crew oxygen: demand regulator up.====機組人員用氧氣: 請求上升.
+STRING Crew oxygen: demand regulator down.====機組人員用氧氣: 請求下降.
+STRING Passenger oxygen: drop masks.====乘客用氧氣: 氧氣面罩下落.
+STRING Door #1 open.==== #1號門開啟.
+STRING Door #2 open.==== #2號門開啟.
+STRING Door #3 open.==== #3號門開啟.
+STRING Door #4 open.==== #4號門開啟.
+STRING Door #5 open.==== #5號門開啟.
+STRING Door #6 open.==== #6號門開啟.
+STRING Door #7 open.==== #7號門開啟.
+STRING Door #8 open.==== #8號門開啟.
+STRING Door #9 open.==== #9號門開啟.
+STRING Door #10 open.==== #10號門開啟.
+STRING Door #1 close.==== #1號門關閉.
+STRING Door #2 close.==== #2號門關閉.
+STRING Door #3 close.==== #3號門關閉.
+STRING Door #4 close.==== #4號門關閉.
+STRING Door #5 close.==== #5號門關閉.
+STRING Door #6 close.==== #6號門關閉.
+STRING Door #7 close.==== #7號門關閉.
+STRING Door #8 close.==== #8號門關閉.
+STRING Door #9 close.==== #9號門關閉.
+STRING Door #10 close.==== #10號門關閉.
+STRING Winch faster. (for gliders).====哪個更快. (用於滑翔機).
+STRING Winch slower. (for gliders).====哪個更慢. (用於滑翔機).
+STRING Runway Takeoff====從跑道起飛
+STRING This is the “%1:special start name%” special start.====這是一個 “%1:special start name%” 特殊開始.
+STRING Monitor audio: COM auto (same as transmit) toggle.====監聽音頻: COM 自動 (與傳輸相同) 開關.
+STRING Monitor audio: COM1 toggle.====監聽音頻: COM1 開關.
+STRING Monitor audio: COM2 toggle.====監聽音頻: COM2 開關.
+STRING Monitor audio: NAV1 toggle.====監聽音頻: NAV1 開關.
+STRING Monitor audio: NAV2 toggle.====監聽音頻: NAV2 開關.
+STRING Monitor audio: ADF1 toggle.====監聽音頻: ADF1 開關.
+STRING Monitor audio: ADF2 toggle.====監聽音頻: ADF2 開關.
+STRING Monitor audio: DME toggle.====監聽音頻: DME 開關.
+STRING Monitor audio: MKR toggle.====監聽音頻: MKR 開關.
+STRING Transmit audio: COM1 - old panel, doesn't change listener.====傳輸音頻: COM1 - 舊面板, 不改變聽眾.
+STRING Transmit audio: COM2 - old panel, doesn't change listener.====傳輸音頻: COM2 - 舊面板, 不改變聽眾.
+STRING Monitor audio: COM auto (same as transmit) off.====監聽音頻: COM 自動 (與傳輸相同) 關.
+STRING Monitor audio: COM1 off.====監聽音頻: COM1 關.
+STRING Monitor audio: COM2 off.====監聽音頻: COM2 關.
+STRING Monitor audio: NAV1 off.====監聽音頻: NAV1 關.
+STRING Monitor audio: NAV2 off.====監聽音頻: NAV2 關.
+STRING Monitor audio: ADF1 off.====監聽音頻: ADF1 關.
+STRING Monitor audio: ADF2 off.====監聽音頻: ADF2 關.
+STRING Monitor audio: DME off.====監聽音頻: DME 關.
+STRING Monitor audio: MKR off.====監聽音頻: MKR 關.
+STRING Monitor audio: COM auto (same as transmit) on.====監聽音頻: COM 自動 (與傳輸相同) 開啟.
+STRING Monitor audio: COM1 on.====監聽音頻: COM1 開.
+STRING Monitor audio: COM2 on.====監聽音頻: COM2 開.
+STRING Monitor audio: NAV1 on.====監聽音頻: NAV1 開.
+STRING Monitor audio: NAV2 on.====監聽音頻: NAV2 開.
+STRING Monitor audio: ADF1 on.====監聽音頻: ADF1 開.
+STRING Monitor audio: ADF2 on.====監聽音頻: ADF2 開.
+STRING Monitor audio: DME on.====監聽音頻: DME 開.
+STRING Monitor audio: MKR on.====監聽音頻: MKR 開.
 STRING OBS HSI direct course.====OBS HSI direct course.
-STRING Copilot OBS HSI direct course.====Copilot OBS HSI direct course.
-STRING Change autopilot instrument source, 0 or 1====Change autopilot instrument source, 0 or 1
-STRING Flight director 2 on.====Flight director 2 on.
-STRING Flight director 2 toggle.====Flight director 2 toggle.
-STRING Servos 2 on.====Servos 2 on.
-STRING Servos 2 toggle.====Servos 2 toggle.
-STRING Flight director 2 down (on/FDIR/off).====Flight director 2 down (on/FDIR/off).
-STRING Flight director 2 up (off/FDIR/on).====Flight director 2 up (off/FDIR/on).
+STRING Copilot OBS HSI direct course.====副機長 OBS HSI 直接路線.
+STRING Change autopilot instrument source, 0 or 1====改變自動駕駛儀表數據源, 0 or 1
+STRING Flight director 2 on.====Flight director 2 開.
+STRING Flight director 2 toggle.====Flight director 2 開關.
+STRING Servos 2 on.====Servos 2 開.
+STRING Servos 2 toggle.====Servos 2 開關.
+STRING Flight director 2 down (on/FDIR/off).====Flight director 2 下 (開/FDIR/關).
+STRING Flight director 2 up (off/FDIR/on).====Flight director 2 上 (關/FDIR/開).
 STRING Disco servos 2, flt dir 2.====Disco servos 2, flt dir 2.
-STRING CWS A - Control wheel steering mode AP A.====CWS A - Control wheel steering mode AP A.
-STRING CWS B - Control wheel steering mode AP B.====CWS B - Control wheel steering mode AP B.
-STRING Servos 3 on.====Servos 3 on.
-STRING Servos 3 toggle.====Servos 3 toggle.
+STRING CWS A - Control wheel steering mode AP A.====CWS A - 控制起落架轉向模式 AP A.
+STRING CWS B - Control wheel steering mode AP B.====CWS B - 控制起落架轉向模式 AP B.
+STRING Servos 3 on.====Servos 3 開.
+STRING Servos 3 toggle.====Servos 3 開關.
 STRING Disco servos 3.====Disco servos 3.
 STRING Disco servos, which ever side is active.====Disco servos, which ever side is active.
 STRING Disco servos and yaw damp, any side.====Disco servos and yaw damp, any side.
 STRING Disco servos, yaw damp and trim any side.====Disco servos, yaw damp and trim any side.
-STRING Autopilot auto-throttle speed-hold on.====Autopilot auto-throttle speed-hold on.
-STRING Autopilot auto-throttle all modes off.====Autopilot auto-throttle all modes off.
-STRING Autopilot auto-throttle speed toggle.====Autopilot auto-throttle speed toggle.
-STRING Autopilot auto-throttle EPR/N1 hold on.====Autopilot auto-throttle EPR/N1 hold on.
-STRING Autopilot auto-throttle EPR/N1 hold toggle.====Autopilot auto-throttle EPR/N1 hold toggle.
-STRING Autopilot track.====Autopilot track.
+STRING Autopilot auto-throttle speed-hold on.====自動駕駛自動油門保持速度開啟。
+STRING Autopilot auto-throttle all modes off.====自動駕駛自動油門所有模式關閉。
+STRING Autopilot auto-throttle speed toggle.====自動駕駛自動油門速度開關。
+STRING Autopilot auto-throttle EPR/N1 hold on.====自動駕駛自動油門 EPR/N1 保持開啟.
+STRING Autopilot auto-throttle EPR/N1 hold toggle.====自動駕駛自動油門 EPR/N1 保持開關.
+STRING Autopilot track.====自動駕駛軌道。
 STRING Autopilot wing-level / roll hold.====Autopilot wing-level / roll hold.
 STRING Autopilot wing-level / rate hold.====Autopilot wing-level / rate hold.
 STRING Autopilot heading select and NAV arm.====Autopilot heading select and NAV arm.
-STRING Autopilot flight path angle, current FPA.====Autopilot flight path angle, current FPA.
-STRING Autopilot GPS Climb.====Autopilot GPS Climb.
-STRING Autopilot GPS Descend.====Autopilot GPS Descend.
-STRING Autopilot TRK/FPA vs HDG/VS toggle.====Autopilot TRK/FPA vs HDG/VS toggle.
-STRING Autopilot override center: Go to ROL mode, 0 turn rate roll angle.====Autopilot override center: Go to ROL mode, 0 turn rate roll angle.
-STRING vacuum DG sync to magnetic north.====vacuum DG sync to magnetic north.
+STRING Autopilot flight path angle, current FPA.====自動駕駛飛行路徑角, 當前 FPA.
+STRING Autopilot GPS Climb.====自動駕駛GPS爬升。
+STRING Autopilot GPS Descend.====自動駕駛GPS下降。
+STRING Autopilot TRK/FPA vs HDG/VS toggle.====自動駕駛 TRK/FPA vs HDG/VS 開關。
+STRING Autopilot override center: Go to ROL mode, 0 turn rate roll angle.====自動駕駛替代中心：轉到ROL模式，0轉率滾動角度。
+STRING vacuum DG sync to magnetic north.====真空DG同步到磁北。
 STRING Attitude vacuum gyro fast erect.====Attitude vacuum gyro fast erect.
 STRING Attitude vacuum gyro cage toggle.====Attitude vacuum gyro cage toggle.
 STRING Attitude vacuum gyro fast erect, copilot.====Attitude vacuum gyro fast erect, copilot.
@@ -4260,20 +4262,20 @@ STRING Minimum descend alt reference down.====Minimum descend alt reference down
 STRING Minimum descend alt reference up.====Minimum descend alt reference up.
 STRING Minimum descend alt reference copilot down.====Minimum descend alt reference copilot down.
 STRING Minimum descend alt reference copilot up.====Minimum descend alt reference copilot up.
-STRING Cancel altitude alert (preselector).====Cancel altitude alert (preselector).
-STRING Cancel MDA alert.====Cancel MDA alert.
+STRING Cancel altitude alert (preselector).====取消高度警報 (預選擇者).
+STRING Cancel MDA alert.====Cancel MDA 警報.
 STRING G430/530 #1 (pilot)====G430/530 #1 (pilot)
 STRING GNS COM/NAV 1 coarse down.====GNS COM/NAV 1 coarse down.
 STRING GNS COM/NAV 1 coarse up.====GNS COM/NAV 1 coarse up.
 STRING GNS COM/NAV 1 fine down.====GNS COM/NAV 1 fine down.
 STRING GNS COM/NAV 1 fine up.====GNS COM/NAV 1 fine up.
-STRING GNS NAV 1 chapter up.====GNS NAV 1 chapter up.
-STRING GNS NAV 1 chapter dn.====GNS NAV 1 chapter dn.
-STRING GNS NAV 1 page up.====GNS NAV 1 page up.
-STRING GNS NAV 1 page dn.====GNS NAV 1 page dn.
-STRING GNS NAV 1 zoom in.====GNS NAV 1 zoom in.
-STRING GNS NAV 1 zoom out.====GNS NAV 1 zoom out.
-STRING GNS NAV 1 NAV COM toggle.====GNS NAV 1 NAV COM toggle.
+STRING GNS NAV 1 chapter up.====GNS NAV 1 上章.
+STRING GNS NAV 1 chapter dn.====GNS NAV 1 下章.
+STRING GNS NAV 1 page up.====GNS NAV 1 上頁.
+STRING GNS NAV 1 page dn.====GNS NAV 1 下頁.
+STRING GNS NAV 1 zoom in.====GNS NAV 1 放大.
+STRING GNS NAV 1 zoom out.====GNS NAV 1 縮小.
+STRING GNS NAV 1 NAV COM toggle.====GNS NAV 1 NAV COM 開關.
 STRING GNS NAV 1 CDI.====GNS NAV 1 CDI.
 STRING GNS NAV 1 OBS.====GNS NAV 1 OBS.
 STRING GNS NAV 1 MSG.====GNS NAV 1 MSG.
@@ -4286,27 +4288,27 @@ STRING GNS NAV 1 CLR.====GNS NAV 1 CLR.
 STRING GNS NAV 1 ENT.====GNS NAV 1 ENT.
 STRING GNS NAV 1 COM flip flop.====GNS NAV 1 COM flip flop.
 STRING GNS NAV 1 NAV flip flop.====GNS NAV 1 NAV flip flop.
-STRING GNS NAV 1 push cursor.====GNS NAV 1 push cursor.
-STRING GNS NAV 1 pop out window.====GNS NAV 1 pop out window.
-STRING GNS NAV 1 toggle popup.====GNS NAV 1 toggle popup.
+STRING GNS NAV 1 push cursor.====GNS NAV 1 推光標.
+STRING GNS NAV 1 pop out window.====GNS NAV 1 彈出視窗.
+STRING GNS NAV 1 toggle popup.====GNS NAV 1 彈出開關.
 STRING GNS NAV 1 COM audio.====GNS NAV 1 COM audio.
 STRING GNS NAV 1 NAV ID====GNS NAV 1 NAV ID
-STRING GNS NAV 1 COM audio volume up.====GNS NAV 1 COM audio volume up.
-STRING GNS NAV 1 COM audio volume down.====GNS NAV 1 COM audio volume down.
-STRING GNS NAV 1 NAV audio volume up.====GNS NAV 1 NAV audio volume up.
-STRING GNS NAV 1 NAV audio volume down.====GNS NAV 1 NAV audio volume down.
-STRING G430/530 #2 (copilot)====G430/530 #2 (copilot)
+STRING GNS NAV 1 COM audio volume up.====GNS NAV 1 COM 聲音調大.
+STRING GNS NAV 1 COM audio volume down.====GNS NAV 1 COM 聲音調小.
+STRING GNS NAV 1 NAV audio volume up.====GNS NAV 1 NAV 聲音調大.
+STRING GNS NAV 1 NAV audio volume down.====GNS NAV 1 NAV 聲音調小.
+STRING G430/530 #2 (copilot)====G430/530 #2 (副駕駛)
 STRING GNS COM/NAV 2 coarse down.====GNS COM/NAV 2 coarse down.
 STRING GNS COM/NAV 2 coarse up.====GNS COM/NAV 2 coarse up.
 STRING GNS COM/NAV 2 fine down.====GNS COM/NAV 2 fine down.
 STRING GNS COM/NAV 2 fine up.====GNS COM/NAV 2 fine up.
-STRING GNS NAV 2 chapter up.====GNS NAV 2 chapter up.
-STRING GNS NAV 2 chapter dn.====GNS NAV 2 chapter dn.
-STRING GNS NAV 2 page up.====GNS NAV 2 page up.
-STRING GNS NAV 2 page dn.====GNS NAV 2 page dn.
-STRING GNS NAV 2 zoom in.====GNS NAV 2 zoom in.
-STRING GNS NAV 2 zoom out.====GNS NAV 2 zoom out.
-STRING GNS NAV 2 NAV COM toggle.====GNS NAV 2 NAV COM toggle.
+STRING GNS NAV 2 chapter up.====GNS NAV 2 上章.
+STRING GNS NAV 2 chapter dn.====GNS NAV 2 下章.
+STRING GNS NAV 2 page up.====GNS NAV 2 上頁.
+STRING GNS NAV 2 page dn.====GNS NAV 2 下頁.
+STRING GNS NAV 2 zoom in.====GNS NAV 2 放大.
+STRING GNS NAV 2 zoom out.====GNS NAV 2 縮小.
+STRING GNS NAV 2 NAV COM toggle.====GNS NAV 2 NAV COM 開關.
 STRING GNS NAV 2 CDI.====GNS NAV 2 CDI.
 STRING GNS NAV 2 OBS.====GNS NAV 2 OBS.
 STRING GNS NAV 2 MSG.====GNS NAV 2 MSG.
@@ -4319,34 +4321,34 @@ STRING GNS NAV 2 CLR.====GNS NAV 2 CLR.
 STRING GNS NAV 2 ENT.====GNS NAV 2 ENT.
 STRING GNS NAV 2 COM FF.====GNS NAV 2 COM FF.
 STRING GNS NAV 2 NAV FF.====GNS NAV 2 NAV FF.
-STRING GNS NAV 2 push cursor.====GNS NAV 2 push cursor.
-STRING GNS NAV 2 pop out window.====GNS NAV 2 pop out window.
-STRING GNS NAV 2 toggle popup.====GNS NAV 2 toggle popup.
+STRING GNS NAV 2 push cursor.====GNS NAV 2 推光標.
+STRING GNS NAV 2 pop out window.====GNS NAV 2 彈出視窗.
+STRING GNS NAV 2 toggle popup.====GNS NAV 2 彈出開關.
 STRING GNS NAV 2 COM audio.====GNS NAV 2 COM audio.
 STRING GNS NAV 2 NAV ID====GNS NAV 2 NAV ID
-STRING GNS NAV 2 COM audio volume up.====GNS NAV 2 COM audio volume up.
-STRING GNS NAV 2 COM audio volume down.====GNS NAV 2 COM audio volume down.
-STRING GNS NAV 2 NAV audio volume up.====GNS NAV 2 NAV audio volume up.
-STRING GNS NAV 2 NAV audio volume down.====GNS NAV 2 NAV audio volume down.
-STRING G1000 pilot NAV audio volume up.====G1000 pilot NAV audio volume up.
-STRING G1000 pilot NAV audio volume down.====G1000 pilot NAV audio volume down.
-STRING G1000 pilot AP VNAV.====G1000 pilot AP VNAV.
-STRING G1000 pilot COM audio.====G1000 pilot COM audio.
-STRING G1000 pilot COM audio volume up.====G1000 pilot COM audio volume up.
-STRING G1000 pilot COM audio volume down.====G1000 pilot COM audio volume down.
-STRING G1000 pilot COM flip flop.====G1000 pilot COM flip flop.
-STRING G1000 pilot COM outer ring tune up.====G1000 pilot COM outer ring tune up.
-STRING G1000 pilot COM outer ring tune down.====G1000 pilot COM outer ring tune down.
-STRING G1000 pilot COM inner ring tune up.====G1000 pilot COM inner ring tune up.
-STRING G1000 pilot COM inner ring tune down.====G1000 pilot COM inner ring tune down.
-STRING G1000 MFD NAV audio volume up.====G1000 MFD NAV audio volume up.
-STRING G1000 MFD NAV audio volume down.====G1000 MFD NAV audio volume down.
-STRING G1000 MFD COM audio volume up.====G1000 MFD COM audio volume up.
-STRING G1000 MFD COM audio volume down.====G1000 MFD COM audio volume down.
-STRING G1000 copilot NAV audio volume up.====G1000 copilot NAV audio volume up.
-STRING G1000 copilot NAV audio volume down.====G1000 copilot NAV audio volume down.
-STRING G1000 copilot COM audio volume up.====G1000 copilot COM audio volume up.
-STRING G1000 copilot COM audio volume down.====G1000 copilot COM audio volume down.
+STRING GNS NAV 2 COM audio volume up.====GNS NAV 2 COM 聲音調大.
+STRING GNS NAV 2 COM audio volume down.====GNS NAV 2 COM 聲音調小.
+STRING GNS NAV 2 NAV audio volume up.====GNS NAV 2 NAV 聲音調大.
+STRING GNS NAV 2 NAV audio volume down.====GNS NAV 2 NAV 聲音調小.
+STRING G1000 pilot NAV audio volume up.====G1000 機長 NAV 聲音調大.
+STRING G1000 pilot NAV audio volume down.====G1000 機長 NAV 聲音調小.
+STRING G1000 pilot AP VNAV.====G1000 機長 AP VNAV.
+STRING G1000 pilot COM audio.====G1000 機長 COM audio.
+STRING G1000 pilot COM audio volume up.====G1000 機長 COM 聲音調大.
+STRING G1000 pilot COM audio volume down.====G1000 機長 COM 聲音調小.
+STRING G1000 pilot COM flip flop.====G1000 機長 COM flip flop.
+STRING G1000 pilot COM outer ring tune up.====G1000 機長 COM 外環升高.
+STRING G1000 pilot COM outer ring tune down.====G1000 機長 COM 外環調低.
+STRING G1000 pilot COM inner ring tune up.====G1000 機長 COM 內環升高.
+STRING G1000 pilot COM inner ring tune down.====G1000 機長 COM 內環調低.
+STRING G1000 MFD NAV audio volume up.====G1000 MFD NAV 聲音調大.
+STRING G1000 MFD NAV audio volume down.====G1000 MFD NAV 聲音調小.
+STRING G1000 MFD COM audio volume up.====G1000 MFD COM 聲音調大.
+STRING G1000 MFD COM audio volume down.====G1000 MFD COM 聲音調小.
+STRING G1000 copilot NAV audio volume up.====G1000 副機長 NAV 聲音調大.
+STRING G1000 copilot NAV audio volume down.====G1000 副機長 NAV 聲音調小.
+STRING G1000 copilot COM audio volume up.====G1000 副機長 COM 聲音調大.
+STRING G1000 copilot COM audio volume down.====G1000 副機長 COM 聲音調小.
 STRING GCU====GCU
 STRING GCU: A====GCU: A
 STRING GCU: B====GCU: B
