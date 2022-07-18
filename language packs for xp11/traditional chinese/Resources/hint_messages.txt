@@ -112,5 +112,5 @@
 
 1. 有興趣讓 X-Plane ATC 發音更好嗎？訪問 x-plane.com/improve-atc/ 獲取說明。
 
-1. 歡迎加入我們的團隊 網址：https://github.com/ElliotFromTAIWAN/language-packs-for-xp11 開發者主頁：https://forums.x-plane.org/index.php?/profile/1156039-elliot-chen/ 感謝@Pilot LISA為這個團隊的付出 @Pilot LISA的主頁：https://forums.x-plane.org/index.php?/profile/1124501-pilot-lisa/
+1. 歡迎加入我們的翻譯團隊 網址：https://github.com/ElliotFromTAIWAN/language-packs-for-xp11
 
