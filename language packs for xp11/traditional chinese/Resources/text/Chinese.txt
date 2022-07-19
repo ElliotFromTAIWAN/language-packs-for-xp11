@@ -2920,7 +2920,7 @@ STRING For commercial use, see x-plane.com/pro/.====如需用作商業用途，�
 STRING Report violations to austin@x-plane.com.====如有違規行為，請聯系austin@x-plane.com進行反饋。繁體中文由@ElliotCHEN翻譯
 STRING DID YOU KNOW...====你知道嗎？
 STRING This is %1:version name% for Pro Use.====此版本為%1:version name%，用於專業用途
-STRING This is %1:version name%, for home use only.====此版本為%1:version name%，繁體中文翻譯版本V1.0
+STRING This is %1:version name%, for home use only.====此版本為%1:version name%，繁體中文翻譯版本V1.1
 STRING Quit X-Plane====退出X-Plane
 STRING Save Flight====保存飛行
 STRING Load Saved Flight====加載已保存的飛行
