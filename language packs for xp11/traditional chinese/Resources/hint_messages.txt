@@ -2,9 +2,9 @@
 
 1. 您可以在免費的 iOS 應用 Xavion 上記錄真實飛機上的飛行，並在 X-Plane 11 中回放。
 
-1. 繁體中文由@Elliot CHEN提供，韓語由@Pilot LISA提供。
+1. 繁體中文由@Elliot CHEN提供，繁體中文翻譯包版本V1.1
 
-1. 向在這裡看到你的名字？那就加入我們吧！https://github.com/ElliotFromTAIWAN/language-packs-for-xp11
+1. 想在這裡看到你的名字？那就加入我們吧！https://github.com/ElliotFromTAIWAN/language-packs-for-xp11
 
 1. 有數千種免費的第 3 方飛機、風景和其他 X-Plane 增強功能。只需在線搜索“X-Plane 免費飛機”或“X-Plane 免費地景”或“X-Plane 免費插件”。
 
