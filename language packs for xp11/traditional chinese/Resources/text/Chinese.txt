@@ -2,9 +2,15 @@ A
 900
 TRANSLATION
 
+STRING Overcast====陰天
+STRING Since you’ve selected “%1:weather editing mode%,” X-Plane will periodically check the internet for real-world weather reports, and update the weather in the simulator to match those conditions.====由於您選擇了“%1:weather editing mode%”，X-Plane 將定期檢查互聯網以獲取真實世界的天氣報告，並更新模擬器中的天氣以匹配這些條件。
+STRING To edit the weather, select “%1:suggested mode%” from the Weather Mode dropdown.====如果需要編輯天氣, 選擇天氣模式下拉菜單中的 “%1:suggested mode%” 。
+STRING %1:altitude% ft MSL (%2:airport% ground level)====%1:altitude% ft MSL (%2:airport% 地面等級)
+STRING Ramp Start====Ramp Start
+STRING Clicking “Reset All Keyboard Configuration” below will undo any key bindings you have made and reconfigure X-Plane to use the %1:keyboard layout name% keyboard shortcuts.\n\nIf this was not your intention, click Cancel.====Clicking “Reset All Keyboard Configuration” below will undo any key bindings you have made and reconfigure X-Plane to use the %1:keyboard layout name% keyboard shortcuts.\n\nIf this was not your intention, click Cancel.
 STRING 使用X-Plane的Control Pad控制天氣、製造飛機故障等。它是Apple App Store的免費應用程序，可讓您在不暫停模擬的情況下控制X-Plane。====使用X-Plane的Control Pad控制天氣、製造飛機故障等。它是Apple App Store的免費應用程序，可讓您在不暫停模擬的情況下控制X-Plane。
 STRING 您可以在免費的 iOS 應用 Xavion 上記錄真實飛機上的飛行，並在 X-Plane 11 中回放。====您可以在免費的 iOS 應用 Xavion 上記錄真實飛機上的飛行，並在 X-Plane 11 中回放。
-STRING 繁體中文由@Elliot CHEN提供，繁體中文翻譯包版本V1.1====繁體中文由@Elliot CHEN提供，繁體中文翻譯包版本V1.2
+STRING 繁體中文由@Elliot CHEN提供，繁體中文翻譯包版本V1.1====繁體中文由@Elliot CHEN提供，繁體中文翻譯包版本V1.3
 STRING 想在這裡看到你的名字？那就加入我們吧！https://github.com/ElliotFromTAIWAN/language-packs-for-xp11====想在這裡看到你的名字？那就加入我們吧！https://github.com/ElliotFromTAIWAN/language-packs-for-xp11
 STRING 有數千種免費的第 3 方飛機、風景和其他 X-Plane 增強功能。只需在線搜索“X-Plane 免費飛機”或“X-Plane 免費地景”或“X-Plane 免費插件”。====有數千種免費的第 3 方飛機、風景和其他 X-Plane 增強功能。只需在線搜索“X-Plane 免費飛機”或“X-Plane 免費地景”或“X-Plane 免費插件”。
 STRING 您可以通過選中設置下的數據輸入和輸出屏幕中的第一個框來顯示幀速率。這使您可以微調模擬器的性能。====您可以通過選中設置下的數據輸入和輸出屏幕中的第一個框來顯示幀速率。這使您可以微調模擬器的性能。
@@ -3010,7 +3016,7 @@ STRING TESTING & DOCUMENTATION====測試和文檔
 STRING INSTRUMENT APPROACH DATA====儀表降落數據
 STRING LEGAL====經典
 STRING X-Plane uses free airspace data from SoaringWeb.com====X-PLANE使用來自SoaringWeb.com的免費空域數據
-STRING X-Plane uses FreeType to render fonts. See FreeType.org for more information.====X-Plane使用免費的渲染字體，詳情請見FreeType.org
+STRING X-Plane uses FreeType to render fonts. See FreeType.org for more information.====X-Plane使用免費的渲染字體，詳情請見FreeType.org。繁體中文由@ElliotCHEN翻譯
 STRING Privacy Policy====隱私政策
 STRING Copyright & Licensing====版權和許可
 STRING %1:airport identifier%, %2:runway name%====%1:airport identifier%， %2:runway name%
@@ -3064,7 +3070,7 @@ STRING For commercial use, see x-plane.com/pro/.====如需用作商業用途，�
 STRING Report violations to austin@x-plane.com.====如有違規行為，請聯系austin@x-plane.com進行反饋。繁體中文由@ElliotCHEN翻譯
 STRING DID YOU KNOW...====你知道嗎？
 STRING This is %1:version name% for Pro Use.====此版本為%1:version name%，用於專業用途
-STRING This is %1:version name%, for home use only.====此版本為%1:version name%，繁體中文翻譯版本V1.2
+STRING This is %1:version name%, for home use only.====此版本為%1:version name%，繁體中文翻譯版本V1.3
 STRING Quit X-Plane====退出X-Plane
 STRING Save Flight====保存飛行
 STRING Load Saved Flight====加載已保存的飛行
