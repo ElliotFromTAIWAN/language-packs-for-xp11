@@ -2,6 +2,7 @@ A
 900
 TRANSLATION
 
+STRING Select an aircraft to open:====選擇一個需要開啟的飛行器: 
 STRING Overcast====陰天
 STRING Since you’ve selected “%1:weather editing mode%,” X-Plane will periodically check the internet for real-world weather reports, and update the weather in the simulator to match those conditions.====由於您選擇了“%1:weather editing mode%”，X-Plane 將定期檢查互聯網以獲取真實世界的天氣報告，並更新模擬器中的天氣以匹配這些條件。
 STRING To edit the weather, select “%1:suggested mode%” from the Weather Mode dropdown.====如果需要編輯天氣, 選擇天氣模式下拉菜單中的 “%1:suggested mode%” 。
